@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="charset_array">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Kínai (GBK)</item>
+        <item>Kínai (Big5)</item>
+        <item>Japán (ISO-2022-JP)</item>
+        <item>Japán (SHIFT_JIS)</item>
+        <item>Japán (EUC-JP)</item>
+        <item>Koreai (EUC-KR)</item>
+    </string-array>
+</resources>

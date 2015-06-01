@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="drive_fast_scroll_time_grouper_n_days_ago">
+        <item quantity="other">%d napja</item>
+        <item quantity="one">%d napja</item>
+    </plurals>
+    <plurals name="drive_fast_scroll_time_grouper_n_weeks_ago">
+        <item quantity="other">%d hete</item>
+        <item quantity="one">%d hete</item>
+    </plurals>
+    <plurals name="wallet_minutes">
+        <item quantity="other">perc</item>
+        <item quantity="one">perc</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year">
+        <item quantity="other">Számláját automatikusan megterheljük &lt;price>%1$s összeggel %2$d évente&lt;/price> a következő időponttól kezdve: &lt;start_time>%3$s&lt;/start_time>, amíg le nem mondja az előfizetését.</item>
+        <item quantity="one">Számláját automatikusan megterheljük &lt;price>%1$s összeggel minden évben&lt;/price> a következő időponttól kezdve: &lt;start_time>%3$s&lt;/start_time>, amíg le nem mondja az előfizetését.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="other">Számláját automatikusan megterheljük &lt;price>%1$s + a vonatkozó adó összegével minden %2$d. évben&lt;/price> a következő időponttól kezdve: &lt;start_time>%3$s&lt;/start_time>, amíg le nem mondja az előfizetését.</item>
+        <item quantity="one">Számláját automatikusan megterheljük &lt;price>%1$s + a vonatkozó adó összegével minden évben&lt;/price> a következő időponttól kezdve: &lt;start_time>%3$s&lt;/start_time>, amíg le nem mondja az előfizetését.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="other">Számláját automatikusan megterheljük &lt;price>%1$s összeggel %2$d évente&lt;/price>, a következő &lt;duration>%3$d évben&lt;/duration> (ekkortól kezdve: &lt;start_time>%4$s&lt;/start_time>).</item>
+        <item quantity="one">Számláját automatikusan megterheljük &lt;price>%1$s összeggel évente&lt;/price>, a következő &lt;duration>%3$d évben&lt;/duration> (ekkortól kezdve: &lt;start_time>%4$s&lt;/start_time>).</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="other">Számláját automatikusan megterheljük &lt;price>%1$s + a vonatkozó adó összegével %2$d évente&lt;/price>, a következő &lt;duration>%3$d évben&lt;/duration> (ekkortól kezdve: &lt;start_time>%4$s&lt;/start_time>).</item>
+        <item quantity="one">Számláját automatikusan megterheljük &lt;price>%1$s + a vonatkozó adó összegével évente&lt;/price>, a következő &lt;duration>%3$d évben&lt;/duration> (ekkortól kezdve: &lt;start_time>%4$s&lt;/start_time>).</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month">
+        <item quantity="other">Számláját automatikusan megterheljük &lt;price>%1$s összeggel %2$d havonta&lt;/price> a következő időponttól kezdve: &lt;start_time>%3$s&lt;/start_time>, amíg le nem mondja az előfizetését.</item>
+        <item quantity="one">Számláját automatikusan megterheljük &lt;price>%1$s összeggel minden hónapban&lt;/price> a következő időponttól kezdve: &lt;start_time>%3$s&lt;/start_time>, amíg le nem mondja az előfizetését.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="other">Számláját automatikusan megterheljük &lt;price>%1$s + a vonatkozó adó összegével %2$d havonta&lt;/price> a következő időponttól kezdve: &lt;start_time>%3$s&lt;/start_time>, amíg le nem mondja az előfizetését.</item>
+        <item quantity="one">Számláját automatikusan megterheljük &lt;price>%1$s + a vonatkozó adó összegével minden hónapban&lt;/price> a következő időponttól kezdve: &lt;start_time>%3$s&lt;/start_time>, amíg le nem mondja az előfizetését.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="other">Számláját automatikusan megterheljük &lt;price>%1$s összeggel %2$d havonta&lt;/price>, a következő &lt;duration>%3$d hónapban&lt;/duration> (ekkortól kezdve: &lt;start_time>%4$s&lt;/start_time>).</item>
+        <item quantity="one">Számláját automatikusan megterheljük &lt;price>%1$s összeggel havonta&lt;/price>, a következő &lt;duration>%3$d hónapban&lt;/duration> (ekkortól kezdve: &lt;start_time>%4$s&lt;/start_time>).</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="other">Számláját automatikusan megterheljük &lt;price>%1$s + a vonatkozó adó összegével %2$d havonta&lt;/price>, a következő &lt;duration>%3$d hónapban&lt;/duration> (ekkortól kezdve: &lt;start_time>%4$s&lt;/start_time>).</item>
+        <item quantity="one">Számláját automatikusan megterheljük &lt;price>%1$s + a vonatkozó adó összegével havonta&lt;/price>, a következő &lt;duration>%3$d hónapban&lt;/duration> (ekkortól kezdve: &lt;start_time>%4$s&lt;/start_time>).</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day">
+        <item quantity="other">Számláját automatikusan megterheljük &lt;price>%1$s összeggel %2$d naponta&lt;/price> a következő időponttól kezdve: &lt;start_time>%3$s&lt;/start_time>, amíg le nem mondja az előfizetését.</item>
+        <item quantity="one">Számláját automatikusan megterheljük &lt;price>%1$s összeggel minden nap&lt;/price> a következő időponttól kezdve: &lt;start_time>%3$s&lt;/start_time>, amíg le nem mondja az előfizetését.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="other">Számláját automatikusan megterheljük &lt;price>%1$s + a vonatkozó adó összegével %2$d naponta&lt;/price> a következő időponttól kezdve: &lt;start_time>%3$s&lt;/start_time>, amíg le nem mondja az előfizetését.</item>
+        <item quantity="one">Számláját automatikusan megterheljük &lt;price>%1$s + a vonatkozó adó összegével minden nap&lt;/price> a következő időponttól kezdve: &lt;start_time>%3$s&lt;/start_time>, amíg le nem mondja az előfizetését.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="other">Számláját automatikusan megterheljük &lt;price>%1$s összeggel %2$d naponta&lt;/price>, a következő &lt;duration>%3$d napban&lt;/duration> (ekkortól kezdve: &lt;start_time>%4$s&lt;/start_time>).</item>
+        <item quantity="one">Számláját automatikusan megterheljük &lt;price>%1$s összeggel naponta&lt;/price>, a következő &lt;duration>%3$d napban&lt;/duration> (ekkortól kezdve: &lt;start_time>%4$s&lt;/start_time>).</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="other">Számláját automatikusan megterheljük &lt;price>%1$s + a vonatkozó adó összegével %2$d naponta&lt;/price>, a következő &lt;duration>%3$d napban&lt;/duration> (ekkortól kezdve: &lt;start_time>%4$s&lt;/start_time>).</item>
+        <item quantity="one">Számláját automatikusan megterheljük &lt;price>%1$s + a vonatkozó adó összegével naponta&lt;/price>, a következő &lt;duration>%3$d napban&lt;/duration> (ekkortól kezdve: &lt;start_time>%4$s&lt;/start_time>).</item>
+    </plurals>
+    <plurals name="games_select_players_current_count_format">
+        <item quantity="other">%1$d játékos</item>
+        <item quantity="one">Játékosok</item>
+    </plurals>
+    <plurals name="games_select_players_del_autopick_players">
+        <item quantity="other">%1$d játékos eltávolítása</item>
+        <item quantity="one">%1$d játékos eltávolítása</item>
+    </plurals>
+    <plurals name="games_select_players_slots_remaining_format">
+        <item quantity="other">Hívjon meg akár még %1$d játékost</item>
+        <item quantity="one">Hívjon meg akár még %1$d játékost</item>
+    </plurals>
+    <plurals name="games_waiting_room_waited_start_early">
+        <item quantity="other">%2$d/%1$d játékos még nem csatlakozott. Elindítja nélkülük?</item>
+        <item quantity="one">%2$d/%1$d játékos még nem csatlakozott. Elindítja nélkülük?</item>
+    </plurals>
+    <plurals name="games_waiting_room_start_with">
+        <item quantity="other">%1$d játékossal</item>
+        <item quantity="one">%1$d játékossal</item>
+    </plurals>
+    <plurals name="games_waiting_room_players_ready">
+        <item quantity="other">%1$d játékos készen áll</item>
+        <item quantity="one">%1$d játékos készen áll</item>
+    </plurals>
+    <plurals name="games_notification_new_activity">
+        <item quantity="other">%1$d új, játékkal kapcsolatos művelet</item>
+        <item quantity="one">Játékkal kapcsolatos művelet függőben</item>
+    </plurals>
+    <plurals name="games_notification_non_acl_summary">
+        <item quantity="other">%1$d további</item>
+    </plurals>
+    <plurals name="games_leaderboard_player_count_format">
+        <item quantity="other">%1$s játékos</item>
+        <item quantity="one">%1$s játékos</item>
+    </plurals>
+    <plurals name="games_inbox_my_turn_toast_message">
+        <item quantity="other">%1$d alkalommal én jövök</item>
+        <item quantity="one">Én jövök</item>
+    </plurals>
+    <plurals name="games_inbox_their_turn_toast_message">
+        <item quantity="other">%1$d játékos következik soron</item>
+        <item quantity="one">%1$d játékos következik soron</item>
+    </plurals>
+    <plurals name="games_inbox_invitation_toast_message">
+        <item quantity="other">%1$d meghívás</item>
+        <item quantity="one">%1$d meghívás</item>
+    </plurals>
+    <plurals name="games_inbox_matches_toast_message">
+        <item quantity="other">%1$d játék folyamatban</item>
+        <item quantity="one">%1$d játék folyamatban</item>
+    </plurals>
+    <plurals name="games_tile_request_summary_gift_count_format">
+        <item quantity="other">%1$d ajándék</item>
+        <item quantity="one">%1$d ajándék</item>
+    </plurals>
+    <plurals name="games_tile_request_summary_wish_count_format">
+        <item quantity="other">%1$d kérés</item>
+        <item quantity="one">%1$d kérés</item>
+    </plurals>
+    <plurals name="games_tile_request_summary_player_names_html">
+        <item quantity="other">"&lt;b>%1$s&lt;/b>
+és mások részéről"</item>
+        <item quantity="one">Tőle: &lt;b>%1$s&lt;/b></item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">%d perc</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d nap</item>
+        <item quantity="one">%d nap</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s személy</item>
+        <item quantity="one">%1$s személy</item>
+        <item quantity="two">%1$s személy</item>
+        <item quantity="few">%1$s személy</item>
+        <item quantity="many">%1$s személy</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">innen: %1$s, %2$s, kevesebb mint %s perccel ezelőtt</item>
+        <item quantity="one">innen: %1$s, %2$s, kevesebb mint %s perccel ezelőtt</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">innen: %1$s, kevesebb mint %2$s perccel ezelőtt</item>
+        <item quantity="one">innen: %1$s, kevesebb mint %2$s perccel ezelőtt</item>
+    </plurals>
+</resources>

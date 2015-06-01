@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="see_n_more">
+        <item quantity="other">%1$d további</item>
+    </plurals>
+    <plurals name="minutes_left">
+        <item quantity="other">%1$d perc van hátra</item>
+        <item quantity="one">1 perc van hátra</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d napon belül lejár</item>
+        <item quantity="one">Lejár 1 nap múlva</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">%1$d órán belül lejár</item>
+        <item quantity="one">1 óra múlva lejár</item>
+    </plurals>
+</resources>

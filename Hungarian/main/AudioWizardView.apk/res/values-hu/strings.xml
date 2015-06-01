@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Audiovarázsló</string>
+    <string name="audio_generic">Generikus</string>
+    <string name="audio_music">Zene</string>
+    <string name="audio_movie">Film</string>
+    <string name="audio_gaming">Játék</string>
+    <string name="audio_powersaving">Energiatakarékosság</string>
+    <string name="audio_speech">Beszéd</string>
+    <string name="audio_recording">Rögzítés</string>
+    <string name="audio_smart">Intelligens mód</string>
+    <string name="alarm_content">Az AudioWizard nem érhető el Bluetooth headset esetében.</string>
+    <string name="alarm_content_withoutHS">Az AudioWizard nem érhető el vezetékes vagy Bluetooth headset esetében.</string>
+    <string name="alarm_externaldevice_connected">Az AudioWizard nem érhető el Miracast vagy HDMI esetében.</string>
+    <string name="mode_description">Váltson másfajta módra a kívánt hangeffektus elérése érdekében</string>
+    <string name="done">Kész</string>
+    <string name="audiowizard_on_description">A Hangvarázsló be van kapcsolva</string>
+    <string name="audiowizard_off_description">A Hangvarázsló ki van kapcsolva</string>
+</resources>

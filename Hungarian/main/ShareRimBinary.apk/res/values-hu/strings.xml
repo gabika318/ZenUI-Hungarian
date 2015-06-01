@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="receive_canceled">törölve</string>
+    <string name="sdcard_unavailable">sd-kártya nem érhető el</string>
+    <string name="receive_cannot_created_file">a fájlt nem sikerült létrehozni</string>
+    <string name="error_transmit">átviteli hiba</string>
+    <string name="app_description">A Share Link segítségével eszközeit könnyedén csatlakoztathatja, a rajtuk tárolt fájlokat pedig könnyedén megoszthatja másokkal.</string>
+    <string name="rename">Átnevezés</string>
+    <string name="btn_send_file">Fájl küldése</string>
+    <string name="btn_receive_file">Fájl fogadása</string>
+    <string name="waiting_for_sending">Csatlakozás a céleszközhöz</string>
+    <string name="waiting_for_receiving">Várakozás fogadásra</string>
+    <string name="waiting_for_scanning">Közelben lévő eszközök keresése...</string>
+    <string name="title_picker">Megosztás</string>
+    <string name="apk_picker">Alkalmazás</string>
+    <string name="file_picker">Fájl</string>
+    <string name="audio_picker">Zene</string>
+    <string name="image_picker">Fotó</string>
+    <string name="video_picker">Videó</string>
+    <string name="no_items">Nincsenek tételek</string>
+    <string name="notify_disable_mobile_network">Az adatelérés a mobilhálózaton letiltásra kerül a fájlátvitel során</string>
+    <string name="notagain">Ne mutassa ezt az uzenetet ujra.</string>
+    <string name="reveive_description">Fájl fogadása tőle: %s</string>
+    <string name="failed">Sikertelen küldés</string>
+    <string name="stop">Küldés leállítása</string>
+    <string name="receive_cancelall">Összes visszavonása</string>
+    <string name="receive_insufficient_storage">Nincs elegendő tárhely</string>
+    <string name="type_not_supported">Az ilyen tartalomtípus áttöltése nem támogatott</string>
+    <string name="send_description">Fájl küldése neki: %s</string>
+    <string name="send_canceled_by_recieve">Fájlátvitel megszakítva</string>
+    <string name="send_failed">Sikertelen fájlátvitel</string>
+    <string name="open_fail">A fájl megnyitása sikertelen.</string>
+    <string name="sharerim_tutorial01_content_tv1">Ez a fájláttöltő eszköz nem igényel Wi-Fi vagy mobilhálózati kapcsolatot.</string>
+    <string name="sharerim_tutorial02_content_tv1">Fotók, videók, zene, alkalmazások és mindenféle fájltípus áttölthető.</string>
+    <string name="sharerim_tutorial03_content_tv1">"Fáljláttöltési pont \"Fájl küldése\".
+Fájlfogadási pont \"Fájl fogadása\"."</string>
+    <string name="sharerim_tutorial04_content_tv1">A SHAREIt használata más márkájú eszközökön fájlátvitelhez a Share Link segítségével.</string>
+    <string name="sharerim_tutorial_button_skip">Kihagyás</string>
+    <string name="sharerim_tutorial_button_done">Vége</string>
+    <string name="sharerim_dialog_stop_send">Le akarja állítani az áttöltést?</string>
+    <string name="sharerim_dialog_stop_receive">Le akarja állítani a fogadást?</string>
+    <string name="stopreceive">Fájlátvitel leállítva</string>
+    <string name="title_settings">Beállítások</string>
+    <string name="menu_history">Megosztási előzmények</string>
+    <string name="menu_tutorial">Oktatóprogram</string>
+    <string name="no_history">Nincs előzmény</string>
+    <string name="menu_history_finished">Kész</string>
+    <string name="menu_history_unfinished">Befejezetlen</string>
+    <string name="clear_all">Összes kijelölés törlése</string>
+    <string name="reveive_notification">Feladó: %s</string>
+    <string name="send_notification">Címzett: %s</string>
+</resources>

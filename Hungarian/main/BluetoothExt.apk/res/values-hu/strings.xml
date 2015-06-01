@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">Autós készlet</string>
+    <string name="bluetooth_remember_choice">Ne jelenjen meg többé</string>
+    <string name="ftp_acceptance_dialog_title">%1$s szeretné elérni az Ön PadFone mappáit. Megadja az engedélyt %2$s számára?</string>
+    <string name="ftp_acceptance_dialog_header">Telefonmappa elérés</string>
+    <string name="ftp_session_key_dialog_title">Bluetooth munkameneti kulcs megadása ehhez: %1$s.</string>
+    <string name="ftp_session_key_dialog_header">Bluetooth munkameneti kulcs szükséges.</string>
+    <string name="ftp_acceptance_timeout_message">%1$s Bluetooth kapcsolatkérés időtúllépése.</string>
+    <string name="ftp_authentication_timeout_message">Időtúllépés történt a munkameneti kulcs megadásakor ezzel: %1$s</string>
+    <string name="ftp_notif_ticker">Bluetooth-kapcsolat kérése</string>
+    <string name="ftp_notif_title">Munkameneti kulcs kérése FTP-hez</string>
+    <string name="ftp_notif_message">Érintse meg a(z) \"%1$s\" eszközhöz való csatlakozáshoz.</string>
+    <string name="ftp_notif_active_session">Bluetooth FTP aktiv munkamenet</string>
+    <string name="ftp_notif_connected">Bluetooth fájlátvitel élérés megadása ennek %1$s.</string>
+    <string name="bluetooth_ftp_request">Ftp kérés</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s szeretné elérni az Ön fájljait és mappáit. Megadja az engedélyt számára: %2$s?</string>
+    <string name="sap_notif_ticker">Bluetooth SIM elérés kérés</string>
+    <string name="sap_notif_message">Érintse meg a(z) \"%1$s\" eszközhöz való csatlakozáshoz.</string>
+    <string name="sap_acceptance_timeout_message">%1$s Bluetooth kapcsolatkérés időtúllépése.</string>
+    <string name="bluetooth_sap_request">SAP kérés</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s szeretné elérni az Ön SIM-jét. Megadja az engedélyt számára: %2$s?</string>
+</resources>

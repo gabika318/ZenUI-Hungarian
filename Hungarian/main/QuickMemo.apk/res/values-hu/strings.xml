@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_share">Megosztás</string>
+    <string name="menu_pin">Rögzítés</string>
+    <string name="new_page">Új oldal</string>
+    <string name="editor_delete_page_dialog_title">Törli?</string>
+    <string name="editor_delete_page_dialog_message">Biztos, hogy törölni akarja ezt az oldalt?</string>
+    <string name="editor_page_is_full">Az oldal megtelt</string>
+</resources>

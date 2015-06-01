@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="not_found">Nem találhatók szótárfordítások</string>
+    <string name="dictionary">Szótár</string>
+    <string name="httpErrorTimeout">A szerverrel fennálló kapcsolat időtúllépés miatt megszakadt.</string>
+    <string name="open_connection_failed">Az alkalmazás használatához az internethez kell csatlakozni.</string>
+    <string name="lookup_in_MyDictionary">Keresés a MyDictionary-ben</string>
+    <string name="online_translation">Online fordítás</string>
+    <string name="translating">Fordítás...</string>
+    <string name="no_support">A szó kiejtése nem lehetséges. Nem támogatott nyelv.</string>
+    <string name="translation_disabled">A szótár le van tiltva</string>
+    <string name="language_selected">Érintsen meg egy szót a fordításának megtekintéséhez</string>
+    <string name="dictionaryT">Angol &lt;> Kínai (Hagyományos)</string>
+    <string name="dictionaryS">Angol &lt;> Kínai (Egyszerűsített)</string>
+    <string name="dictionaryJ">Angol &lt;> Japán</string>
+    <string name="dictionaryD">Angol >> Német</string>
+    <string name="dictionaryE">Angol szótár</string>
+    <string name="de_en">Német >> Angol</string>
+    <string name="text_selection_off">Szövegválasztás kikapcsolva</string>
+    <string name="text_selection_on">Szövegválasztás bekapcsolva</string>
+    <string name="text_copy_to_clipboard">Szöveg másolása a vágólapra</string>
+    <string name="websearch">Keresés a Világhálón</string>
+    <string name="copy">Másolás</string>
+    <string name="share">Megosztás</string>
+    <string name="text_selection_ABTitle">Szövegválasztás</string>
+    <string name="share_title">Megosztás ezzel:</string>
+    <string name="textselection_launcher_off">A szövegkijelölés nem támogatott ezen az oldalon.</string>
+    <string name="translation_launcher_off">A szótárfunkció le van tiltva és az oldal nem támogatja.</string>
+    <string name="select_all">Összes kiválasztása</string>
+    <string name="translation_on">Fordítás BE</string>
+    <string name="translation_off">Fordítás KI</string>
+    <string name="search_title">Keresés a Világhálón</string>
+    <string name="xdict_word_not_exist">Sajnáljuk, ez a szó nem létezik az adatbázisunkban</string>
+    <string name="ok">OK</string>
+    <string name="tip">Ne mutassa ezt az üzenetet újra</string>
+</resources>

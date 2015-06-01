@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="editor_func_insert_array">
+        <item>Fotó</item>
+        <item>Fénykép fájlból</item>
+        <item>Szöveg képe</item>
+        <item>PDF oldal</item>
+        <item>Audio recording</item>
+        <item>Videó</item>
+        <item>Szövegfájl</item>
+        <item>Időbélyeg</item>
+        <item>Díszítőelemek a vágólapról</item>
+    </string-array>
+    <string-array name="export_format_array">
+        <item>PDF</item>
+        <item>SuperNote formátum</item>
+    </string-array>
+    <string-array name="handwrite_recognition_speed_values">
+        <item>Gyors</item>
+        <item>Normál</item>
+        <item>Lassú</item>
+    </string-array>
+    <string-array name="index_language_values">
+        <item>Angol</item>
+        <item>Egyszerűsített kínai és angol</item>
+        <item>Hagyományos kínai és angol</item>
+    </string-array>
+    <string-array name="month_of_year">
+        <item>Január</item>
+        <item>Február</item>
+        <item>Március</item>
+        <item>Április</item>
+        <item>Május</item>
+        <item>Június</item>
+        <item>Július</item>
+        <item>Augusztus</item>
+        <item>Szeptember</item>
+        <item>Október</item>
+        <item>November</item>
+        <item>December</item>
+        <item>Előző hónap</item>
+        <item>Fél évvel ezelőtt</item>
+        <item>Több mint egy éve</item>
+        <item>Következő hónap</item>
+        <item>Fél évvel később</item>
+        <item>Egy év múlva</item>
+    </string-array>
+    <string-array name="nb_editcover_choose_item">
+        <item>Fotó</item>
+        <item>Fénykép fájlból</item>
+    </string-array>
+    <string-array name="nb_show">
+        <item>Jegyzettömb-nézet</item>
+        <item>Könyvjelző-nézet</item>
+        <item>Időbélyegző-nézet</item>
+    </string-array>
+    <string-array name="notebook_sort">
+        <item>Név szerint</item>
+        <item>Legutóbbi módosítás szerint</item>
+    </string-array>
+    <string-array name="pg_size">
+        <item>Padhez</item>
+        <item>Telefonhoz</item>
+    </string-array>
+    <string-array name="pg_sort">
+        <item>Név szerint</item>
+        <item>Legutóbbi módosítás szerint</item>
+    </string-array>
+    <string-array name="share_format_array">
+        <item>Kép</item>
+        <item>PDF</item>
+        <item>SuperNote formátum</item>
+    </string-array>
+    <string-array name="todo_widget_priority">
+        <item>Magas</item>
+        <item>Normál</item>
+        <item>Alacsony</item>
+    </string-array>
+    <string-array name="todo_widget_sort">
+        <item>Rendezés oldal szerint</item>
+        <item>Rendezés időpont szerint</item>
+    </string-array>
+    <string-array name="week_of_day">
+        <item>Vasárnap</item>
+        <item>Hétfő</item>
+        <item>Kedd</item>
+        <item>Szerda</item>
+        <item>Csütörtök</item>
+        <item>Péntek</item>
+        <item>Szombat</item>
+        <item>Ma</item>
+        <item>Tegnap</item>
+        <item>Múlt héten</item>
+        <item>Két héttel ezelőtt</item>
+        <item>Három héttel ezelőtt</item>
+        <item>Holnap</item>
+        <item>Következő hét</item>
+        <item>Két héttel később</item>
+        <item>Három héttel később</item>
+    </string-array>
+</resources>

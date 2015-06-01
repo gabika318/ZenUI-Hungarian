@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_wifi">Az adatok letöltéséhez keressen hálózati kapcsolatot.</string>
+    <string name="search">Keresés...</string>
+    <string name="no_data">Nincs fordítási eredmény.</string>
+    <string name="tutorial_description_4_english_only">fordít</string>
+    <string name="tutorial_description_5_english_only">Ez egy gyorsfordításhoz használható alkalmazás.</string>
+    <string name="turn_on_instant_dictionary">Az Instant Dictionary engedélyezése</string>
+    <string name="tutorial_title">Instant Dictionary</string>
+    <string name="tutorial_description">Érintse meg az ikont az Instant Dictionary engedélyezéséhez/letiltásához.</string>
+    <string name="tutorial_btn_ok">OK</string>
+    <string name="turn_off_instant_dictionary">Az Instant Dictionary letiltása</string>
+    <string name="tutorial_description_1">Érintse meg a fordítani kívánt szót.</string>
+    <string name="tutorial_btn_next">Következő</string>
+    <string name="tutorial_description_2">Emelje ki a fordítani kívánt mondatot.</string>
+    <string name="tutorial_description_3">Érintsen meg egy szót vagy emeljen ki egy mondatot a fordításához.</string>
+    <string name="app_name">Instant Dictionary</string>
+    <string name="settings">Beállítások</string>
+    <string name="select_target_lang">Válassza ki a célnyelvet</string>
+    <string name="tutorial_description_4">fordít</string>
+    <string name="tutorial_description_5">Ez egy gyorsfordításhoz használható alkalmazás.</string>
+    <string name="tutorial_description_6">Érintse meg az ikont az Instant Dictionary indításához vagy bezárásához.</string>
+    <string name="tutorial_description_7">Érintse meg ezt a gombot a fordító funkció engedélyezéséhez/letiltásához.</string>
+    <string name="tutorial_description_8">Ha a fordító funkció le van tiltva, görgetésre vagy érintésre böngészhet az oldalakon.</string>
+    <string name="tutorial_description_9">Ha engedélyezett a fordító funkció, érintse meg egy szót a fordításához.</string>
+    <string name="tutorial_description_10">Szabadon mozgathatja a gombot fel és le a képernyő mindkét oldalán.</string>
+    <string name="dont_show_msg">Ne mutassa ezt az üzenetet újra</string>
+    <string name="show_tutorial_when_turn_on_device">Oktatóprogram mutatása</string>
+    <string name="screenshot_failed_title">A képernyőkép rögzítése nem lehetséges.</string>
+    <string name="screenshot_failed_text">A képernyőkép nem menthető. A háttértár használatban lehet.</string>
+    <string name="delete_zone_label_workspace">Bezárás</string>
+    <string name="remove_tutorial_title">Az Instant Dictionary bezárása</string>
+    <string name="remove_tutorial_title2">Érintse meg és tartsa a gombot, majd húzza el a funkció azonnali bezárásához</string>
+    <string name="cannot_retrieve_text_toast">A szöveg nem kérhető le</string>
+    <string name="cropping_image_saved_toast">A körülvágott kép mentése megtörtént</string>
+    <string name="quick_tips">Gyors tippek</string>
+    <string name="tip_content">Az Azonnali szótár szavak vagy mondatok fordítását teszi lehetővé bármikor.</string>
+    <string name="tip_title">Fordítás bármikor</string>
+    <string name="skip_this_tutorial">Kihagyás</string>
+    <string name="tip_content1">Kapcsolja be a fordítás gombot, majd egyszerűen érintsen meg egy szót a fordításához.</string>
+    <string name="tip_title1">Szó fordítása</string>
+    <string name="tip_content2">Húzza el egy mondat kijelöléséhez fordításra.</string>
+    <string name="tip_title2">Mondat fordítása</string>
+    <string name="tip_content3">Szabadon mozgathatja ezt a gombot fel és le a képernyő mindkét oldalán.</string>
+    <string name="tip_title3">Szabadon mozgassa a gombot</string>
+    <string name="done">Kész</string>
+</resources>

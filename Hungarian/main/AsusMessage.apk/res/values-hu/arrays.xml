@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mms_creation_mode_entries">
+        <item>Korlátozott</item>
+        <item>Figyelem</item>
+        <item>Szabad</item>
+    </string-array>
+    <string-array name="default_template_texts">
+        <item>Ott leszek!</item>
+        <item>Hol vagy?</item>
+        <item>Értekezleten vagyok.</item>
+        <item>Később visszahívlak.</item>
+        <item>Mit csinálsz most?</item>
+        <item>Visszahívlak!</item>
+        <item>Sürgős！Minél előbb hívj fel!</item>
+        <item>Most nem tudok beszélni. Mi történt?</item>
+        <item>Kérlek, hívj fel, amikor megkapod ezt az üzenetet.</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Mosoly</item>
+        <item>Szomorú</item>
+        <item>Kacsintás</item>
+        <item>Nyelvnyújtás</item>
+        <item>Meglepődött</item>
+        <item>Csók</item>
+        <item>Kiabálás</item>
+        <item>Laza</item>
+        <item>Pénz beszél</item>
+        <item>Ha hallgattam volna...</item>
+        <item>Zavarban</item>
+        <item>Angyal</item>
+        <item>Határozatlan</item>
+        <item>Sírás</item>
+        <item>Szót se szólok</item>
+        <item>Nevetés</item>
+        <item>Összezavarodva</item>
+        <item>Szív</item>
+        <item>Mérges</item>
+        <item>Kacsintás</item>
+        <item>Pókerarc</item>
+    </string-array>
+    <string-array name="prefEntries_mms_priority">
+        <item>Alacsony</item>
+        <item>Normál</item>
+        <item>Magas</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>nincs tárgy</item>
+    </string-array>
+    <string-array name="list_gsm_language_entries">
+        <item>Német</item>
+        <item>Angol</item>
+        <item>Olasz</item>
+        <item>Francia</item>
+        <item>Spanyol</item>
+        <item>Holland</item>
+        <item>Svéd</item>
+        <item>Dán</item>
+        <item>Portugál</item>
+        <item>Finn</item>
+        <item>Norvég</item>
+        <item>Görög</item>
+        <item>Török</item>
+        <item>Magyar</item>
+        <item>Lengyel</item>
+        <item>Meghatározatlan nyelv</item>
+    </string-array>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 másodperc</item>
+        <item>4 másodperc</item>
+        <item>6 másodperc</item>
+        <item>8 másodperc</item>
+        <item>10 másodperc</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 másodperc</item>
+        <item>2 másodperc</item>
+        <item>3 másodperc</item>
+        <item>4 másodperc</item>
+        <item>5 másodperc</item>
+        <item>6 másodperc</item>
+        <item>7 másodperc</item>
+        <item>8 másodperc</item>
+        <item>9 másodperc</item>
+        <item>10 másodperc</item>
+        <item>Egyéb</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Mindig</item>
+        <item>Csak néma üzemmódban</item>
+        <item>Soha</item>
+    </string-array>
+</resources>

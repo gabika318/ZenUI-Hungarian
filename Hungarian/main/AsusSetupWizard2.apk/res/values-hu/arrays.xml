@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="welcome_messages">
+        <item>@string/welcome_message_sw</item>
+        <item>@string/welcome_message_lt</item>
+        <item>@string/welcome_message_lv</item>
+        <item>@string/welcome_message_hu</item>
+        <item>@string/welcome_message_sk</item>
+        <item>@string/welcome_message_en</item>
+        <item>@string/welcome_message_zh_TW</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>Nyilvános webes meghajtó</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statikus</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Nincs</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Semelyik</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Nincs</item>
+        <item>Kézi</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Gyenge</item>
+        <item>Közepes</item>
+        <item>Jó</item>
+        <item>Kiváló</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Keresés...</item>
+        <item>Kapcsolódás…</item>
+        <item>Hitelesítés...</item>
+        <item>IP-cím lekérése...</item>
+        <item>Csatlakozva</item>
+        <item>Felfüggesztve</item>
+        <item>Kapcsolat bontása...</item>
+        <item>Nincs kapcsolat</item>
+        <item>Sikertelen</item>
+        <item>Letiltva</item>
+        <item>A rossz minőségű kapcsolatok átmeneti elkerülése</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Keresés...</item>
+        <item>Csatlakozás a(z) %1$s hálózathoz...</item>
+        <item>Hitelesítés a(z) %1$s hálózaton...</item>
+        <item>IP-cím lekérése a(z) %1$s hálózattól...</item>
+        <item>Kapcsolódva a(z) %1$s hálózathoz</item>
+        <item>Felfüggesztve</item>
+        <item>Kapcsolat bontása %1$s hálózattal...</item>
+        <item>Nincs kapcsolat</item>
+        <item>Sikertelen</item>
+        <item>Letiltva</item>
+        <item>A rossz minőségű kapcsolatok átmeneti elkerülése</item>
+    </string-array>
+</resources>

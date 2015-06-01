@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_burst_choices">
+        <item>@string/pref_camera_flashmode_entry_off</item>
+        <item>Nagy sebesség</item>
+        <item>Kis sebesség</item>
+    </string-array>
+    <string-array name="pref_metering_choices">
+        <item>Átlagolt</item>
+        <item>Középre súlyozott</item>
+        <item>Pontszerű</item>
+    </string-array>
+    <string-array name="pref_review_time_choices">
+        <item>@string/pref_camera_flashmode_entry_off</item>
+        <item>1 másodperc</item>
+        <item>3 másodperc</item>
+        <item>5 másodperc</item>
+        <item>Korlátlan</item>
+    </string-array>
+    <string-array name="pref_power_saving_choices">
+        <item>1 perc</item>
+        <item>3 perc</item>
+        <item>5 perc</item>
+        <item>@string/pref_camera_flashmode_entry_off</item>
+    </string-array>
+    <string-array name="pref_save_to_choices">
+        <item>Belső tárhely</item>
+        <item>MicroSD</item>
+    </string-array>
+</resources>

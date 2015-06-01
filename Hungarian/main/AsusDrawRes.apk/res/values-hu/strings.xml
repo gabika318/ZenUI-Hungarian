@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="brush_edit_dialog_library">Könyvtár</string>
+    <string name="brush_edit_dialog_back">Vissza</string>
+    <string name="brush_edit_dialog_pencil">Ceruza</string>
+    <string name="brush_edit_dialog_rollerpen">Rollertoll</string>
+    <string name="brush_edit_dialog_pen">Toll</string>
+    <string name="brush_edit_dialog_marker">Kiemelő filc</string>
+    <string name="brush_edit_dialog_brush">Ecset</string>
+    <string name="brush_edit_dialog_airbrush">Légecset</string>
+    <string name="brush_edit_dialog_save">Már létezik.</string>
+    <string name="brush_edit_dialog_save_successful">Sikeres mentés.</string>
+    <string name="newto_editor_func_popup_d_brush_stroke">Vonás</string>
+    <string name="newto_editor_func_popup_d_brush_alpha">Átlátszóság</string>
+    <string name="editor_pen_dialog_title">Ecset színe és vastagsága</string>
+    <string name="wrong_image_type">Eszköze nem támogatja ezt az fájl- vagy kodek típust.</string>
+    <string name="dialog_save_to">Mentés helye</string>
+</resources>

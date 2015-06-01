@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Splendid</string>
+    <string name="menu_settings">Beállítások</string>
+    <string name="splendid_settings_hue">Színezet</string>
+    <string name="splendid_settings_saturation">Kiegyenesítés</string>
+    <string name="splendid_settings_preview">Előnézet</string>
+    <string name="splendid_settings_tab_easy">Hőmérséklet</string>
+    <string name="splendid_settings_tab_advance">Javítás</string>
+    <string name="splendid_settings_color_temperature">Színhőmérséklet</string>
+    <string name="splendid_settings_vivid">Élénk üzemmód</string>
+    <string name="splendid_settings_last_setting">Előző beállítás</string>
+    <string name="splendid_settings_reset_to_default">Alapértelmezett beállítások alkalmazása</string>
+    <string name="splendid_settings_done">Kész</string>
+    <string name="splendid_settings_color_white">fehér</string>
+    <string name="splendid_settings_color_black">fekete</string>
+    <string name="splendid_settings_alert_reset_to_last_setting">Visszaállítja az előző beállításokra?</string>
+    <string name="splendid_settings_alert_reset_to_default">Visszaállítja gyári alapértékre?</string>
+    <string name="splendid_settings_alert_button_ok">OK</string>
+    <string name="splendid_settings_alert_button_cancel">Mégsem</string>
+    <string name="splendid_settings_toast_reset_to_last_setting">Visszaállítás az előző beállításra</string>
+    <string name="splendid_settings_toast_reset_to_default">Visszaállítás alapértelmezettre</string>
+    <string name="splendid_settings_alert_pad_mode">Az Splendid nem támogatja a Pad módot.</string>
+    <string name="reading_mode_category">KÉNYELMES OLVASÁS MÓD</string>
+    <string name="reading_mode_title">Olvasás mód</string>
+    <string name="add_application_message">Adjon hozzá alkalmazásokat az alapértelmezett olvasási mód beállításához</string>
+    <string name="recommend_app">Ajánlott alkalmazások</string>
+    <string name="all_app">Minden alkalmazás</string>
+    <string name="edit">Szerkesztés</string>
+    <string name="remove">Eltávolítás</string>
+    <string name="remove_application_title">Alkalmazások eltávolítása</string>
+    <string name="remove_application_message">Eltávolítja a kijelölt alkalmazásokat?</string>
+    <string name="first_tutorial_title">Olvasás mód használata</string>
+    <string name="first_tutorial_message">"Ez az alkalmazás olvasás módra van állítva.
+Ki-, illetve bekapcsolhatja a Gyorsbeállítások menüben."</string>
+    <string name="add">Hozzáadás</string>
+    <string name="reading_mode_edit_title">Olvasási mód szerkesztése</string>
+    <string name="notification_reading_mode_title">Az olvasási mód aktív</string>
+    <string name="notification_reading_mode_summary">Optimalizálás a kényelmes olvasáshoz</string>
+    <string name="settings_safetylegal_activity_loading">Betöltés…</string>
+    <string name="filter_apps_third_party">Letöltött</string>
+    <string name="no_applications">Nincsenek alkalmazások.</string>
+    <string name="reading_mode_add_application">Alkalmazás hozzáadása</string>
+    <string name="reading_mode_mode_selection">Üzemmód-választás</string>
+    <string name="reading_mode_add_application_summary">Alkalmazások választása az olvasási mód alkalmazásához</string>
+    <string name="reading_mode_summary">Állítsa be a kijelölt alkalmazások képernyőszínét az optimális olvasási élmény érdekében</string>
+    <string name="reading_mode_optimized">Kép és szöveg mód</string>
+    <string name="reading_mode_text">Csak szöveg mód</string>
+    <string name="reading_mode_optimized_summary">Kiegyensúlyozott beállítás képekhez és szövegolvasási környezethez</string>
+    <string name="reading_mode_text_summary">A szövegolvasási környezetnek megfelelő</string>
+    <string name="reading_mode_recommend">Ajánlás</string>
+    <string name="splendid_settings_alert_reading_mode">A Splendid jelenleg le van tiltva, mert az olvasás mód aktív és színhőmérséklet optimalizálást/javítást igényel. Szeretné engedélyezni a Splendid beállítást az olvasás mód letiltásával?</string>
+</resources>

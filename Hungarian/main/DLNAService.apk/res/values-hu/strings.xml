@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dms">Digitalis mediaszerver</string>
+    <string name="dmssettings">Digitális médiaszerver beállítások</string>
+    <string name="sharemediatype">Válassza ki a megosztandó médiatípusokat</string>
+    <string name="dms_settings_adv">Speciális beállítások</string>
+    <string name="desc_share">Megosztott mappa módosítása</string>
+    <string name="title_share">Megosztott mappa</string>
+    <string name="desc_friendlyname">Az eszköz megjelenített nevének módosítása</string>
+    <string name="title_friendlyname">Megjelenített név</string>
+    <string name="toast_srvbusy">A kiszolgáló foglalt. Kérjük, próbálja újra később.</string>
+    <string name="desc_dms_notification">Szolgáltatás bekapcsolva</string>
+    <string name="musictype">Zene</string>
+    <string name="imagetype">Fotó</string>
+    <string name="videotype">Videó</string>
+</resources>

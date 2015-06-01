@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KeyguardTestActivity</string>
+    <string name="secure_app_name">UnifiedCamera</string>
+    <string name="none_menu_item">Nincs védelem</string>
+    <string name="pin_menu_item">PIN kód</string>
+    <string name="password_menu_item">Jelszó</string>
+    <string name="pattern_menu_item">Minta</string>
+    <string name="sim_pin_menu_item">SIM kártya PIN kódja</string>
+    <string name="sim_puk_menu_item">SIM kártya PUK kódja</string>
+    <string name="add_widget_item">Modul kiválasztása...</string>
+    <string name="on_screen_turned_off">onScreenTurnedOff</string>
+    <string name="on_screen_turned_on">onScreenTurnedOn</string>
+    <string name="do_keyguard">doKeyguard</string>
+    <string name="verify_unlock">verifyUnlock</string>
+    <string name="asus_lockscreen_unlock_hint">Húzza el a kijelzőt a kioldáshoz</string>
+    <string name="asus_lockscreen_unlock_hint_top">Húzza el bármelyik irányba a kioldáshoz</string>
+    <string name="asus_lockscreen_shortcut_unlock_hint_top">Húzza el az ikont bármelyik irányba a kioldáshoz és az alkalmazás indításához</string>
+    <string name="kg_sim_pin_instructions_format">SIM%d PIN megadása</string>
+    <string name="keyguard_password_enter_pin_code">Írja be a PIN kódot</string>
+    <string name="keyguard_password_enter_puk_code">Írja be a SIM kártya PUK kódját, majd az új PIN kódot</string>
+    <string name="keyguard_password_enter_puk_prompt">SIM kártya PUK kódja</string>
+    <string name="keyguard_password_enter_pin_prompt">Új PIN kód a SIM kártyához</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Érintsen jelszó megadásához</font></string>
+    <string name="keyguard_password_enter_password_code">A feloldáshoz írja be a jelszót</string>
+    <string name="keyguard_password_enter_pin_password_code">Feloldáshoz írja be a PIN kódot</string>
+    <string name="keyguard_password_wrong_pin_code">Helytelen PIN kód.</string>
+    <string name="keyguard_label_text">A feloldáshoz nyomja meg a Menü, majd a 0 gombot.</string>
+    <string name="faceunlock_multiple_failures">Elérte az arcalapú feloldási kísérletek maximális számát</string>
+    <string name="keyguard_charged">Feltöltve</string>
+    <string name="keyguard_plugged_in">Töltés (%d%%)</string>
+    <string name="keyguard_low_battery">Csatlakoztassa a töltőt.</string>
+    <string name="keyguard_instructions_when_pattern_disabled">A feloldáshoz nyomja meg a Menü gombot.</string>
+    <string name="keyguard_network_locked_message">A hálózat lezárva</string>
+    <string name="keyguard_missing_sim_message_short">Nincs SIM kártya.</string>
+    <string name="keyguard_missing_sim_message">Nincs SIM kártya a táblagépben.</string>
+    <string name="keyguard_missing_sim_instructions">Helyezzen be egy SIM kártyát.</string>
+    <string name="keyguard_missing_sim_instructions_long">A SIM kártya hiányzik vagy nem olvasható. Helyezzen be egy SIM kártyát.</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">A SIM kártya nem használható.</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"SIM kártyája véglegesen le van tiltva.
+ Forduljon a vezeték nélküli szolgáltatójához másik SIM kártya beszerzése érdekében."</string>
+    <string name="keyguard_sim_locked_message">A SIM kártya le van zárva.</string>
+    <string name="keyguard_sim_puk_locked_message">A SIM kártya le van zárva a PUK kóddal.</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">SIM kártya feloldása...</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. Modul %3$d/%2$d</string>
+    <string name="keyguard_accessibility_add_widget">Modul hozzáadása.</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Üres</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Feloldási terület kiterjesztve.</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Feloldási terület összecsukva.</string>
+    <string name="keyguard_accessibility_widget">%1$s modul.</string>
+    <string name="keyguard_accessibility_user_selector">Felhasználóválasztó</string>
+    <string name="keyguard_accessibility_status">Állapot</string>
+    <string name="keyguard_accessibility_camera">Kamera</string>
+    <string name="keygaurd_accessibility_media_controls">Médiaelemek vezérlője</string>
+    <string name="keyguard_accessibility_widget_reorder_start">A modulátrendezés elkezdődött.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">A modulátrendezés véget ért.</string>
+    <string name="keyguard_accessibility_widget_deleted">%1$s modul törölve.</string>
+    <string name="keyguard_accessibility_expand_lock_area">A feloldási terület kiterjesztése.</string>
+    <string name="keyguard_accessibility_slide_unlock">Feloldás csúsztatással</string>
+    <string name="keyguard_accessibility_pattern_unlock">Feloldás mintával</string>
+    <string name="keyguard_accessibility_face_unlock">Arcalapú feloldás</string>
+    <string name="keyguard_accessibility_pin_unlock">Feloldás PIN kóddal</string>
+    <string name="keyguard_accessibility_password_unlock">Feloldás jelszóval</string>
+    <string name="keyguard_accessibility_pattern_area">Mintaterület</string>
+    <string name="keyguard_accessibility_slide_area">Csúsztatási terület</string>
+    <string name="keyguard_accessibility_transport_prev_description">Előző szám gomb</string>
+    <string name="keyguard_accessibility_transport_next_description">Következő szám gomb</string>
+    <string name="keyguard_accessibility_transport_pause_description">Szünet gomb</string>
+    <string name="keyguard_accessibility_transport_play_description">Lejátszás gomb</string>
+    <string name="keyguard_accessibility_transport_stop_description">Leállítás gomb</string>
+    <string name="keyguard_accessibility_transport_thumbs_up_description">Tetszik</string>
+    <string name="keyguard_accessibility_transport_thumbs_down_description">Nem tetszik</string>
+    <string name="keyguard_accessibility_transport_heart_description">Szív</string>
+    <string name="keyguard_accessibility_show_bouncer">A folytatáshoz oldja fel a billentyűzárat</string>
+    <string name="keyguard_accessibility_hide_bouncer">Indítás törölve</string>
+    <string name="keyguard_accessibility_delete_widget_start">Engedje el a(z) %1$s törléséhez.</string>
+    <string name="keyguard_accessibility_delete_widget_end">A(z) %1$s nem lesz törölve.</string>
+    <string name="password_keyboard_label_symbol_key">\?123</string>
+    <string name="password_keyboard_label_alpha_key">ABC</string>
+    <string name="password_keyboard_label_alt_key">ALT</string>
+    <string name="keyboardview_keycode_alt">Alt</string>
+    <string name="keyboardview_keycode_cancel">Mégse</string>
+    <string name="keyboardview_keycode_delete">Delete</string>
+    <string name="keyboardview_keycode_done">Kész</string>
+    <string name="keyboardview_keycode_mode_change">Mód váltása</string>
+    <string name="keyboardview_keycode_shift">Shift</string>
+    <string name="keyboardview_keycode_enter">Enter</string>
+    <string name="description_target_unlock">Feloldás</string>
+    <string name="description_target_camera">Kamera</string>
+    <string name="description_target_silent">Némítás</string>
+    <string name="description_target_soundon">Hang bekapcsolása</string>
+    <string name="description_target_search">Keresés</string>
+    <string name="description_direction_up">A(z) %s művelethez csúsztassa felfelé.</string>
+    <string name="description_direction_down">A(z) %s művelethez csúsztassa lefelé.</string>
+    <string name="description_direction_left">A(z) %s művelethez csúsztassa balra.</string>
+    <string name="description_direction_right">A(z) %s művelethez csúsztassa jobbra.</string>
+    <string name="user_switched">%1$s az aktuális felhasználó.</string>
+    <string name="kg_emergency_call_label">Segélyhívás</string>
+    <string name="kg_forgot_pattern_button_text">Elfelejtett minta</string>
+    <string name="kg_wrong_pattern">Helytelen minta</string>
+    <string name="kg_wrong_password">Helytelen jelszó</string>
+    <string name="kg_wrong_pin">Helytelen PIN kód</string>
+    <string name="kg_too_many_failed_attempts_countdown">Próbálkozzon újra %1$d másodperc múlva.</string>
+    <string name="kg_pattern_instructions">Rajzolja le a mintát</string>
+    <string name="kg_sim_pin_instructions">"Adja meg a SIM kártya PIN kódját. "</string>
+    <string name="kg_pin_instructions">Adja meg a PIN kódot</string>
+    <string name="kg_password_instructions">Írja be a jelszót</string>
+    <string name="kg_puk_enter_puk_hint">A SIM kártya le van tiltva. A folytatáshoz adja meg a PUK kódot. A részletekért vegye fel a kapcsolatot szolgáltatójával.</string>
+    <string name="kg_puk_enter_pin_hint">Kívánt PIN kód megadása</string>
+    <string name="kg_enter_confirm_pin_hint">Kívánt PIN kód megerősítése</string>
+    <string name="kg_sim_unlock_progress_dialog_message">SIM kártya feloldása...</string>
+    <string name="kg_password_wrong_pin_code">Helytelen PIN kód.</string>
+    <string name="kg_invalid_sim_pin_hint">4–8 számjegyű PIN kódot írjon be.</string>
+    <string name="kg_invalid_sim_puk_hint">"A PUK kód legalább  8 számjegyből kell, hogy álljon."</string>
+    <string name="kg_invalid_puk">Adja meg újra a helyes PUK kódot. Az ismételt próbálkozással véglegesen letiltja a SIM kártyát.</string>
+    <string name="kg_invalid_confirm_pin_hint">A PIN kódok nem egyeznek.</string>
+    <string name="kg_login_too_many_attempts">Túl sok mintarajzolási próbálkozás</string>
+    <string name="kg_login_instructions">A feloldáshoz jelentkezzen be Google Fiókjával.</string>
+    <string name="kg_login_username_hint">Felhasználónév (e-mail cím)</string>
+    <string name="kg_login_password_hint">Jelszó</string>
+    <string name="kg_login_submit_button">Bejelentkezés</string>
+    <string name="kg_login_invalid_input">Érvénytelen felhasználónév vagy jelszó.</string>
+    <string name="kg_login_account_recovery_hint">"Elfelejtette a felhasználónevét vagy jelszavát?
+Keresse fel a "<b>google.com/accounts/recovery</b> webhelyet.</string>
+    <string name="kg_login_checking_password">Fiók ellenőrzése...</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"%d alkalommal helytelenül adta meg PIN kódját. 
+
+Próbálja újra %d másodperc múlva."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"%d alkalommal helytelenül adta meg a jelszót. 
+
+ Próbálja újra %d másodperc múlva."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"%d alkalommal rosszul rajzolta le feloldási mintát. 
+
+Próbálja újra %d másodperc múlva."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">A táblagépet %d alkalommal próbálta meg sikertelenül feloldani. %d további sikertelen próbálkozás után a rendszer visszaállítja a táblagép gyári alapértelmezett beállításait, és minden felhasználói adat elvész.</string>
+    <string name="kg_failed_attempts_now_wiping">A táblagépet %d alkalommal próbálta meg sikertelenül feloldani. A rendszer visszaállítja a táblagép gyári alapértelmezett beállításait.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"%d alkalommal helytelenül rajzolta le a feloldási mintát. További %d sikertelen kísérlet után egy e-mail fiók használatával kell feloldania a táblagépét.
+
+ Kérjük, próbálja újra %d másodperc múlva."</string>
+    <string name="kg_text_message_separator">" – "</string>
+    <string name="kg_reordering_delete_drop_target_text">Eltávolítás</string>
+    <string name="kg_password_wrong_pin_code_pukked">Helytelen PIN kód a SIM kártyához; vegye fel a kapcsolatot szolgáltatójával az eszköz feloldásához.</string>
+    <string name="kg_password_wrong_puk_code_dead">A SIM kártya használhatatlan. Vegye fel a kapcsolatot szolgáltatójával.</string>
+    <string name="kg_password_pin_failed">A SIM kártya PIN-művelete sikertelen!</string>
+    <string name="kg_password_puk_failed">A SIM kártya PUK-művelete sikertelen!</string>
+    <string name="kg_pin_accepted">Kód elfogadva.</string>
+    <string name="keyguard_transport_prev_description">Előző szám gomb</string>
+    <string name="keyguard_transport_next_description">Következő szám gomb</string>
+    <string name="keyguard_transport_pause_description">Szünet gomb</string>
+    <string name="keyguard_transport_play_description">Lejátszás gomb</string>
+    <string name="keyguard_transport_stop_description">Leállítás gomb</string>
+    <string name="keyguard_carrier_default">Nincs szolgáltatás</string>
+    <string name="sim_inserted">SIM-kártya behelyezve</string>
+    <string name="sim_removed">SIM-kártya eltávolítva</string>
+    <string name="dialog_sim_not_installed">A SIM-kártya nincs behelyezve</string>
+    <string name="toast_sim_ready">A SIM-kártya üzemkész.</string>
+    <string name="dialog_sim_not_installed_hint">Helyezzen be egy SIM-kártyát.</string>
+    <string name="keyguard_password_remaining_times">Fennmaradó kísérletek száma: %d</string>
+    <string name="asus_dual_sim_view_continue">Folytatás</string>
+    <string name="msim_status_available">Elérhető</string>
+    <string name="msim_status_unavailable">Nem érhető el</string>
+    <string name="msim_dialog_sim_not_installed_hint_format">Helyezze be a SIM%d kártyát.</string>
+    <string name="msim_sim_is_ready_format">A SIM%d kártya üzemkész állapotának mutatása.</string>
+    <string name="asus_dual_sim_view_hint">PIN-kód megadása a SIM-kártya kioldásához</string>
+    <string name="msim_status_pin_locked">PIN lezárva</string>
+    <string name="msim_status_puk_locked">PUK-blokkolva</string>
+    <string name="msim_emergency_call_text">Segélyhívás</string>
+    <string name="slot1">SIM 1</string>
+    <string name="slot2">SIM 2</string>
+    <string name="lock_continue">Folytatás</string>
+    <string name="unlock_cards">SIM feloldása</string>
+    <string name="card_off">SIM ki</string>
+    <string name="card_absent">Nincs SIM</string>
+    <string name="card_available">Elérhető</string>
+    <string name="card_pin_locked">PIN zárolva</string>
+    <string name="card_puk_locked">PUK zárolva</string>
+    <string name="card_net_locked">Hálózat zárolva</string>
+    <string name="card_unknown">Ismeretlen</string>
+    <string name="no_card_or_invalid_card">Nincs kártya</string>
+    <string name="gsm_available">GSM elérhető</string>
+    <string name="lockscreen_no_card">(Nincs SIM)</string>
+    <string name="lockscreen_pin_locked">SIM zárolva</string>
+    <string name="lockscreen_puk_locked">SIM PUK-kóddal zárolva</string>
+    <string name="lockscreen_perm_locked">SIM végleg zárolva</string>
+    <string name="pin_puk_retry_left">(%d lehetőség maradt)</string>
+    <string name="keyguard_sim_puk_new_pin_prompt">Írjon be új PIN-kódot (4–8 számjegy)</string>
+    <string name="keyguard_sim_puk_confirm_prompt">Erősítse meg az új PIN-kódot</string>
+    <string name="keyguard_sim_puk_new_pin_not_confirm">A PIN nincs megerősítve! Írja be újra az új PIN-kódot.</string>
+    <string name="keyguard_sim_puk_invalid_puk_input">A PUK-kódnak 8 számjegyből kell állnia! Írja be az új PUK-kódot</string>
+    <string name="keyguard_sim_puk_enter_puk_code">A telefon zárolásának feloldásához írja be a PUK-kódot</string>
+    <string name="keyguard_sim_puk_wrong_puk_code">Helytelen PUK-kód!</string>
+    <string name="dual_sim_settings_title">Kettős SIM választó</string>
+    <string name="config_during_poweron_title">SIM-ek kiválasztása bekapcsoláskor</string>
+    <string name="dlg_ok">OK</string>
+    <string name="cancel">Mégse</string>
+    <string name="missed_call">Nem fogadott hívás</string>
+    <string name="new_message">Új üzenet</string>
+    <string name="PinMmi">PIN-kód módosítása</string>
+    <string name="lockpassword_pin_too_short">A PIN kódnak legalább %d számjegyűnek kell lennie.</string>
+    <string name="lockpassword_password_too_short">A jelszónak legalább %d karakter hosszúnak kell lennie</string>
+</resources>

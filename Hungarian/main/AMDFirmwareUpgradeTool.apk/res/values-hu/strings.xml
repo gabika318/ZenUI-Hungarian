@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ASUS Miracast hardverkulcs eszköz</string>
+    <string name="ticker_remind_user_to_update_fw">Az ASUS Miracast dongle új firmware verziója elérhető</string>
+    <string name="notification_remind_user_to_update_fw">Új firmware érhető el</string>
+    <string name="info_remind_user_to_update_fw">"Új firmware érhető el. 
+Érintse meg a legújabb firmware letöltéséhez"</string>
+    <string name="dialog_info_confirm_user_to_download_fw">Szeretné letölteni a legújabb firmware verziót?</string>
+    <string name="ticker_notification_fw_download_completed">Firmware sikeresen letöltve</string>
+    <string name="info_fw_download_completed">"Firmware sikeresen letöltve. 
+Érintse meg a firmware frissítéséhez"</string>
+    <string name="ticker_notification_fw_download_fail">Firmware letöltése sikertelen</string>
+    <string name="info_fw_download_fail">Az új firmware letöltése sikertelen. Kérjük, csatlakoztassa újra az ASUS Miracast Dongle-t és próbálja újra.</string>
+    <string name="dialog_info_remind_user_to_start_to_upgrade_fw">"Szeretne frissíteni a legújabb firmware verzióra? 
+Kérjük, vegye figyelembe, hogy az ASUS Miracast dongle a frissítést követően újra fog indulni."</string>
+    <string name="check_ok">OK</string>
+    <string name="check_later">Később</string>
+    <string name="dialog_info_disconnect">Miracast leválasztva.</string>
+    <string name="ticker_notification_fw_update_success">A firmware frissítése sikeresen megtörtént</string>
+    <string name="info_fw_update_success">A firmware frissítése és a dongle újraindítása sikeresen megtörtént</string>
+    <string name="ticker_notification_fw_update_fail">A firmware frissítése sikertelen</string>
+    <string name="info_fw_update_fail_and_reset_dongle">A firmware frissítése és a dongle újraindítása sikertelen volt</string>
+    <string name="ticker_downloading">Letöltés...</string>
+    <string name="notification_download_in_progress">A firmware letöltése folyamatban van</string>
+    <string name="ticker_updating">Frissítés...</string>
+    <string name="notification_update_in_progress">A firmware-frissítés folyamatban van</string>
+    <string name="dialog_info_manual_firmware_update_instruction">Új ASUS Miracast hardverkulcs-firmware frissítés jelent meg. A frissítéshez kövesse a felhasználói kézikönyv <b>“%1$s”</b>" fejezetében található utasításokat. 
+A felhasználói kézikönyv letölthető az alábbi weboldalról: http://www.asus.com/Tablet_Mobile_Accessories/ASUS_Miracast_Dongle/#support"</string>
+    <string name="manual_section_title">Manuális firmware-frissítés laptop számítógép segítségével</string>
+</resources>

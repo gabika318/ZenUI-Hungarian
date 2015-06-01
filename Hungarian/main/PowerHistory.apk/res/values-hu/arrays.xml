@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="setting_list">
+        <item>Töltés óta</item>
+        <item>Kihúzás óta</item>
+    </string-array>
+    <string-array name="auto_answer_entries">
+        <item>Lekérés és művelet választása</item>
+        <item>Lekérés fogadáshoz</item>
+    </string-array>
+    <string-array name="touch_key_light_duration_entries">
+        <item>2 másodperc</item>
+        <item>10 másodperc</item>
+        <item>Mindig bekapcsolva</item>
+        <item>Mindig ki</item>
+    </string-array>
+    <string-array name="recent_apps_key_long_press_control_entries">
+        <item>Érintse meg és tartsa a képernyőképhez</item>
+        <item>Érintse meg és tartsa a menü megjelenítéséhez</item>
+    </string-array>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="miss_call_plural">
+        <item quantity="other">%1$s nem fogadott hívása van %2$s hívótól. Visszahívja?</item>
+        <item quantity="one">%1$s nem fogadott hívása van %2$s hívótól. Visszahívja?</item>
+    </plurals>
+    <plurals name="new_message_plural">
+        <item quantity="other">%1$s új üzenet érkezett %2$s feladótól. Elolvassa most?</item>
+        <item quantity="one">%1$s új üzenet érkezett %2$s feladótól. Elolvassa most?</item>
+    </plurals>
+    <plurals name="new_email_plural">
+        <item quantity="other">%1$s új e-mail érkezett %2$s feladótól. Elolvassa most?</item>
+        <item quantity="one">%1$s új e-mail érkezett %2$s feladótól. Elolvassa most?</item>
+    </plurals>
+    <plurals name="day_plural">
+        <item quantity="other">nap</item>
+        <item quantity="one">nap</item>
+    </plurals>
+    <plurals name="hour_plural">
+        <item quantity="other">óra</item>
+        <item quantity="one">óra</item>
+    </plurals>
+    <plurals name="min_plural">
+        <item quantity="other">perc</item>
+        <item quantity="one">perc</item>
+    </plurals>
+    <plurals name="sec_plural">
+        <item quantity="other">mp</item>
+        <item quantity="one">mp</item>
+    </plurals>
+    <plurals name="lockscreen_miss_call_plural">
+        <item quantity="other">%1$d nem fogadott hívás</item>
+        <item quantity="one">%1$d nem fogadott hívás</item>
+    </plurals>
+    <plurals name="lockscreen_miss_mail_plural">
+        <item quantity="other">%1$d új e-mail</item>
+        <item quantity="one">%1$d új e-mail</item>
+    </plurals>
+    <plurals name="lockscreen_miss_sms_plural">
+        <item quantity="other">%1$d új üzenet</item>
+        <item quantity="one">%1$d új üzenet</item>
+    </plurals>
+</resources>

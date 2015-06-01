@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d naponta</item>
+        <item quantity="one">%d naponta</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d hetente</item>
+        <item quantity="one">%d hetente</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d havonta</item>
+        <item quantity="one">%d havonta</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d évente</item>
+        <item quantity="one">%d évente</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d eseményhez</item>
+        <item quantity="one">%d eseményhez</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d alkalommal</item>
+        <item quantity="one">; egyszer</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d naponta</item>
+        <item quantity="one">Naponta</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d hetente – %2$si napon</item>
+        <item quantity="one">Hetente – %2$si napon</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d kiválasztva</item>
+        <item quantity="zero">%1$d kiválasztva</item>
+        <item quantity="one">%1$d kiválasztva</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d óra</item>
+        <item quantity="one">%1$d óra</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d óra</item>
+        <item quantity="one">%1$d ó</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">%1$d perc</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d p</item>
+        <item quantity="one">%1$d p</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d nap</item>
+        <item quantity="one">%1$d nap</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d nap</item>
+        <item quantity="one">%1$d nap</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d hónap</item>
+        <item quantity="one">%1$d hónap</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d hónap</item>
+        <item quantity="one">%1$d hónap</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d év</item>
+        <item quantity="one">%1$d év</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d év</item>
+        <item quantity="one">%1$d év</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">%1$d elem innen:</item>
+        <item quantity="one">%1$d elem innen:</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">Az utolsó hazafelé tartó busz %2$s%1$d percen belül%3$s indul</item>
+        <item quantity="one">Az utolsó hazafelé tartó busz %2$s%1$d percen belül%3$s indul</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">Az utolsó busz %2$s%1$d percen belül%3$s indul a szálloda felé</item>
+        <item quantity="one">Az utolsó busz %2$s%1$d percen belül%3$s indul a szálloda felé</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">Utolsó vonat hazafelé %2$s%1$d perc%3$s múlva</item>
+        <item quantity="one">Az utolsó vonat %2$s%1$d perc%3$s múlva indul hazafelé.</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">Az utolsó járat %2$s%1$d perc%3$s múlva indul a szálloda felé.</item>
+        <item quantity="one">Az utolsó vonat %2$s%1$d perc%3$s múlva indul a szálloda felé.</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">Az utolsó hazafelé tartó járat %2$s%1$d percen belül%3$s indul</item>
+        <item quantity="one">Az utolsó hazafelé tartó járat %2$s%1$d percen belül%3$s indul</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">Az utolsó járat %2$s%1$d percen belül%3$s indul a szálloda felé</item>
+        <item quantity="one">Az utolsó járat %2$s%1$d percen belül%3$s indul a szálloda felé</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext">
+        <item quantity="other">Sétáljon %1$d percet a(z) %2$s állomáshoz, a(z) %3$s. vágányhoz</item>
+        <item quantity="zero">%2$s, %3$s. vágány</item>
+        <item quantity="one">Sétáljon %1$d percet a(z) %2$s állomáshoz, a(z) %3$s. vágányhoz</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">%d perces késés</item>
+        <item quantity="zero">nincs késés</item>
+        <item quantity="one">%d perces késés</item>
+        <item quantity="two">%d perces késés</item>
+        <item quantity="few">%d perces késés</item>
+        <item quantity="many">%d perces késés</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">Átlagnál %d perccel több</item>
+        <item quantity="zero">nincs késés</item>
+        <item quantity="one">Átlagnál %d perccel több</item>
+        <item quantity="two">Átlagnál %d perccel több</item>
+        <item quantity="few">Átlagnál %d perccel több</item>
+        <item quantity="many">Átlagnál %d perccel több</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">%d perccel kevesebb</item>
+        <item quantity="zero">nincs késés</item>
+        <item quantity="one">%d perccel kevesebb</item>
+        <item quantity="two">%d perccel kevesebb</item>
+        <item quantity="few">%d perccel kevesebb</item>
+        <item quantity="many">%d perccel kevesebb</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">Átlagos forgalom: %d perc késés</item>
+        <item quantity="zero">Átlagos forgalom: nincs késés</item>
+        <item quantity="one">Átlagos forgalom: %d perc késés</item>
+        <item quantity="two">Átlagos forgalom: %d perc késés</item>
+        <item quantity="few">Átlagos forgalom: %d perc késés</item>
+        <item quantity="many">Átlagos forgalom: %d perc késés</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">%d perc késés</item>
+        <item quantity="one">1 perc késés</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">%d perccel korábban</item>
+        <item quantity="one">1 perccel korábban</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">%1$s percenként</item>
+        <item quantity="one">%1$s percenként</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">%1$d óránként</item>
+        <item quantity="one">%1$d óránként</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$d hosszabbítás</item>
+        <item quantity="one">Hosszabbítás</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">Érkezés %1$d perccel korábban</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">Érkezés a járat indulása előtt %1$d perccel</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">Érkezés %1$d perccel az asztalfoglalás érvényessége előtt</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">Érkezés a film előtt %1$d perccel</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">Érkezés a koncert előtt %1$d perccel</item>
+    </plurals>
+    <plurals name="next_meeting_card_settings_summary">
+        <item quantity="other">%1$d naptár</item>
+        <item quantity="one">%1$d naptár</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">%d kártya</item>
+        <item quantity="zero">Nincs kártya</item>
+        <item quantity="one">%d kártya</item>
+        <item quantity="two">%d kártya</item>
+        <item quantity="few">%d kártya</item>
+        <item quantity="many">%d kártya</item>
+    </plurals>
+    <plurals name="num_reviews">
+        <item quantity="other">%1$d vélemény</item>
+        <item quantity="one">%1$d vélemény</item>
+    </plurals>
+    <plurals name="miles">
+        <item quantity="other">&lt;font face=sans-serif>%d&lt;/font> mérföld</item>
+        <item quantity="one">&lt;font face=sans-serif>%d&lt;/font> mérföld</item>
+    </plurals>
+    <plurals name="kilometers">
+        <item quantity="other">&lt;font face=sans-serif>%d&lt;/font> kilométer</item>
+        <item quantity="one">&lt;font face=sans-serif>%d&lt;/font> kilométer</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">%1$d emlékeztető</item>
+        <item quantity="one">%1$d emlékeztető</item>
+    </plurals>
+    <plurals name="deleted">
+        <item quantity="other">%1$d törölve</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">%1$d személy osztja meg Önnel</item>
+        <item quantity="one">%1$d személy osztotta meg Önnel</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">%1$d nap múlva lejár</item>
+        <item quantity="one">%1$d nap múlva lejár</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">%1$d óra múlva lejár</item>
+        <item quantity="one">%1$d óra múlva lejár</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">%1$d perc múlva lejár</item>
+        <item quantity="one">%1$d perc múlva lejár</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$,d megtekintés</item>
+        <item quantity="one">%1$,d megtekintés</item>
+    </plurals>
+    <plurals name="calendar_event_meeting_summary_with_attendees">
+        <item quantity="other">&lt;xliff id="subject" example="Meeting">%1$s&lt;/xliff> (&lt;xliff id="attendee_list" example="Paul, Peter, Jane, Hertha">%2$s&lt;/xliff>)</item>
+        <item quantity="one">&lt;xliff id="subject" example="Meeting">%1$s&lt;/xliff> – &lt;xliff id="attendee_list" example="Hertha">%2$s&lt;/xliff></item>
+    </plurals>
+</resources>

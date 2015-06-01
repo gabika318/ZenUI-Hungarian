@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>ISMÉTLÉS NAPONTA</item>
+        <item>ISMÉTLÉS HETENTE</item>
+        <item>ISMÉTLÉS HAVONTA</item>
+        <item>ISMÉTLÉS ÉVENTE</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>minden első vasárnap</item>
+        <item>minden második vasárnap</item>
+        <item>minden harmadik vasárnap</item>
+        <item>minden negyedik vasárnap</item>
+        <item>minden utolsó vasárnap</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>minden első hétfőn</item>
+        <item>minden második hétfőn</item>
+        <item>minden harmadik hétfőn</item>
+        <item>minden negyedik hétfőn</item>
+        <item>minden utolsó hétfőn</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>minden első kedden</item>
+        <item>minden második kedden</item>
+        <item>minden harmadik kedden</item>
+        <item>minden negyedik kedden</item>
+        <item>minden utolsó kedden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>minden első szerdán</item>
+        <item>minden második szerdán</item>
+        <item>minden harmadik szerdán</item>
+        <item>minden negyedik szerdán</item>
+        <item>minden utolsó szerdán</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>minden első csütörtökön</item>
+        <item>minden második csütörtökön</item>
+        <item>minden harmadik csütörtökön</item>
+        <item>minden negyedik csütörtökön</item>
+        <item>minden utolsó csütörtökön</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>minden első pénteken</item>
+        <item>minden második pénteken</item>
+        <item>minden harmadik pénteken</item>
+        <item>minden negyedik pénteken</item>
+        <item>minden utolsó pénteken</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>minden első szombaton</item>
+        <item>minden második szombaton</item>
+        <item>minden harmadik szombaton</item>
+        <item>minden negyedik szombaton</item>
+        <item>minden utolsó szombaton</item>
+    </string-array>
+    <string-array name="action_local_directions_travel_mode">
+        <item>Autó</item>
+        <item>Séta</item>
+        <item>Tömegközlekedés</item>
+        <item>Kerékpár</item>
+    </string-array>
+    <string-array name="action_local_navigate_travel_mode">
+        <item>Autó</item>
+        <item>Séta</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1. ütés</item>
+        <item>2. ütés</item>
+        <item>3. ütés</item>
+        <item>4. ütés</item>
+        <item>5. ütés</item>
+        <item>6. ütés</item>
+        <item>7. ütés</item>
+        <item>8. ütés</item>
+        <item>9. ütés</item>
+        <item>10. ütés</item>
+        <item>11. ütés</item>
+        <item>12. ütés</item>
+    </string-array>
+    <string-array name="location_history_reminder_title_with_month">
+        <item>%1$s januárban</item>
+        <item>%1$s februárban</item>
+        <item>%1$s márciusban</item>
+        <item>%1$s áprilisban</item>
+        <item>%1$s májusban</item>
+        <item>%1$s júniusban</item>
+        <item>%1$s júliusban</item>
+        <item>%1$s augusztusban</item>
+        <item>%1$s szeptemberben</item>
+        <item>%1$s októberben</item>
+        <item>%1$s novemberben</item>
+        <item>%1$s decemberben</item>
+    </string-array>
+    <string-array name="location_history_reminder_title_duration_with_month">
+        <item>%1$s januárban</item>
+        <item>%1$s februárban</item>
+        <item>%1$s márciusban</item>
+        <item>%1$s áprilisban</item>
+        <item>%1$s májusban</item>
+        <item>%1$s júniusban</item>
+        <item>%1$s júliusban</item>
+        <item>%1$s augusztusban</item>
+        <item>%1$s szeptemberben</item>
+        <item>%1$s októberben</item>
+        <item>%1$s novemberben</item>
+        <item>%1$s decemberben</item>
+    </string-array>
+    <string-array name="location_history_reminder_months">
+        <item>január</item>
+        <item>február</item>
+        <item>március</item>
+        <item>április</item>
+        <item>május</item>
+        <item>június</item>
+        <item>július</item>
+        <item>augusztus</item>
+        <item>szeptember</item>
+        <item>október</item>
+        <item>november</item>
+        <item>december</item>
+    </string-array>
+    <string-array name="location_history_reminder_diff">
+        <item>%1$s távolsággal %2$s, mint januárban</item>
+        <item>%1$s távolsággal %2$s, mint februárban</item>
+        <item>%1$s távolsággal %2$s, mint márciusban</item>
+        <item>%1$s távolsággal %2$s, mint áprilisban</item>
+        <item>%1$s távolsággal %2$s, mint májusban</item>
+        <item>%1$s távolsággal %2$s, mint júniusban</item>
+        <item>%1$s távolsággal %2$s, mint júliusban</item>
+        <item>%1$s távolsággal %2$s, mint augusztusban</item>
+        <item>%1$s távolsággal %2$s, mint szeptemberben</item>
+        <item>%1$s távolsággal %2$s, mint októberben</item>
+        <item>%1$s távolsággal %2$s, mint novemberben</item>
+        <item>%1$s távolsággal %2$s, mint decemberben</item>
+    </string-array>
+    <string-array name="location_history_reminder_duration_diff">
+        <item>Januárhoz képest a különbség: %1$s (%2$s)</item>
+        <item>Februárhoz képest a különbség: %1$s (%2$s)</item>
+        <item>Márciushoz képest a különbség: %1$s (%2$s)</item>
+        <item>Áprilishoz képest a különbség: %1$s (%2$s)</item>
+        <item>Májushoz képest a különbség: %1$s (%2$s)</item>
+        <item>Júniushoz képest a különbség: %1$s (%2$s)</item>
+        <item>Júliushoz képest a különbség: %1$s (%2$s)</item>
+        <item>Augusztushoz képest a különbség: %1$s (%2$s)</item>
+        <item>Szeptemberhez képest a különbség: %1$s (%2$s)</item>
+        <item>Októberhez képest a különbség: %1$s (%2$s)</item>
+        <item>Novemberhez képest a különbség: %1$s (%2$s)</item>
+        <item>Decemberhez képest a különbség: %1$s (%2$s)</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>afrikánsz (Dél-Afrika)</item>
+        <item>arab (Algéria)</item>
+        <item>arab (Egyiptom)</item>
+        <item>arab (Irak)</item>
+        <item>arab (Izrael)</item>
+        <item>arab (Jordánia)</item>
+        <item>arab (Kuvait)</item>
+        <item>arab (Libanon)</item>
+        <item>arab (Líbia)</item>
+        <item>arab (Marokkó)</item>
+        <item>arab (Katar)</item>
+        <item>arab (Szaúd-Arábia)</item>
+        <item>arab (Szudán)</item>
+        <item>arab (Szíria)</item>
+        <item>arab (Tunézia)</item>
+        <item>arab (Egyesült Arab Emírségek)</item>
+        <item>arab (Jemen)</item>
+        <item>fehérorosz (Fehéroroszország)</item>
+        <item>bengáli (Banglades)</item>
+        <item>bolgár (Bulgária)</item>
+        <item>katalán (Spanyolország)</item>
+        <item>kínai, mandarin (Kína, egyszerűsített)</item>
+        <item>kínai, mandarin (Hongkong, egyszerűsített)</item>
+        <item>kínai, mandarin (Hongkong, hagyományos)</item>
+        <item>kínai, mandarin (Szingapúr, egyszerűsített)</item>
+        <item>kínai, mandarin (Tajvan, egyszerűsített)</item>
+        <item>kínai, mandarin (Tajvan, tradicionális)</item>
+        <item>kínai, kantoni (kínai, egyszerűsített)</item>
+        <item>kínai, kantoni (Hongkong, hagyományos)</item>
+        <item>horvát (Horvátország)</item>
+        <item>cseh (Cseh Köztársaság)</item>
+        <item>dán (Dánia)</item>
+        <item>holland (Belgium)</item>
+        <item>holland (Hollandia)</item>
+        <item>angol (általános)</item>
+        <item>angol (Ausztrália)</item>
+        <item>angol (Banglades)</item>
+        <item>angol (Kanada)</item>
+        <item>angol (Hongkong)</item>
+        <item>angol (India)</item>
+        <item>angol (Írország)</item>
+        <item>angol (Kenya)</item>
+        <item>angol (Malajzia)</item>
+        <item>angol (Új-Zéland)</item>
+        <item>angol (Nigéria)</item>
+        <item>angol (Pakisztán)</item>
+        <item>angol (Fülöp-szigetek)</item>
+        <item>angol (Szingapúr)</item>
+        <item>angol (Dél-afrikai Köztársaság)</item>
+        <item>angol (Szudán)</item>
+        <item>angol (Tanzánia)</item>
+        <item>angol (Uganda)</item>
+        <item>angol (Egyesült Királyság)</item>
+        <item>angol (amerikai)</item>
+        <item>észt (Észtország)</item>
+        <item>filippínó (Fülöp-szigetek)</item>
+        <item>finn (Finnország)</item>
+        <item>francia (Belgium)</item>
+        <item>francia (Kanada)</item>
+        <item>francia (Franciaország)</item>
+        <item>francia (Svájc)</item>
+        <item>galíciai (Spanyolország)</item>
+        <item>német (Ausztria)</item>
+        <item>német (Németország)</item>
+        <item>német (Svájc)</item>
+        <item>német (Liechtenstein)</item>
+        <item>görög (Görögország)</item>
+        <item>héber (Izrael)</item>
+        <item>hindi (India)</item>
+        <item>magyar (Magyarország)</item>
+        <item>izlandi (Izland)</item>
+        <item>indonéz (Indonézia)</item>
+        <item>ír (Írország)</item>
+        <item>isiNdebele (Dél-afrikai Köztársaság)</item>
+        <item>isiXhosa (Dél-afrikai Köztársaság)</item>
+        <item>isiZulu (Dél-afrikai Köztársaság)</item>
+        <item>olasz (Olaszország)</item>
+        <item>olasz (Svájc)</item>
+        <item>japán (Japán)</item>
+        <item>koreai (Dél-Korea)</item>
+        <item>lett (Lettország)</item>
+        <item>litván (Litvánia)</item>
+        <item>maláj (Malajzia)</item>
+        <item>maláj (Szingapúr)</item>
+        <item>norvég, bokmål (Norvégia)</item>
+        <item>norvég, nynorsk (Norvégia)</item>
+        <item>perzsa (Irán)</item>
+        <item>lengyel (Lengyelország)</item>
+        <item>portugál (Angola)</item>
+        <item>portugál (Brazília)</item>
+        <item>portugál (Portugália)</item>
+        <item>román (Románia)</item>
+        <item>orosz (Fehéroroszország)</item>
+        <item>orosz (Oroszország)</item>
+        <item>sepedi (Dél-afrikai Köztársaság)</item>
+        <item>szerb (Szerbia, cirill)</item>
+        <item>sesotho (Dél-afrikai Köztársaság)</item>
+        <item>setswana (Dél-afrikai Köztársaság)</item>
+        <item>siSwati (Dél-afrikai Köztársaság)</item>
+        <item>szlovák (Szlovákia)</item>
+        <item>szlovén (Szlovénia)</item>
+        <item>spanyol (Argentína)</item>
+        <item>spanyol (Bolívia)</item>
+        <item>spanyol (Chile)</item>
+        <item>spanyol (Kolumbia)</item>
+        <item>spanyol (Costa Rica)</item>
+        <item>spanyol (Kuba)</item>
+        <item>spanyol (Dominikai Köztársaság)</item>
+        <item>spanyol (Ecuador)</item>
+        <item>spanyol (El Salvador)</item>
+        <item>spanyol (Guatemala)</item>
+        <item>spanyol (Honduras)</item>
+        <item>spanyol (Mexikó)</item>
+        <item>spanyol (Nicaragua)</item>
+        <item>spanyol (Panama)</item>
+        <item>spanyol (Paraguay)</item>
+        <item>spanyol (Peru)</item>
+        <item>spanyol (Puerto Rico)</item>
+        <item>spanyol (Spanyolország)</item>
+        <item>spanyol (Amerikai Egyesült Államok)</item>
+        <item>spanyol (Uruguay)</item>
+        <item>spanyol (Venezuela)</item>
+        <item>szuahéli (Kenya)</item>
+        <item>szuahéli (Tanzánia)</item>
+        <item>szuahéli (Uganda)</item>
+        <item>svéd (Finnország)</item>
+        <item>svéd (Svédország)</item>
+        <item>thai (Thaiföld)</item>
+        <item>tshivenda (Dél-afrikai Köztársaság)</item>
+        <item>török (Törökország)</item>
+        <item>ukrán (Ukrajna)</item>
+        <item>urdu (Pakisztán)</item>
+        <item>vietnami (Vietnam)</item>
+        <item>xitsonga (Dél-afrikai Köztársaság)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Ma</item>
+        <item>Holnap</item>
+        <item>Hétvége</item>
+        <item>Dátum beállítása…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Reggel</item>
+        <item>Délután</item>
+        <item>Este</item>
+        <item>Éjszaka</item>
+        <item>Egész nap</item>
+        <item>Idő beállítása…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Érkezés</item>
+        <item>Távozás</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Otthon</item>
+        <item>Munkahely</item>
+        <item>Hely beállítása…</item>
+    </string-array>
+</resources>

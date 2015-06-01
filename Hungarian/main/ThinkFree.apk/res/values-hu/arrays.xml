@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="image_share_types">
+        <item>Különálló fájlok</item>
+        <item>Tömörített fájl</item>
+    </string-array>
+    <string-array name="image_quality_items">
+        <item>Normál</item>
+        <item>Magas</item>
+    </string-array>
+    <string-array name="symbol_font">
+        <item>Webdings</item>
+        <item>Wingdings</item>
+        <item>Wingdings 2</item>
+        <item>Wingdings 3</item>
+    </string-array>
+    <string-array name="back_key_entries">
+        <item>Egy szinttel feljebb</item>
+        <item>Kilépés</item>
+    </string-array>
+    <string-array name="back_key_summaries_phone">
+        <item>A vissza gombbal egy szinttel feljebb léphet a tárolóban.</item>
+        <item>A vissza gombbal kiléphet a tárolóból.</item>
+    </string-array>
+    <string-array name="back_key_summaries_tablet">
+        <item>A vissza gombbal egy szinttel feljebb léphet a tárolóban.</item>
+        <item>A vissza gombbal kiléphet az alkalmazásból és visszatérhet a kezdőképernyőre.</item>
+    </string-array>
+    <string-array name="download_dir_entries">
+        <item>Konkrét mappa</item>
+        <item>Mindig kérdezzen rá</item>
+    </string-array>
+    <string-array name="calc_font_sizes">
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+        <item>36</item>
+        <item>48</item>
+        <item>72</item>
+        <item>108</item>
+        <item>120</item>
+        <item>160</item>
+        <item>200</item>
+        <item>240</item>
+        <item>280</item>
+        <item>320</item>
+    </string-array>
+    <string-array name="calc_indent_sizes">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="calc_conditional_formatting_cell_value_operators">
+        <item>a következők között van</item>
+        <item>nincs a következők között</item>
+        <item>=</item>
+        <item>&lt;></item>
+        <item>></item>
+        <item>&lt;</item>
+        <item>>=</item>
+        <item>&lt;=</item>
+    </string-array>
+    <string-array name="calc_func_categories">
+        <item>Dátum és idő</item>
+        <item>Adatbázis</item>
+        <item>Mérnöki</item>
+        <item>Pénzügyi</item>
+        <item>Információ</item>
+        <item>Logikai</item>
+        <item>Keresés–hivatkozás</item>
+        <item>Mat. és trigonom.</item>
+        <item>Statisztikai</item>
+        <item>Szöveg</item>
+    </string-array>
+    <string-array name="write_display_modes">
+        <item>Eredeti megjelenés</item>
+        <item>Megjelenítés pozitívban</item>
+        <item>Megjelenítés negatívban</item>
+    </string-array>
+</resources>

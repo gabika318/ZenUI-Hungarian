@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sliding_menu_array">
+        <item>Saját eszköz</item>
+        <item>Lejátszási lista</item>
+        <item>ASUS HomeCloud</item>
+        <item>Felhő zene</item>
+        <item>Közeli forrás</item>
+    </string-array>
+    <string-array name="library_list">
+        <item>Album</item>
+        <item>Előadó</item>
+        <item>Dalok</item>
+        <item>Műfajok</item>
+        <item>Zeneszerző</item>
+        <item>Mappa</item>
+    </string-array>
+    <string-array name="weeklist">
+        <item>1 hét</item>
+        <item>2 hét</item>
+        <item>3 hét</item>
+        <item>4 hét</item>
+        <item>5 hét</item>
+        <item>6 hét</item>
+        <item>7 hét</item>
+        <item>8 hét</item>
+        <item>9 hét</item>
+        <item>10 hét</item>
+        <item>11 hét</item>
+        <item>12 hét</item>
+    </string-array>
+</resources>

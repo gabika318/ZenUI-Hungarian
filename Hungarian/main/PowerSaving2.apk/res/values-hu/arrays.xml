@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Mindig</item>
+        <item>Csak ha csatlakoztatva van</item>
+        <item>Soha (növeli az adatforgalmat)</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Mindig</item>
+        <item>Csak ha csatlakoztatva van</item>
+        <item>Soha</item>
+    </string-array>
+</resources>

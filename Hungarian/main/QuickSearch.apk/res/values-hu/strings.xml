@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_search">Google Keresés</string>
+    <string name="google_translate">Google Fordító</string>
+    <string name="google_define">A meghatározás a Google oldalon</string>
+    <string name="wikipedia">Wikipedia</string>
+</resources>

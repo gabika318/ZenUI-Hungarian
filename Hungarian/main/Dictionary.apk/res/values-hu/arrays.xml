@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="language_array">
+        <item>Nyelvfelismerés</item>
+        <item>Arab</item>
+        <item>Bolgár</item>
+        <item>Katalán</item>
+        <item>Kínai (Egyszerűsített)</item>
+        <item>Kínai (Hagyományos)</item>
+        <item>Cseh</item>
+        <item>Dán</item>
+        <item>Holland</item>
+        <item>Angol</item>
+        <item>Észt</item>
+        <item>Finn</item>
+        <item>Francia</item>
+        <item>Német</item>
+        <item>Görög</item>
+        <item>Haiti kreol</item>
+        <item>Héber</item>
+        <item>Hindi</item>
+        <item>Hmong daw</item>
+        <item>Magyar</item>
+        <item>Indonéz</item>
+        <item>Olasz</item>
+        <item>Japán</item>
+        <item>Koreai</item>
+        <item>Lett</item>
+        <item>Litván</item>
+        <item>Norvég</item>
+        <item>Lengyel</item>
+        <item>Portugál</item>
+        <item>Román</item>
+        <item>Orosz</item>
+        <item>Szlovák</item>
+        <item>Szlovén</item>
+        <item>Spanyol</item>
+        <item>Svéd</item>
+        <item>Thaiföldi</item>
+        <item>Török</item>
+        <item>Ukrán</item>
+        <item>Vietnami</item>
+    </string-array>
+</resources>

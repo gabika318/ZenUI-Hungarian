@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel_button_text">Mégse</string>
+    <string name="save_button_text">Mentés</string>
+    <string name="edit_contacts_label">Partnerek minialkalmazás</string>
+    <string name="contacts_in_widget">Widget-partnerek</string>
+    <string name="all_contacts">Összes partner</string>
+    <string name="starred">Csillaggal jelölt</string>
+    <string name="no_contacts_in_widget">Nincs partner</string>
+    <string name="select_the_contacts_you_want_to_add_to_widget">Jelölje ki a minialkalmazásba felvenni kívánt partnereket</string>
+    <string name="set_default_action_label">Alapértelmezett művelet beállítása</string>
+    <string name="select_a_default_action">Válasszon egy alapértelmezett műveletet</string>
+    <string name="call">Hívás</string>
+    <string name="new_message">Új üzenet</string>
+    <string name="send_mail">E-mail küldése</string>
+    <string name="chat_with_msn">Csevegés</string>
+    <string name="view_contact">Partner megtekintése</string>
+    <string name="set_default_action">Alapértelmezett művelet beállítása</string>
+    <string name="no_default_action">Nincs alapértelmezett művelet</string>
+    <string name="ok">OK</string>
+    <string name="can_only_add_one_contacts_widget">Csak egy ASUS Contacts minialkalmazás adható hozzá</string>
+    <string name="this_contact_does_not_exist">Nem létező partner</string>
+    <string name="invalid_action_string">Sikertelen művelet: Elképzelhető, hogy a partner adatai módosultak</string>
+    <string name="app_name2">Személyek</string>
+    <string name="quickcontact_missing_name">Ismeretlen</string>
+    <string name="display_all_contacts">Összes névjegy</string>
+    <string name="hint_findContacts">Névjegy keresése</string>
+    <string name="menu_done">Kész</string>
+    <string name="menu_discard">Elvetés</string>
+    <string name="edit_group_add_contact">Hozzáadás</string>
+    <string name="search_result">Keresés eredménye</string>
+    <string name="no_contact_in_widget_tap">"Nincs partner a minialkalmazásban
+Érintse meg itt a hozzáadásához"</string>
+    <string name="no_contact_in_widget">Nincs partner a minialkalmazásban</string>
+    <string name="no_contacts">Nincs partner</string>
+    <string name="add_contact_to_widget">Partnerek hozzáadása a minialkalmazáshoz</string>
+    <string name="edit_contact_to_widget">Szerkesztés</string>
+    <string name="contacts_str">Partnerek</string>
+    <string name="people_widget">Személyek minialkalmazás</string>
+    <string name="my_contacts">Partnerek</string>
+    <string name="contacts_possessive">%s partnerei</string>
+</resources>

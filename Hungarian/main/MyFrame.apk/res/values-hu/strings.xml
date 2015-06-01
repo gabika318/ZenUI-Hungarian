@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description">Alapértelmezett ASUS élő háttérkép.</string>
+    <string name="about">Névjegy</string>
+    <string name="myframe_setting">MyFrame beállítások</string>
+    <string name="time_interval_title">Diabemutató időköze</string>
+    <string name="interval_10s">10 másodperc</string>
+    <string name="interval_30s">30 másodperc</string>
+    <string name="interval_1m">1 perc</string>
+    <string name="interval_5m">5 perc</string>
+    <string name="interval_15m">15 perc</string>
+    <string name="interval_30m">30 perc</string>
+    <string name="interval_1h">1 óra</string>
+    <string name="effect_type_title">Effektusok</string>
+    <string name="effect_fullscreen_option">Véletlenszerű</string>
+    <string name="effect_zoom_option">Zoom</string>
+    <string name="effect_static_option">Statikus</string>
+    <string name="enable_scroll_title">Gördülő háttérkép</string>
+    <string name="enable_scroll_summary">Görgesse az induló képernyőt a kijelölt fotók különböző területeinek megtekintéséhez.</string>
+    <string name="select_photo_album_title">Album vagy fotók választása</string>
+    <string name="select_default_option">Alapértelmezett</string>
+    <string name="select_photo_option">Fotók kiválasztása</string>
+    <string name="select_album_option">Album kiválasztása</string>
+</resources>

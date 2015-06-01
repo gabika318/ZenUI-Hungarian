@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="item_selected">
+        <item quantity="other">%d elem kiválasztva</item>
+        <item quantity="one">%d elem kiválasztva</item>
+    </plurals>
+    <plurals name="delete_speeddial_warning">
+        <item quantity="other">Törölni akar %d elemet a gyorstárcsázó listáról?</item>
+        <item quantity="one">Törölni akar %d elemet a gyorstárcsázó listáról?</item>
+    </plurals>
+    <plurals name="delete_mostvisited_warning">
+        <item quantity="other">Törölni akar %d elemet a gykran látogatott listáról?</item>
+        <item quantity="one">Törölni akar %d elemet a gykran látogatott listáról?</item>
+    </plurals>
+</resources>

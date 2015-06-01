@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uv_comments">
+        <item quantity="other">megjegyzések</item>
+        <item quantity="one">megjegyzés</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="other">előfizetők</item>
+        <item quantity="one">előfizető</item>
+    </plurals>
+    <plurals name="uv_articles">
+        <item quantity="other">cikkek</item>
+        <item quantity="one">cikk</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="other">ötletek</item>
+        <item quantity="one">ötlet</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="other">személyek</item>
+        <item quantity="one">személy</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="other">%1$s ezt az ötletet akarják</item>
+        <item quantity="one">%1$s ezt az ötletet akarja</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="other">témák</item>
+        <item quantity="one">téma</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="other">%1$s kedveli ezt a témát</item>
+        <item quantity="one">%1$s kedveli ezt a témát</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">%d dal</item>
+        <item quantity="one">1 dal</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d / %1$d dal</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d album</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d dal törölve.</item>
+        <item quantity="one">1 dal törölve.</item>
+    </plurals>
+    <plurals name="NNNtrackstoqueue">
+        <item quantity="other">%d dal felvéve a sorba.</item>
+        <item quantity="one">1 dal felvéve a sorba.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d dal felvéve a lejátszási listára.</item>
+        <item quantity="one">1 dal felvéve a lejátszási listára.</item>
+    </plurals>
+</resources>

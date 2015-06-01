@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="drag_items">
+        <item quantity="other">Elemek elhúzása</item>
+        <item quantity="one">Elem elhúzása</item>
+    </plurals>
+    <plurals name="dialog_unzip_preview_size_text">
+        <item quantity="other">Összes: %1$d fájl, %2$s</item>
+        <item quantity="one">Összes: %1$d fájl, %2$s</item>
+    </plurals>
+    <plurals name="number_selected_items">
+        <item quantity="other">%d elem kiválasztva</item>
+        <item quantity="one">%d elem kiválasztva</item>
+    </plurals>
+</resources>

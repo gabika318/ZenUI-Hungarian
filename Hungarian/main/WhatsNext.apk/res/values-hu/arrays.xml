@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_reminder_text_1">
+        <item>lvezd a napstst.</item>
+        <item>Ne felejtsen el elegendő napvédőkrémet használni!</item>
+        <item>Ht gra st a nap!</item>
+        <item>Ne felejtse otthon a napvédőkrémet, kalapot és napszemüveget!</item>
+        <item>Tkletes idő van egy kis napozshoz.</item>
+    </string-array>
+    <string-array name="weather_reminder_text_4">
+        <item>Tkletes az idő, hogy lgj egy kicsit a cimborkkal!</item>
+        <item>Taln rdemes lenne valami beltri programot szervezni</item>
+    </string-array>
+    <string-array name="weather_reminder_text_5">
+        <item>Ne feledkezz meg a megfelelő faktor naptejről.</item>
+        <item>Kirándulást tervezhet.</item>
+        <item>Taln rdemes lenne valami beltri programot szervezni.</item>
+    </string-array>
+    <string-array name="weather_reminder_text_6">
+        <item>Ne feledkezz meg a megfelelő faktor naptejről.</item>
+        <item>Nha olyan jrzs otthon maradni!</item>
+        <item>Kivl az idő valami kinti programhoz.</item>
+    </string-array>
+    <string-array name="weather_reminder_text_7">
+        <item>Szereted nzni a brnyfelhőket? Most megteheted.</item>
+        <item>Ne feledkezz meg a megfelelő faktor naptejről.</item>
+        <item>Kellemes az idő egy kis kinti kikapcsoldshoz.</item>
+    </string-array>
+    <string-array name="weather_reminder_text_8">
+        <item>Nha olyan jrzs otthon maradni!</item>
+    </string-array>
+    <string-array name="weather_reminder_text_11">
+        <item>Lgy vatos a vezetssel.</item>
+    </string-array>
+    <string-array name="weather_reminder_text_12">
+        <item>Egy esőkabt segthet, hogy ne zz csurig.</item>
+        <item>Maradjon szárazon.</item>
+        <item>Ne zz meg a zporokban.</item>
+        <item>Ne feledd magaddal vinni az esernyőd.</item>
+        <item>Vezess vatosan.</item>
+        <item>Taln nem rtana felvenni egy lenge esőkabtot.</item>
+    </string-array>
+    <string-array name="weather_reminder_text_13">
+        <item>A vízálló dzseki segít szárazon maradni.</item>
+        <item>Ne feledd magaddal vinni az esernyőd.</item>
+        <item>Taln nem rtana felvenni egy lenge esőkabtot.</item>
+    </string-array>
+    <string-array name="weather_reminder_text_14">
+        <item>Zivatarra van kilátás.</item>
+        <item>Könnyű esőkabátot viseljen!</item>
+    </string-array>
+    <string-array name="weather_reminder_text_15">
+        <item>Biztonsgosabb otthon maradni.</item>
+        <item>gyelj a biztonsgra, s lgy kszenltben.</item>
+        <item>Ne feledd magaddal vinni az esernyőd.</item>
+        <item>Vezess vatosan.</item>
+        <item>Taln nem rtana felvenni egy lenge esőkabtot.</item>
+    </string-array>
+    <string-array name="weather_reminder_text_16">
+        <item>Előzd meg a vihart.</item>
+        <item>Ne feledd az esernyőd.</item>
+        <item>Taln nem rtana felvenni egy lenge esőkabtot.</item>
+        <item>Vezess vatosan.</item>
+    </string-array>
+    <string-array name="weather_reminder_text_17">
+        <item>Ne feledd magaddal vinni az esernyőd.</item>
+        <item>Taln nem rtana felvenni egy lenge esőkabtot.</item>
+        <item>Vigyzz! Viharra ll az idő!</item>
+        <item>Vezess vatosan.</item>
+    </string-array>
+    <string-array name="weather_reminder_text_18">
+        <item>lvezd, ahogy a vzcseppek vgigperegnek a bőrdn.</item>
+        <item>Ne feledd az esernyőd.</item>
+        <item>nnepeld vilgos ruhkkal ezt a ragyog napot.</item>
+        <item>Vezess vatosan.</item>
+        <item>Taln nem rtana felvenni egy lenge esőkabtot.</item>
+    </string-array>
+    <string-array name="weather_reminder_text_19">
+        <item>Vezess lassan s vatosan.</item>
+        <item>Ma elkelne egy tli kabt is.</item>
+    </string-array>
+    <string-array name="weather_reminder_text_20">
+        <item>ltzz fel a hideg s az eső ellen.</item>
+        <item>Ma elkelne egy tli kabt is.</item>
+    </string-array>
+    <string-array name="weather_reminder_text_21">
+        <item>Gynyrkdj a hpelyhek varzsban.</item>
+    </string-array>
+    <string-array name="weather_reminder_text_22">
+        <item>ltzz fel melegen.</item>
+        <item>Meleg ruhk.</item>
+        <item>Vezess lassan s mindig fkezz időben.</item>
+        <item>Figyelj a tbbi autsra is!</item>
+        <item>Legyen kznl a lapt.</item>
+    </string-array>
+    <string-array name="weather_reminder_text_23">
+        <item>gyelj a biztonsgra, s ltzz fel melegen.</item>
+        <item>Meleg ruhk.</item>
+    </string-array>
+    <string-array name="weather_reminder_text_24">
+        <item>Ha mindenkppen autval kell menned, vigyzz a jeges utakra!</item>
+        <item>Figyelj a tbbi autsra is.</item>
+        <item>Meleg ruhk.</item>
+    </string-array>
+    <string-array name="weather_reminder_text_25">
+        <item>Ne menj sehova.</item>
+        <item>Most biztonsgosabb otthon maradni.</item>
+    </string-array>
+    <string-array name="weather_reminder_text_26">
+        <item>Ha mindenkppen vezetned kell, lgy nagyon vatos.</item>
+        <item>Mindig hallgasd a legfrissebb helyi hreket.</item>
+        <item>Figyelj a magasfeszltsgű vezetkekre a kiszllskor.</item>
+        <item>Vezess lassan s mindig fkezz időben.</item>
+        <item>Figyelj a tbbi autsra is!</item>
+    </string-array>
+    <string-array name="weather_reminder_text_29">
+        <item>ltzz fel a hideg s az eső ellen.</item>
+        <item>Vezess lassan s mindig fkezz időben.</item>
+        <item>Figyelj a tbbi autsra is.</item>
+        <item>ltzz melegen.</item>
+    </string-array>
+    <string-array name="traveling_selecter">
+        <item>Csak az aktuális időzóna</item>
+        <item>Összes esemény</item>
+    </string-array>
+    <string-array name="birthday_selecter">
+        <item>VIP-partnerek</item>
+        <item>Összes partner</item>
+    </string-array>
+</resources>

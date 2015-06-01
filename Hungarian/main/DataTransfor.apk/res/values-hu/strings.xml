@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_0">Adattovábbítás</string>
+    <string name="bb_app_icon_name">Adattovábbítás</string>
+    <string name="PRIVACY">Magánszféra</string>
+    <string name="PRIVACY_DEFAULT">Alapértelmezett</string>
+    <string name="PRIVACY_PRIVATE">Személyes</string>
+    <string name="PRIVACY_PUBLIC">Nyilvános</string>
+    <string name="SHOW_ME_AS">Látható vagyok mint:</string>
+    <string name="SHOW_ME_AS_BUSY">Elfoglalt</string>
+    <string name="SHOW_ME_AS_FREE">Elérhető</string>
+    <string name="UI_BLUETOOTHMANUAL_CANCEL">Mégse</string>
+    <string name="UI_BLUETOOTHMANUAL_OTHERS_NOTE">A listán nem szereplő eszközök esetében megkíséreljük a kompatibilis adatok áttöltését.</string>
+    <string name="UI_BLUETOOTHMANUAL_SCAN">Következő</string>
+    <string name="UI_BTN_CANCEL">Mégse</string>
+    <string name="UI_BTN_PUSH">Push-alkalmazás</string>
+    <string name="UI_BTN_RETRY">Új kísérlet</string>
+    <string name="UI_BTN_SKIP">Mellőz</string>
+    <string name="UI_DROP_DOWN_MENU">Lenyíló menü</string>
+    <string name="UI_GUIDE_BUTTON_MANUAL">Transfer Wizard</string>
+    <string name="UI_GUIDE_BUTTON_MANUAL_DESCRIPTION">Adatok átvitele a \"Transfer Wizard\" segítségével</string>
+    <string name="UI_GUIDE_BUTTON_START">Átvitel indítása</string>
+    <string name="UI_GUIDE_BUTTON_START_DESCRIPTION">Átvitel közvetlen indítása</string>
+    <string name="UI_GUIDE_GO">Indít</string>
+    <string name="UI_GUIDE_LOGO1">A következő jóvoltából:</string>
+    <string name="UI_GUIDE_LOGO2">FutureDial</string>
+    <string name="UI_GUIDE_PAGE1">Meglévő készülékének tartalma új készülékére a következő lépések végrehajtásával tölthető át.</string>
+    <string name="UI_GUIDE_PAGE2">Válassza ki régi készülékének gyártóját és típusát.</string>
+    <string name="UI_GUIDE_PAGE3">A kijelölt tartalom áttöltése erre a telefonra.</string>
+    <string name="UI_GUIDE_TIPS_1">Adatátvitel használata az adatoknak a régi eszközről történő átviteléhez Bluetooth-kapcsolaton.</string>
+    <string name="UI_GUIDE_TIPS_2">MEGJEGYZÉS: Győződjön meg arról, hogy a régi készülék Bluetooth-kapcsolaton felderíthető.</string>
+    <string name="UI_IMPORTED_TO">Importálás ide:</string>
+    <string name="UI_IMPORTED_TO_THISPHONE">Telefon</string>
+    <string name="UI_MENU_ABOUT_OK">OK</string>
+    <string name="UI_Menu_ABOUT_TIME">"Szerzői jog ©2012 FutureDial, Inc.
+Minden jog fenntartva."</string>
+    <string name="UI_Menu_BTN_EXIT">Kilépés</string>
+    <string name="UI_Menu_BTN_HELP">Súgó</string>
+    <string name="UI_MSGBOX_TEXT_FORCE_QUIT">%s áttöltése folyik. Szeretné kilépés előtt eltávolítani az áttöltött adatokat?</string>
+    <string name="UI_MSGBOX_TEXT_FORCE_QUIT_COMPLEX">%s áttöltése folyik. Szeretné kilépés előtt eltávolítani az áttöltött adatokat?</string>
+    <string name="UI_SEARCH_MANUFACTURER">gyártó keresése</string>
+    <string name="UI_SEARCH_MODLE">típus keresése</string>
+    <string name="UI_SLIDE_BUTTON">elhúzás</string>
+    <string name="UI_TIPS_EXIT">Érintse meg a visszatörlés gombot, hogy kilépjen az Adatátvitelből.</string>
+    <string name="UI_TIPS_EXPIRED">A próbaidő lejárt</string>
+    <string name="UI_TIPS_INSTRUCTION_1">Az Android v2.1 vagy újabb verzióval telepített régi készülékek esetében a kliensalkalmazások többféle tartalomtípust támogatnak, mint pl. naptár, üzenetek, könyvjelzők és egyebek. Kliens betöltése előtt győződjön meg arról, hogy mind a régi készülék, mind ez a készülék tartalmaz SD-kártyát.</string>
+    <string name="UI_TIPS_INSTRUCTION_2">Az alkalmazás telepítése előtt jelölje be az Unknown sources (Ismeretlen források) elem jelölőnégyzetét a beállítások menüben. Amikor régi készüléke beérkező fájl fogadására kéri Bluetooth-kapcsolaton, fogadja a fájlt és telepítse az alkalmazást. Ha befejezte, indítsa el az alkalmazást, és érintse meg a Next (Következő) elemet.</string>
+    <string name="UI_TIPS_INSTRUCTION_3">Elküld egy klienst?</string>
+    <string name="UI_TIPS_SENDING">Küldés:</string>
+    <string name="UI_TIP_ADD_ACCOUNT">Előbb adjon hozzá egy fiókot</string>
+    <string name="UI_TITLE_BLUETOOTHMANUAL">Bluetooth engedélyezése</string>
+    <string name="UI_TITLE_FILEPUSHACTIVITY">Fájl tolása</string>
+    <string name="UI_TITLE_NAME">Adattovábbítás</string>
+    <string name="UI_TITLE_PAIRACTIVITY">Párosítás és lekérdezés</string>
+    <string name="UI_TITLE_PAIRING_STATUS">Jelenlegi állapot:</string>
+    <string name="UI_TITLE_READWRITEDATAACTIVITY">Átvitel</string>
+    <string name="UI_TITLE_SCANACTIVITY">Keresés</string>
+    <string name="UI_TITLE_SELECTDATATYPEACTIVITY">Adatmodell választása</string>
+    <string name="UI_TITLE_SELECTMANUFACTURERACTIVITY">Válassza ki a régi készülék gyártóját</string>
+    <string name="UI_TITLE_SELECTMODELACTIVITY">Válassza ki a régi készülék típusát</string>
+    <string name="UI_TITLE_SELECT_YOUR_PHONE_0">Válassza ki a régi készülék nevét</string>
+    <string name="UI_TITLE_WELCOMACTIVITY">Adattovábbítás</string>
+    <string name="UI_ALERT_MSG_CLEARING_DATA">Adatok törlése…</string>
+    <string name="UI_ALERT_MSG_CLOSE_BT">Bluetooth kikapcsolása…</string>
+    <string name="UI_ALERT_MSG_UNPAIR">"Előfordulhat, hogy meg kell szüntetnie a telefon párosítását itt: %s. 
+Érintse meg az OK gombot a kilépéshez, és próbálja újra."</string>
+    <string name="UI_MSGBOX_BTN_BACK">Vissza</string>
+    <string name="UI_MSGBOX_BTN_CANCEL">Mégse</string>
+    <string name="UI_MSGBOX_BTN_NO">Nem</string>
+    <string name="UI_MSGBOX_BTN_OK">OK</string>
+    <string name="UI_MSGBOX_BTN_QUIT">Kilépés</string>
+    <string name="UI_MSGBOX_BTN_RESUME">Folytatás</string>
+    <string name="UI_MSGBOX_BTN_SETTING">Beállítás</string>
+    <string name="UI_MSGBOX_BTN_YES">Igen</string>
+    <string name="UI_MSGBOX_CANNOT_TURNON_BT_V2">Az Adatátvitel nem tudja bekapcsolni a Bluetooth-funkciót. Ellenőrizze a Wi-Fi beállításokat.</string>
+    <string name="UI_MSGBOX_CANNOT_TURNON_BT_V3">A repülőgép mód be van kapcsolva. Biztosan ki akarja kapcsolni?</string>
+    <string name="UI_MSGBOX_CANNOT_TURNON_BT_V4">A repülőgép mód be van kapcsolva. Biztosan be akarja kapcsolni a Bluetooth-szolgáltatást?</string>
+    <string name="UI_MSGBOX_CONN_FAILED">Érintse meg a Resume (Folytatás) gombot az új kísérlethez, vagy a Cancel (Mégse) gombot a kilépéshez.</string>
+    <string name="UI_MSGBOX_CONTENT_TITLE">Kettőzött adatok</string>
+    <string name="UI_MSGBOX_RETRY_CONTENT">Már importálta a következőt: %1$s innen: %2$s, ezért kettőzött bejegyzések jöhetnek létre.</string>
+    <string name="UI_MSGBOX_SET_OLDPHONE_VISIBLE">Ha nem található régi telefonja, győződjön meg arról, hogy Bluetooth-kapcsolaton felderíthető.</string>
+    <string name="UI_MSGBOX_TEXT_ALL_IMPORTED">Megtörtént minden elérhető adattípus importálása a következőről: %s.</string>
+    <string name="UI_MSGBOX_TEXT_BLACKBERRY_REMOVE_PWD">"Mielőtt engedélyezné az Adatátvitelt Blackberry ezközén, tiltsa le a titkosítást/jelszóvédelmet eszközén. 
+A jellemző elérési útvonal az Options (Lehetőségek) > Security options (Biztonsági lehetőségek) > Encryption/Password (Titkosítás/Jelszó)"</string>
+    <string name="UI_MSGBOX_TEXT_CANCEL_PAIR">Biztosan kilép?</string>
+    <string name="UI_MSGBOX_TEXT_CANCEL_RW">Megtörténik a(z) %s importált adatainak törlése. Biztosan kilép?</string>
+    <string name="UI_MSGBOX_TEXT_CLEAR_DATA">Ahhoz, hogy a(z) %s készülékről újból importálhasson, előbb jelölje ki és törölje az adatokat erről a telefonról.</string>
+    <string name="UI_MSGBOX_TEXT_CLEAR_DATA_CONFIRM">A Gmail- és Exchange-partnerek kivételével a kijelölt típusokhoz tartozó összes adat törlése megtörténik a telefonról.</string>
+    <string name="UI_MSGBOX_TEXT_CLEAR_DATA_CONFIRM_TABLET">A Gmail- és Exchange-partnerek kivételével a kijelölt típusokhoz tartozó összes adat törlése megtörténik a táblagépről.</string>
+    <string name="UI_MSGBOX_TEXT_CLEAR_DATA_TABLET">Ahhoz, hogy a(z) %s készülékről újból importálhasson, előbb jelölje ki és törölje az adatokat erről a táblagépről.</string>
+    <string name="UI_MSGBOX_TEXT_PAIRING_FAILED">Előfordulhat, hogy újra kell indítania a(z) %s készüléket és újból próbálkoznia.</string>
+    <string name="UI_MSGBOX_TEXT_PBAP_DEDUP">Egyes partnerekből kettőzőtt példányokkal rendelkezik. Meg akarja keresni és el akarja távolítani őket?</string>
+    <string name="UI_MSGBOX_TEXT_RESTART">Előfordulhat, hogy újra kell indítania ezt a telefont és a régi telefont, és újból kell próbálkoznia.</string>
+    <string name="UI_MSGBOX_TEXT_RESTART_TABLET">Előfordulhat, hogy újra kell indítania ezt a táblagépet és a régi telefont, és újból kell próbálkoznia.</string>
+    <string name="UI_MSGBOX_TITLE_BLACKBERRY_REMOVE_PWD">Sikertelen áttöltés</string>
+    <string name="UI_MSGBOX_TITLE_CONN_FAILED">Sikertelen csatlakozás</string>
+    <string name="UI_MSGBOX_TITLE_DELETE">Törlés</string>
+    <string name="UI_MSGBOX_TITLE_PAIRING_FAILED">Sikertelen párosítás</string>
+    <string name="UI_MSGBOX_TITLE_PBAP_DEDUP">Kettőzött partnerek</string>
+    <string name="UI_MSGBOX_TITLE_QUERY_FAILED">Sikertelen lekérdezés</string>
+    <string name="ANDROID_TIPS_1">"1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Wireless &amp; networks (Vezeték nélküli és hálózatok) elemre.
+
+2. Jelölje be a Bluetooth jelölőnégyzetét.
+
+3. Válassza a Bluetooth settings (Bluetooth-beállítások) elemet.
+
+4. Jelölje be a Discoverable (Felderíthető) jelölőnégyzetét."</string>
+    <string name="ANDROID_TIPS_2">"1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Wireless &amp; networks (Vezeték nélküli és hálózatok) elemre.
+
+2. Válassza a Bluetooth settings (Bluetooth-beállítások) elemet. 
+
+3. Jelölje be a Bluetooth jelölőnégyzetét.
+
+4. Jelölje be a Visible (Látható) jelölőnégyzetét."</string>
+    <string name="ANDROID_TIPS_3">"1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Wireless &amp; networks (Vezeték nélküli és hálózatok) elemre.
+
+2. Válassza a Bluetooth settings (Bluetooth-beállítások) elemet. 
+
+3. Jelölje be a Bluetooth jelölőnégyzetét.
+
+4. Jelölje be a Discoverable (Felderíthető) jelölőnégyzetét."</string>
+    <string name="ANDROID_TIPS_4">"1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Bluetooth elemre.
+
+2. Kapcsolja be a Bluetooth-szolgáltatást.
+
+3. Válasszon egy értéket a Menu (Menü) > Visibility timeout (Láthatóság időtúllépés) elemben."</string>
+    <string name="ANDROID_TIPS_5">"1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Wireless &amp; networks (Vezeték nélküli és hálózatok) elemre.
+
+2. Jelölje be a Bluetooth jelölőnégyzetét.
+
+3. Válassza a Bluetooth settings (Bluetooth-beállítások) elemet.
+
+4. Jelölje be a Visible (Látható) jelölőnégyzetét."</string>
+    <string name="APP_TIPS_1">"1. Érintse meg a Home (Kezdőlap) gombot, majd lépjen a Settings (Beállítások) > General (Általános) elemre.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. Maradjon a Bluetooth settings (Bluetooth-beállítások) képernyőn."</string>
+    <string name="APP_TIPS_2">"1. Érintse meg a Home (Kezdőlap) gombot, majd lépjen a Settings (Beállítások) elemre.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. Maradjon a Bluetooth settings (Bluetooth-beállítások) képernyőn."</string>
+    <string name="HTC_TIPS_1">"1. Lépjen a Home (Kezdőlap) képernyőre.
+
+2. Érintse meg a Start > Settings (Beállítások) > Connections (Kapcsolatok) elemet.
+
+3. Válassza a Bluetooth elemet.
+
+4. Válassza a Mode (Üzemmód) fület.
+
+5. Kapcsolja be a Bluetooth-szolgáltatást.
+
+6. Jelölje be a Make this device visible to other devices (Az eszköz legyen látható más eszközök számára) elem jelölőnégyzetét."</string>
+    <string name="HTC_TIPS_2">"1. Lépjen a Home (Kezdőlap) képernyőre.
+
+2. Érintse meg a Start > Settings (Beállítások) > Connections (Kapcsolatok) > Bluetooth elemet.
+
+3. Válassza a Bluetooth > Menu (Menü) elemet.
+
+4. Kapcsolja be a Bluetooth-szolgáltatást.
+
+5. A Visibility (Láthatóság) elemet állítsa On (Be) értékre."</string>
+    <string name="HTC_TIPS_3">"1. Lépjen a Home (Kezdőlap) képernyőre.
+
+2. Érintse meg a Start > Settings (Beállítások) > Connections (Kapcsolatok) > Bluetooth elemet.
+
+3. Válassza a Bluetooth > Menu (Menü) elemet.
+
+4. Kapcsolja be a Bluetooth-szolgáltatást.
+
+5. A Visibility (Láthatóság) elemet állítsa On (Be) értékre."</string>
+    <string name="HTC_TIPS_4">"1. Lépjen a Home (Kezdőlap) képernyőre.
+
+2. Érintse meg a Start > Settings (Beállítások) > Wireless controls (Vezeték nélküli kezelőszervek) elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. Érintse meg a Bluetooth gomb bal oldali részét.
+
+5. Érintse meg az Advanced (Speciális) elemet.
+
+6. Válassza a Mode (Üzemmód) fület.
+
+7. Jelölje be a Make this device visible to other devices (Az eszköz legyen látható más eszközök számára) elem jelölőnégyzetét."</string>
+    <string name="HTC_TIPS_5">"1. Lépjen a Start > Tools (Eszközök) > Settings (Beállítások) elemre.
+
+2. Válassza a Wireless Controls (Vezeték nélküli kezelőszervek) > Bluetooth elemet.
+
+3. Válassza az Advanced (Speciális) elemet.
+
+4. Válassza a Mode (Üzemmód) fület.
+
+5. Jelölje be a Turn on Bluetooth and Make this device visible to other devices (A Bluetooth bekapcsolása és az eszköz láthatóvá tétele más eszközök számára) elem jelölőnégyzetét."</string>
+    <string name="HTC_TIPS_6">"1. Lépjen a Start > Settings (Beállítások) > Menu (Menü) > All Settings (Minden beállítás) elemre.
+
+2. Jelölje ki a Bluetooth elemet és kapcsolja be.
+
+3. Válassz a fogaskerék fület.
+
+4. Válasza a teleszkóp ikon > Always visible (Mindig látható) elemet."</string>
+    <string name="HTC_TIPS_7">"1. A Start képernyőn érintse meg a → elemet.
+
+2. Érintse meg a Settings (Beállítások) > Bluetooth lehetőséget.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást."</string>
+    <string name="HTC_TIPS_8">"1. Lépjen a Start > Tools (Eszközök) > Settings (Beállítások) elemre.
+
+2. Érintse meg a Menu (Menü) > All settings (Minden beállítás) elemet.
+
+3. Válassza a Bluetooth elemet.
+
+4. Válassza a Mode (Üzemmód) fület.
+
+5. Kapcsolja be a Bluetooth-szolgáltatást.
+
+5. Jelölje be a Make this device visible to other devices (Az eszköz legyen látható más eszközök számára) elem jelölőnégyzetét."</string>
+    <string name="HTC_TIPS_9">"1. Lépjen a Home (Kezdőlap) képernyőre.
+
+2. Csúsztassa a Menu (Menü) képernyőre.
+
+3. Érintse meg a Settings (Beállítások) > Bluetooth lehetőséget.
+
+4. Kapcsolja be a Bluetooth-szolgáltatást.
+
+5. Maradjon a Bluetooth (Bluetooth) képernyőn."</string>
+    <string name="KYO_TIPS_1">"1. Lépjen a Menu (Menü) > Settings (Beállítások) > Bluetooth elemre. 
+
+2. Válassza az On/Off (Be/Ki) lehetőséget az On Visible (Látható be) mezőben.
+
+3. Válassza a Settings (Beállítások) > Visible Duration (Láthatóság időtartama)> Always (Mindig) elemet.
+
+4. Állítsa a BEEX Authentication (BEEX hitelesítés) elemet Disabled (Letiltva) értékre."</string>
+    <string name="LGG_TIPS_1">"%s1. Lépjen a Menu (Menü) > Settings (Beállítások) > Connectivity (Csatlakozási lehetőségek) elemre.
+
+2. Válassza a Bluetooth elemet.
+
+3. Állítsa a Bluetooth funkciót On (Be) állásra.
+
+4. Jelölje ki a Settings (Beállítások) elemet.
+
+5. Állítsa a My handset's visibility (Készülékem láthatósága) elemet Shown to all (Mindenki számára látható) beállításra."</string>
+    <string name="LGG_TIPS_2">"%s1. Lépjen a Menu (Menü) > Settings (Beállítások) > Connectivity (Csatlakozási lehetőségek) elemre.
+
+2. Válassza a Bluetooth elemet.
+
+3. Állítsa a Bluetooth funkciót On (Be) állásra.
+
+4. Válassza a Bluetooth settings (Bluetooth-beállítások) elemet.
+
+5. Állítsa a My visibility (Láthatóságom) elemet Show (Mutat) értékre."</string>
+    <string name="LGG_TIPS_3">"%s1. Lépjen a Menu (Menü) > Settings (Beállítások) > Bluetooth elemre.
+
+2. Kapcsolja be a Bluetooth-szolgáltatást.
+
+3. A Visibility (Láthatóság) elemet állítsa Always visible (Mindig látható) értékre."</string>
+    <string name="LGG_TIPS_4">"%s1. Válassza a Menu (Menü) elemet és kattintson az utolsó fülre.
+
+2. Válassza a Bluetooth elemet.
+
+3. Állítsa a Bluetooth funkciót Turn on (Bekapcsolva) állásra.
+
+4. Jelölje ki a Settings (Beállítások) elemet.
+
+5. Állítsa a My device visibility (Eszközöm láthatósága) elemet Visible (Látható) értékre."</string>
+    <string name="LGG_TIPS_5">"1. Lépjen a Menu (Menü) > Settings &amp; Tools (Beállítások és eszközök) > Bluetooth Menu (Bluetooth menü) elemre.
+
+2. Állítsa a Bluetooth funkciót Turn On (Bekapcsolva) állásra.
+
+3. Válassza az Options (Lehetőségek) > Discovery Mode (Felderítés mód) > On (Be) elemet."</string>
+    <string name="MOT_TIPS_1">"%s1. Lépjen a Menu (Menü) > Settings/Tools (Beállítások/Eszközök) > Settings (Beállítások) elemre.
+
+2. Jelölje be a Bluetooth jelölőnégyzetét.
+
+3. Válassza a Bluetooth power (Bluetooth táp) elemet.
+
+4. Állítsa a Bluetooth power (Bluetooth táp) elemet On (Be) állásra.
+
+5. Válassza a Set discoverable (Beállítás mint felderíthető) elemet.
+
+6. Válassza az Always (Mindig) elemet."</string>
+    <string name="MOT_TIPS_10">"1. Válassza a Menu (Menü) > Bluetooth elemet.
+
+2. Válassza a Setup (Beállítás) elemet.
+
+3. Állítsa a Change power (Táp módosítása) elemet On (Be) állásra.
+
+4. Válassza a Back (Vissza) elemet.
+
+5. Válassza a Find Me (Láthatóságom) > Discoverable:3 minutes (Felderíthető:3 perc) elemet."</string>
+    <string name="MOT_TIPS_11">"%s1. Válassza a Menu (Menü) > Settings (Beállítások) > Connection (Kapcsolat) elemet.
+
+2. Válassza a Bluetooth link (Bluetooth-kapcsolat) elemet.
+
+3. Válassza a Setup (Beállítás) elemet.
+
+4. Állítsa a Change power (Táp módosítása) elemet On (Be) állásra.
+
+5. Válassza a Back (Vissza) elemet.
+
+6. Válassza a Find Me (Láthatóságom) > Discoverable:3 minutes (Felderíthető:3 perc) elemet."</string>
+    <string name="MOT_TIPS_12">"%s1. Válassza a Menu (Menü) > Settings (Beállítások) elemet.
+
+2. Válassza a Connections (Kapcsolatok) elemet.
+
+3. Válassza a Bluetooth elemet.
+
+4. Válassza az Option (Lehetőség) > Manage (Kezelés) > Setup Bluetooth (Bluetooth beállítása) elemet.
+
+5. Állítsa a Bluetooth Power (Bluetooth táp) elemet On (Be) állásra.
+
+6. Válassza a Back (Vissza) elemet.
+
+7. Válassza a Discoverable: On for 3 minutes (Felderíthető: Be 3 percig) elemet."</string>
+    <string name="MOT_TIPS_2">"%s1. Válassza a Menu (Menü) > Connectivity (Csatlakozási lehetőségek) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást."</string>
+    <string name="MOT_TIPS_3">"%s1. Válassza a Main Menu (Főmenü) > Settings (Beállítások) elemet.
+
+2. Válassza a Bluetooth link (Bluetooth-kapcsolat) elemet.
+
+3. Válassza a Setup (Beállítás) elemet.
+
+4. Állítsa a Change power (Táp módosítása) elemet On (Be) állásra.
+
+5. Válassza a Back (Vissza) elemet.
+
+6. Válassza a Find Me (Láthatóságom) > Discoverable:3 minutes (Felderíthető:3 perc) elemet."</string>
+    <string name="MOT_TIPS_4">"%s1. Válassza a Main menu (Főmenü) > Settings &amp; Tools (Beállítások és eszközök) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Állítsa a Setup (Beállítás) elemet On (Be) állásra.
+
+4. Állítsa a Discovery Mode (Felderítés mód) elemet On (Be) állásra.
+
+5. Válassza a Discoverable: On for 3 minutes (Felderíthető: Be 3 percig) elemet."</string>
+    <string name="MOT_TIPS_5">"1. Válassza a Menu (Menü) > SETTINGS &amp; TOOLS (BEÁLLÍTÁSOK ÉS ESZKÖZÖK) elemet.
+
+2. Válassza a Bluetooth Menu (Bluetooth menü) elemet.
+
+3. Állítsa a Bluetooth funkciót Turn on (Bekapcsolva) állásra.
+
+4. Válassza az Options (Lehetőségek) elemet.
+
+5. Állítsa a Discovery Mode (Felderítés mód) elemet On (Be) állásra."</string>
+    <string name="MOT_TIPS_6">"1. Válassza a Menu (Menü) > Tools (Eszközök) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. A Visibility (Láthatóság) elemet állítsa Always visible (Mindig látható) értékre."</string>
+    <string name="MOT_TIPS_7">"1. Válassza a Menu (Menü) > Settings &amp; Tools (Beállítások és eszközök) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Állítsa a Bluetooth funkciót On (Be) állásra.
+
+4. Jelölje ki a Settings (Beállítások) elemet.
+
+5. Állítsa a Discovery Mode (Felderítés mód) elemet On (Be) állásra."</string>
+    <string name="MOT_TIPS_8">"1. Válassza a Menu (Menü) > Settings &amp; Tools (Beállítások és eszközök) elemet.
+
+2. Válassza a Bluetooth Menu (Bluetooth menü) elemet.
+
+3. Állítsa a Bluetooth funkciót Turn On (Bekapcsolva) állásra.
+
+4. Jelölje ki a Settings (Beállítások) elemet.
+
+5. Állítsa a Discovery Mode (Felderítés mód) elemet On (Be) állásra."</string>
+    <string name="MOT_TIPS_9">"1. Válassza a Menu (Menü) > Settings (Beállítások) > Connection (Kapcsolat) elemet.
+
+2. Válassza a Bluetooth link (Bluetooth-kapcsolat) elemet.
+
+3. Válassza a Setup (Beállítás) elemet.
+
+4. Állítsa a Change power (Táp módosítása) elemet On (Be) állásra.
+
+5. Válassza a Back (Vissza) elemet.
+
+6. Válassza a Find Me (Láthatóságom) > Discoverable:3 minutes (Felderíthető:3 perc) elemet."</string>
+    <string name="NOK_TIPS_1">"1. Válassza a Menu (Menü) > Settings (Beállítások) > Connectivity (Csatlakozási lehetőségek) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. Állítsa a My phone's visibility (Telefonom láthatósága) elemet Shown to all (Mindenki számára látható) beállításra."</string>
+    <string name="NOK_TIPS_10">"1. Válassza a Menu (Menü) > Settings (Beállítások) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. Állítsa a My phone's visibility (Telefonom láthatósága) elemet Shown to all (Mindenki számára látható) beállításra."</string>
+    <string name="NOK_TIPS_11">"1. Válassza a Menu (Menü) > Tools (Eszközök) > Connectivity (Csatlakozási lehetőségek) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. Állítsa a My phone's visibility (Telefonom láthatósága) elemet Shown to all (Mindenki számára látható) beállításra."</string>
+    <string name="NOK_TIPS_12">"1. Válassza a Menu (Menü) > Ctrl. panel (Vezérlőpult) > Connect (Csatlakozás) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. Állítsa a My phone's visibility (Telefonom láthatósága) elemet Shown to all (Mindenki számára látható) beállításra."</string>
+    <string name="NOK_TIPS_13">"1. Válassza a Menu (Menü) > Settings (Beállítások) > Connectivity (Csatlakozási lehetőségek) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. Állítsa a My phone's visibility (Telefonom láthatósága) elemet Shown to all (Mindenki számára látható) beállításra."</string>
+    <string name="NOK_TIPS_14">"1. Válassza a Menu (Menü) > Settings (Beállítások) > Connection (Kapcsolat) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. A Device visibility (Eszköz láthatósága) elemet állítsa Always visible (Mindig látható) értékre."</string>
+    <string name="NOK_TIPS_15">"1. Válassza a Menu (Menü) > Settings (Beállítások) > Connectivity (Csatlakozási lehetőségek) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. A Device visibility (Eszköz láthatósága) elemet állítsa Show to All (Mindenki számára látható) értékre."</string>
+    <string name="NOK_TIPS_2">"1. Válassza a Menu (Menü) > Tools (Eszközök) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. Állítsa a My phone's visibility (Telefonom láthatósága) elemet Shown to all (Mindenki számára látható) beállításra."</string>
+    <string name="NOK_TIPS_4">"1. Válassza a Menu (Menü) > Settings (Beállítások) > Connectivity (Csatlakozási lehetőségek) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. Állítsa a My phone's visibility (Telefonom láthatósága) elemet Permanent visibility (Véglegesen látható) beállításra."</string>
+    <string name="NOK_TIPS_5">"1. Válassza a Menu (Menü) > Connect (Csatlakozás) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. Állítsa a My phone's visibility (Telefonom láthatósága) elemet Shown to all (Mindenki számára látható) beállításra."</string>
+    <string name="NOK_TIPS_51">"%s1. Válassza a Menu (Menü) > Connect (Csatlakozás) elemet. 
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. Állítsa a My phone's visibility (Telefonom láthatósága) elemet Shown to all (Mindenki számára látható) beállításra."</string>
+    <string name="NOK_TIPS_6">"1. Válassza a Menu (Menü) > Settings (Beállítások) > Connectivity (Csatlakozási lehetőségek) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. Állítsa a My phone's visibility (Telefonom láthatósága) elemet Permanent visibility (Véglegesen látható) beállításra."</string>
+    <string name="NOK_TIPS_7">"1. Válassza a Menu (Menü) > Settings (Beállítások) > Connectivity (Csatlakozási lehetőségek) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. Állítsa a My phone's visibility (Telefonom láthatósága) elemet Permanent visibility (Véglegesen látható) beállításra."</string>
+    <string name="NOK_TIPS_8">"1. Válassza a Menu (Menü) > Settings (Beállítások) > Connectivity (Csatlakozási lehetőségek) elemet. 
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. Válassza a Bluetooth settings (Bluetooth-beállítások) elemet.
+
+5. Állítsa a My phone's visibility (Telefonom láthatósága) elemet Shown to all (Mindenki számára látható) beállításra."</string>
+    <string name="NOK_TIPS_9">"1. Válassza a Menu (Menü) > Connectivity (Csatlakozási lehetőségek) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. Állítsa a My phone's visibility (Telefonom láthatósága) elemet Shown to all (Mindenki számára látható) beállításra."</string>
+    <string name="OTHER_PHONE_BRAND_MODEL">Egyéb</string>
+    <string name="OTHER_PHONE_General">"Engedélyezheti a Bluetooth funkciót nem támogatott mobiltelefonján:
+
+1. Lépjen a Home (Kezdőlap) képernyőre.
+
+2. Válassza a Menu (Menü) > Settings (Beállítások) > Connection (Kapcsolat) > Bluetooth setting (Bluetooth beállítás) elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. A Device visibility (Eszköz láthatósága) elemet állítsa Show to All (Mindenki számára látható) értékre.
+
+5. Maradjon a Bluetooth setting (Bluetooth-beállítás) képernyőn."</string>
+    <string name="RIM_TIPS_1">"1. Válassza a Menu (Menü) > Options (Lehetőségek) > Bluetooth elemet.
+
+2. Érintse meg a Menu (Menü) elemet.
+
+3. Válassza az Enable Bluetooth (Bluetooth engedélyezése) elemet.
+
+4. Érintse meg újra a Menu (Menü) elemet.
+
+5. Válassza az Options (Lehetőségek) elemet.
+
+6. Állítsa a Discoverable (Felderíthető) elemet Yes (Igen) értékre."</string>
+    <string name="RIM_TIPS_2">"1. Válassza a Menu (Menü) > Manage Connections (Kapcsolatok kezelése) elemet.
+
+2. Jelölje be a Bluetooth jelölőnégyzetét.
+
+3. Válassza a Bluetooth Options (Bluetooth lehetőségek) elemet.
+
+4. Érintse meg újra a Menu (Menü) elemet.
+
+5. Válassza az Options (Lehetőségek) elemet.
+
+6. Állítsa a Discoverable (Felderíthető) elemet Yes (Igen) értékre."</string>
+    <string name="RIM_TIPS_3">"1. Lépjen az All Apps (Minden alkalmazás) képernyőre.
+
+2. Válassza a Manage Connections (Kapcsolatok kezelése) elemet.
+
+3. Jelölje be a Bluetooth jelölőnégyzetét.
+
+4. Válassza a Bluetooth Connections (Bluetooth-kapcsolatok) elemet.
+
+5. Állítsa a Bluetooth funkciót On (Be) állásra.
+
+6. Állítsa a Discoverable (Felderíthető) elemet Yes (Igen) értékre."</string>
+    <string name="RIM_TIPS_4">"1. Lépjen az All Apps (Minden alkalmazás) képernyőre.
+
+2. Válassza a Manage Connections (Kapcsolatok kezelése) elemet.
+
+3. Jelölje be a Bluetooth jelölőnégyzetét.
+
+4. Válassza a Networks and connections (Hálózatok és kapcsolatok) elemet.
+
+5. Válassza a Bluetooth Connections (Bluetooth-kapcsolatok) elemet.
+
+6. Állítsa a Bluetooth funkciót On (Be) állásra.
+
+7. Állítsa a Discoverable (Felderíthető) elemet Yes (Igen) értékre."</string>
+    <string name="RIM_TIPS_5">"1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Network Connections (Hálózati kapcsolatok) elemre.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. Állítsa a Discoverable (Felderíthető) elemet On (Be) értékre."</string>
+    <string name="SAM_TIPS_1">"%s1. Válassza a Menu (Menü) > Bluetooth elemet.
+
+2. Állítsa az Activation (Aktiválás) elemet On (Be) állásra.
+
+3. Állítsa a My phone's visibility (Telefonom láthatósága) elemet On (Be) beállításra."</string>
+    <string name="SAM_TIPS_10">"%s1. Válassza a Menu (Menü) > Settings (Beállítások) > Network settings (Hálózati beállítások) > Bluetooth elemet.
+
+2. Állítsa az Activation (Aktiválás) elemet On (Be) állásra.
+
+3. Állítsa a My phone's visibility (Telefonom láthatósága) elemet On (Be) beállításra."</string>
+    <string name="SAM_TIPS_11">"%s1. Válassza a Menu (Menü) > Applications (Alkalmazások) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Válassza a Bluetooth activation (Bluetooth aktiválás) elemet.
+
+4. Jelölje ki a Settings (Beállítások) elemet.
+
+5. Állítsa a My phone's visibility (Telefonom láthatósága) elemet On (Be) beállításra, és érintse meg a Save (Mentés) elemet.
+
+6. Lépjen a Home (Kezdőlap) képernyőre."</string>
+    <string name="SAM_TIPS_12">"%s1. Lépjen a Home (Kezdőlap) képernyőre.
+
+2. Válassza a Settings (Beállítások) > Connectivity (Csatlakozási lehetőségek) > Bluetooth elemet.
+
+3. Állítsa az Activation (Aktiválás) elemet On (Be) állásra.
+
+4. Állítsa a My phone's visibility (Telefonom láthatósága) elemet On (Be) beállításra."</string>
+    <string name="SAM_TIPS_2">"%s1. Válassza a Menu (Menü) > Applications (Alkalmazások) > Bluetooth elemet.
+
+2. Állítsa az Activation (Aktiválás) elemet On (Be) állásra.
+
+3. Állítsa a My phone's visibility (Telefonom láthatósága) elemet On (Be) beállításra."</string>
+    <string name="SAM_TIPS_3">"1. Válassza a Menu (Menü) > Settings &amp; Tools (Beállítások és eszközök) > Bluetooth Menu (Bluetooth menü) elemet.
+
+2. Állítsa a Bluetooth funkciót Turn On (Bekapcsolva) állásra.
+
+3. Válassza az Options (Lehetőségek) > Discovery Mode (Felderítés mód) > On (Be) elemet."</string>
+    <string name="SAM_TIPS_4">"%s1. Válassza a Main menu (Főmenü) > Settings (Beállítások) > Bluetooth elemet.
+
+2. Kapcsolja be a Bluetooth-szolgáltatást.
+
+3. A Visibility (Láthatóság) elemet állítsa Always visible (Mindig látható) értékre."</string>
+    <string name="SAM_TIPS_5">"%s1. Válassza a Menu (Menü) > Settings/Tools (Beállítások/eszközök) > Bluetooth Menu (Bluetooth menü) elemet.
+
+2. Állítsa a Setup (Beállítás) elemet On (Be) állásra.
+
+3. Állítsa a Setup discovery Mode (Felderítés mód beállítása) elemet On (Be) állásra."</string>
+    <string name="SAM_TIPS_6">"%s1. Válassza a Menu (Menü) > Settings (Beállítások) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Állítsa a Bluetooth funkciót Turn Bluetooth on (Bluetooth bekapcsolása) állásra.
+
+4. Állítsa a My visibility (Láthatóságom) elemet On (Be) értékre."</string>
+    <string name="SAM_TIPS_7">"%s1. Válassza a Menu (Menü) > Settings (Beállítások) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Állítsa az Activation (Aktiválás) elemet On (Be) állásra.
+
+4. Állítsa a My phone's visibility (Telefonom láthatósága) elemet On (Be) beállításra."</string>
+    <string name="SAM_TIPS_8">"%s1. Válassza a Menu (Menü) > Tools/Utilities (Eszközök/Segédprogramok) > Bluetooth elemet.
+
+2. Válassza a Bluetooth settings (Bluetooth-beállítások) elemet.
+
+3. Válassza az Enable (Engedélyez) elemet.
+
+4. Állítsa a Discovery Mode (Felderítés mód) elemet On (Be) állásra."</string>
+    <string name="SAM_TIPS_9">"%s1. Válassza a Menu (Menü) > Settings (Beállítások) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Állítsa az Activation (Aktiválás) elemet On (Be) állásra.
+
+4. Állítsa a My phone's visibility (Telefonom láthatósága) elemet On (Be) beállításra."</string>
+    <string name="SAN_TIPS_1">"1. Válassza a Menu (Menü) > Tools (Eszközök) > Bluetooth elemet.
+
+2. Válassza a More… (Több…) > Settings (Beállítások) > On (Be) elemet.
+
+3. A Visibility (Láthatóság) elemet állítsa Always visible (Mindig látható) értékre."</string>
+    <string name="SE_TIPS_1">"%s1. Válassza a Menu (Menü) > Settings (Beállítások) > Connectivity (Csatlakozási lehetőségek) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Állítsa a Bluetooth funkciót Turn on (Bekapcsolva) állásra.
+
+4. A Visibility (Láthatóság) elemet állítsa Show phone (Telefon mutatása) értékre."</string>
+    <string name="SE_TIPS_2">"%s1. Válassza a Menu (Menü) > Connectivity (Csatlakozási lehetőségek) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Állítsa a Bluetooth funkciót Turn on (Bekapcsolva) állásra.
+
+4. Válassza az Options (Lehetőségek) elemet.
+
+5. A Visibility (Láthatóság) elemet állítsa Show phone (Telefon mutatása) értékre."</string>
+    <string name="SE_TIPS_3">"%s1. Válassza a Menu (Menü) > Connect (Csatlakozás) elemet. 
+
+2. Válassza a Bluetooth elemet.
+
+3. Állítsa a Bluetooth funkciót Turn on (Bekapcsolva) állásra.
+
+4. A Visibility (Láthatóság) elemet állítsa Show phone (Telefon mutatása) értékre."</string>
+    <string name="SE_TIPS_4">"%s1. Válassza a Menu (Menü) > Settings (Beállítások) > Connectivity (Csatlakozási lehetőségek) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Állítsa a Bluetooth funkciót Turn on (Bekapcsolva) állásra.
+
+4. Válassza az Options (Lehetőségek) elemet.
+
+5. A Visibility (Láthatóság) elemet állítsa Show phone (Telefon mutatása) értékre."</string>
+    <string name="SE_TIPS_5">"1. Lépjen a Home (Kezdőlap) képernyőre.
+
+2. Érintse meg a Start > Settings (Beállítások) > Bluetooth elemet.
+
+3. Válassza a Mode (Üzemmód) fület.
+
+4. Kapcsolja be a Bluetooth-szolgáltatást.
+
+5. Jelölje be a Make this device visible to other devices (Az eszköz legyen látható más eszközök számára) elem jelölőnégyzetét."</string>
+    <string name="SE_TIPS_6">"%s1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Connectivity (Csatlakozási lehetőségek) elemre.
+
+2. Válassza a Bluetooth elemet.
+
+3. Állítsa a Bluetooth funkciót On (Be) állásra.
+
+4. A Phone visibility (Telefon láthatósága) elemet állítsa Visible (Látható) értékre."</string>
+    <string name="SHP_TIPS_1">"%s1. Válassza a Menu (Menü) > Settings (Beállítások) elemet.
+
+2. Válassza a Connectivity (Csatlakozási lehetőségek) > Bluetooth elemet.
+
+3. Állítsa a Switch On/Off (Be-/kikapcsolás) elemet On (Be) értékre.
+
+4. A Visibility (Láthatóság) elemet állítsa Show My phone (Telefonom mutatása) értékre.
+
+5. Lépjen a készenléti képernyőre."</string>
+    <string name="SIM_TIPS">Ha csak egy SIM-kártyával rendelkezik, vegye ki a telefonból, helyezze be a régi készülékébe, majd indítsa el mindkét telefont egyszerre.</string>
+    <string name="ALCATEL_TIPS_1">"Győződjön meg arról, hogy a régi készülékben van SIM-kártya.
+
+1. Válassza a Menu (Menü) > Tools (Eszközök) > Bluetooth > Activation (Aktiválás) elemet.
+
+2. Állítsa az Activation (Aktiválás) elemet On (Be) állásra.
+
+3. Lépjen vissza a Settings (Beállítások) > Visibility (Láthatóság) elemre.
+
+4. A Visibility (Láthatóság) elemet állítsa Shown to All (Mindenki számára látható) értékre."</string>
+    <string name="ALCATEL_TIPS_2">"Győződjön meg arról, hogy a régi készülékben van SIM-kártya.
+
+1. Válassza a Menu (Menü) > Tools (Eszközök) > Bluetooth > Activation (Aktiválás) elemet.
+
+2. Állítsa az Activation (Aktiválás) elemet On (Be) állásra.
+
+3. Lépjen vissza a Settings (Beállítások) > Visibility (Láthatóság) elemre.
+
+4. A Visibility (Láthatóság) elemet állítsa Visible (Látható) értékre."</string>
+    <string name="ALCATEL_TIPS_3">"1. Válassza a Menu (Menü) > Bluetooth elemet.
+
+2. Állítsa az Activation (Aktiválás) elemet On (Be) állásra.
+
+3. A Visibility (Láthatóság) elemet állítsa On (Be) értékre."</string>
+    <string name="ALCATEL_TIPS_4">"1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Wireless &amp; networks (Vezeték nélküli és hálózatok) elemre.
+
+2. Válassza a Bluetooth settings (Bluetooth-beállítások) elemet.
+
+3. Jelölje be a Bluetooth jelölőnégyzetét.
+
+4. Jelölje be a Discoverable (Felderíthető) jelölőnégyzetét."</string>
+    <string name="ALCATEL_TIPS_5">"Győződjön meg arról, hogy a régi készülékben van SIM-kártya.
+
+1. Válassza a Menu (Menü) > Bluetooth elemet.
+
+2. Állítsa az Activation (Aktiválás) elemet On (Be) állásra.
+
+3. A Visibility (Láthatóság) elemet állítsa On (Be) értékre."</string>
+    <string name="ANDROID_TIPS_4_1">"1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Bluetooth elemre.
+
+2. Állítsa a Bluetooth funkciót On (Be) állásra.
+
+3. Maradjon a Bluetooth képernyőn."</string>
+    <string name="ANDROID_TIPS_4_2">"1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Bluetooth elemre.
+
+2. Állítsa a Bluetooth funkciót On (Be) állásra.
+
+3. Válasszon egy értéket a Menu (Menü) > Visibility timeout (Láthatóság időtúllépés) elemben."</string>
+    <string name="APP_TIPS_3">"1. Érintse meg a Home (Kezdőlap) gombot, majd válassza a Settings (Beállítások) elemet.
+
+2. Válassza a Bluetooth elemet.
+
+3. Kapcsolja be a Bluetooth-szolgáltatást.
+
+4. Maradjon a Bluetooth setting (Bluetooth-beállítás) képernyőn."</string>
+    <string name="HTC_TIPS_N1">"1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Bluetooth elemre.
+
+2. Állítsa a Bluetooth funkciót On (Be) állásra.
+
+3. Válasszon egy értéket a Menu (Menü) > Visibility timeout (Láthatóság időtúllépés) elemben."</string>
+    <string name="MI_TIPS_N1">"1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Bluetooth elemre.
+
+2. Kapcsolja be a Bluetooth-szolgáltatást.
+
+3. Állítsa a Discoverable (Felderíthető) elemet On (Be) értékre."</string>
+    <string name="OTHER_PHONE_GENERAL_MUNUAL">"A Bluetooth-szolgáltatás forráseszközön történő engedélyezéséhez:
+
+1. Indítsa el a Settings (Beállítások) menüt.
+
+2. Kapcsolja be a Bluetooth-szolgáltatást.
+
+3. A Device visibility (Eszköz láthatósága) elemet állítsa Shown to All (Mindenki számára látható) értékre."</string>
+    <string name="SAM_TIPS_N1">"1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Bluetooth elemre.
+
+2. Állítsa a Bluetooth funkciót On (Be) állásra.
+
+3. Válasszon egy értéket a Menu (Menü) > Visible time-out (Láthatóság időtúllépése) elem alatt."</string>
+    <string name="SAM_TIPS_N2">"1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Bluetooth elemre.
+
+2. Állítsa a Bluetooth funkciót On (Be) állásra.
+
+3. Válasszon egy értéket a Menu (Menü) > Visible timeout (Láthatóság időtúllépés) elemben."</string>
+    <string name="SAM_TIPS_N3">"1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Bluetooth elemre.
+
+2. Állítsa a Bluetooth funkciót On (Be) állásra.
+
+3. Válasszon egy értéket a Menu (Menü) > Visible timeout (Láthatóság időtúllépés) elemben."</string>
+    <string name="SAM_TIPS_N4">"1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Bluetooth elemre.
+
+2. Állítsa a Bluetooth funkciót On (Be) állásra.
+
+3. Válasszon egy értéket a Menu (Menü) > Visibility timeout (Láthatóság időtúllépés) elemben."</string>
+    <string name="SE_TIPS_N1">"1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Bluetooth elemre.
+
+2. Állítsa a Bluetooth funkciót On (Be) állásra.
+
+3. Válasszon egy értéket a Menu (Menü) > Visible timeout (Láthatóság időtúllépés) elemben."</string>
+    <string name="SE_TIPS_N2">"1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Bluetooth elemre.
+
+2. Állítsa a Bluetooth funkciót On (Be) állásra.
+
+3. Válasszon egy értéket a Menu (Menü) > Visible timeout (Láthatóság időtúllépés) elemben."</string>
+    <string name="SONY_TIPS_N1">"1. Lépjen az All Apps (Minden alkalmazás) képernyő > Settings (Beállítások) > Bluetooth elemre.
+
+2. Állítsa a Bluetooth funkciót On (Be) állásra.
+
+3. Válasszon egy értéket a Menu (Menü) > Visibility timeout (Láthatóság időtúllépés) elemben."</string>
+    <string name="app_icon_name">Áttöltés</string>
+    <string name="app_name">Saját fájlok áttölése</string>
+    <string name="UI_About_Platform">Android rendszerhez</string>
+    <string name="UI_About_Version">Verzió:</string>
+    <string name="UI_BTN_Done">Kész</string>
+    <string name="UI_BTN_Next">Következő</string>
+    <string name="UI_BTN_ReScan">Keresés újra</string>
+    <string name="UI_BTN_Stop">Leállítás</string>
+    <string name="UI_ERROR_TRY_AGAIN">Hibák történtek.</string>
+    <string name="UI_IMPORTED">Importálva</string>
+    <string name="UI_IMPORTED_TO_ACCOUNT">Importálás fiókba</string>
+    <string name="UI_IMPORT_PHONE">Importálás erre a telefonra</string>
+    <string name="UI_INSERT_SD_CARD">Helyezzen be egy SD-kártyát</string>
+    <string name="UI_Menu_BTN_About">Névjegy</string>
+    <string name="UI_MOD_ALARMCLOCK">Ébresztőóra</string>
+    <string name="UI_MOD_BOOKMARK">Könyvjelző</string>
+    <string name="UI_MOD_CALENDAR">Naptár</string>
+    <string name="UI_MOD_PHONEBOOK">Partnerek</string>
+    <string name="UI_MOD_PHOTO">Kamerafelvételek</string>
+    <string name="UI_MOD_SETTINGS">Beállítások</string>
+    <string name="UI_MOD_SMS">SMS</string>
+    <string name="UI_MOD_TASK">Feladat</string>
+    <string name="UI_MOUNT_SD_CARD">Csatlakoztasson egy SD-kártyát</string>
+    <string name="UI_OPENOPORT_SOURCEPHONE">Régi készülék</string>
+    <string name="UI_OPENOPORT_TEXT">Ellenőrizze a következőt: %s.lőfordulhat, hogy jóvá kell hagynia a kapcsolatot.</string>
+    <string name="UI_PHOTO_DESCRIPTION">Csak a telefonon lévő fájlok</string>
+    <string name="UI_TEXT_ALARM_IMPORTED">‏Riasztás importálva</string>
+    <string name="UI_TEXT_ALARM_IMPORTED_2">‏Riasztás importálva</string>
+    <string name="UI_TEXT_ALARM_IMPORTED_M">‏Riasztások importálva</string>
+    <string name="UI_TEXT_ALARM_IMPORTED_M_2">‏Riasztások importálva</string>
+    <string name="UI_TEXT_AND">és</string>
+    <string name="UI_TEXT_BM_IMPORTED">Könyvjelző importálva</string>
+    <string name="UI_TEXT_BM_IMPORTED_2">Könyvjelző importálva</string>
+    <string name="UI_TEXT_BM_IMPORTED_M">Könyvjelzők importálva</string>
+    <string name="UI_TEXT_BM_IMPORTED_M_2">Könyvjelzők importálva</string>
+    <string name="UI_TEXT_CAL_IMPORTED">Naptárbejegyzés importálva</string>
+    <string name="UI_TEXT_CAL_IMPORTED_2">Naptárbejegyzés importálva</string>
+    <string name="UI_TEXT_CAL_IMPORTED_M">Naptárbejegyzések importálva</string>
+    <string name="UI_TEXT_CAL_IMPORTED_M_2">Naptárbejegyzések importálva</string>
+    <string name="UI_TEXT_DATA">Adat</string>
+    <string name="UI_TEXT_FAQ_PAGE">GYIK weboldal meglátogatása.</string>
+    <string name="UI_TEXT_PB_IMPORTED">Partner importálva</string>
+    <string name="UI_TEXT_PB_IMPORTED_2">Partner importálva</string>
+    <string name="UI_TEXT_PB_IMPORTED_M">Partnerek importálva</string>
+    <string name="UI_TEXT_PB_IMPORTED_M_2">Partnerek importálva</string>
+    <string name="UI_TEXT_PHOTO_IMPORTED">Kamerafelvétel importálva</string>
+    <string name="UI_TEXT_PHOTO_IMPORTED_2">Kamerafelvétel importálva</string>
+    <string name="UI_TEXT_PHOTO_IMPORTED_M">Kamerafelvételek importálva</string>
+    <string name="UI_TEXT_PHOTO_IMPORTED_M_2">Kamerafelvételek importálva</string>
+    <string name="UI_TEXT_SETTINGS_IMPORTED">Beállítás importálva</string>
+    <string name="UI_TEXT_SETTINGS_IMPORTED_2">Beállítás importálva</string>
+    <string name="UI_TEXT_SETTINGS_IMPORTED_M">Beállítások importálva</string>
+    <string name="UI_TEXT_SETTINGS_IMPORTED_M_2">Beállítások importálva</string>
+    <string name="UI_TEXT_SMS_IMPORTED">SMS importálva</string>
+    <string name="UI_TEXT_SMS_IMPORTED_2">SMS importálva</string>
+    <string name="UI_TEXT_SMS_IMPORTED_M">SMS importálva</string>
+    <string name="UI_TEXT_SMS_IMPORTED_M_2">SMS importálva</string>
+    <string name="UI_TEXT_TASK_IMPORTED">Feladat importálva</string>
+    <string name="UI_TEXT_TASK_IMPORTED_2">Feladat importálva</string>
+    <string name="UI_TEXT_TASK_IMPORTED_M">Feladatok importálva</string>
+    <string name="UI_TEXT_TASK_IMPORTED_M_2">Feladatok importálva</string>
+    <string name="UI_TIP_ACCOUNT">Fiók</string>
+    <string name="UI_TIP_CONFIRM">Erősítse meg, hogy a hozzáférési kulcs %1$s itt: %2$s.</string>
+    <string name="UI_TIP_Co_1">Befejezte az adatok importálását a(z) %s eszközről a telefonra.</string>
+    <string name="UI_TIP_Co_1_TABLET">Befejezte az adatok importálását a(z) %s eszközről a táblagépre.</string>
+    <string name="UI_TIP_Co_TBD">"
+Extra partnermezők tárolása történt meg a jegyzetek mezőben."</string>
+    <string name="UI_TIP_FIELDS_LIMITED">Az alkalmazásokból és e-mail fiókokból származó partnerek és naptáradatok áttöltése nem történik meg.</string>
+    <string name="UI_TIP_ImDa_1">Régi telefonjának képességeitől függően előfordulhat, hogy nem lehet partnereket, SMS-t és naptáreseményeket áttölteni új telefonjára Bluetooth-kapcsolaton keresztül.</string>
+    <string name="UI_TIP_ImDa_1_TABLET">Régi telefonjának képességeitől függően előfordulhat, hogy nem lehet partnereket, SMS-t és naptáreseményeket áttölteni új táblagépére Bluetooth-kapcsolaton keresztül.</string>
+    <string name="UI_TIP_ImDa_1_TABLET_WIFI">Régi telefonjának képességeitől függően előfordulhat, hogy nem lehet partnereket és naptáreseményeket áttölteni új táblagépére Bluetooth-kapcsolaton keresztül.</string>
+    <string name="UI_TIP_ImDa_2">Érintse meg a Next (Következő) elemet az indításhoz.</string>
+    <string name="UI_TIP_ImDa_35">Régi telefonjának képességeitől függően előfordulhat, hogy nem lehet partnereket és egyéb adatokat áttölteni új telefonjára Bluetooth-kapcsolaton keresztül.</string>
+    <string name="UI_TIP_ImDa_35_TABLET">Régi telefonjának képességeitől függően előfordulhat, hogy nem lehet partnereket és egyéb adatokat áttölteni új táblagépére Bluetooth-kapcsolaton keresztül.</string>
+    <string name="UI_TIP_Info_1">Hibák történtek itt: %s. Kérjük, próbálja újra később.</string>
+    <string name="UI_TIP_Info_2">Kérjük, próbálja újra később.</string>
+    <string name="UI_TIP_Info_UnMatchPhone">Hibák történtek itt: %s nem egyező telefontípus miatt.</string>
+    <string name="UI_TIP_IsMyOldPhone_NotInList">Annak ellenére, hogy más %s telefonok nem szerepelnek a támogatási listán, az Adatátvitel mégis megkísérli észlelni régi telefonját és megállapítani, hogy lehetséges-e áttölteni az adatokat.</string>
+    <string name="UI_TIP_Language">HUN</string>
+    <string name="UI_TIP_NoSuMo_1">A(z) %s nem támogatott. Az adatok nem tölthetők át.</string>
+    <string name="UI_TIP_NoSuMo_2">Érintse meg a Done (Kész) elemet a kilépéshez.</string>
+    <string name="UI_TIP_ON">%s készüléken:</string>
+    <string name="UI_TIP_PaWi">Adja meg ezt: %1$s ezen: %2$s</string>
+    <string name="UI_TIP_REPORT_ACCOUNT">Az egyéb szolgáltatásokból származó %s szinkronizálása megtörténik, amint bejelentkezik a szolgáltatásokra.</string>
+    <string name="UI_TIP_Re_TodoNotSupport">A teendők és feladat események importálása nem történik meg.</string>
+    <string name="UI_TIP_SelDT_2">Előfordulhat, hogy egyes mezők %s eszközről való áttöltése nem történik meg a teljes Bluetooth támogatás hiánya miatt.</string>
+    <string name="UI_TIP_TUONBL">Bluetooth bekapcsolása</string>
+    <string name="UI_TIP_TuOnBl_2">Érintse meg a Next (Következő) elemet, ha sikeresen bekapcsolta Bluetooth-szolgáltatást.</string>
+    <string name="UI_TITLE_CLEAR_DATA_ON_THIS_PHONE">A telefonon lévő adatok törlése</string>
+    <string name="UI_TITLE_CLEAR_DATA_ON_THIS_TABLET">A táblagépen lévő adatok törlése</string>
+    <string name="UI_TITLE_CONGRADULATIONS">Gratulálunk!</string>
+    <string name="UI_TITLE_CONN_WITH">Csatlakozás ehhez: %s</string>
+    <string name="UI_TITLE_HOW_TO_ENABLE_BT">Bluetooth engedélyezése a következőn: %s</string>
+    <string name="UI_TITLE_HOW_TO_ENABLE_BT_OTHER">Engedélyezze a Bluetooth-funkciót régi telefonján</string>
+    <string name="UI_TITLE_IMPORTING">%s áttöltése</string>
+    <string name="UI_TITLE_INFO">Információ</string>
+    <string name="UI_TITLE_IsMyOldPhone_OtherModel">Egyéb %s telefonok</string>
+    <string name="UI_TITLE_LOADING_PHONE_CONFIG">Telefon beállítások betöltése</string>
+    <string name="UI_TITLE_NOT_SUPPORTED_MODEL">Nem támogatott típus</string>
+    <string name="UI_TITLE_PAIRING">Párosítás…</string>
+    <string name="UI_TITLE_PAIRING_WITH">Párosítás a következővel: %s</string>
+    <string name="UI_TITLE_QUERYING_PHONE">Telefontípus lekérdezése</string>
+    <string name="UI_TITLE_SCANNING">Keresés…</string>
+    <string name="UI_TITLE_SCANNING_FOR_PHONES">Telefonok keresése</string>
+    <string name="UI_TITLE_SELECT_DATA_TYPES">Adattípusok választása az importáláshoz</string>
+    <string name="UI_TITLE_SELECT_OLD_PHONE_MAKER">Válassza ki régi készülékét</string>
+    <string name="UI_TITLE_SELECT_OLD_PHONE_MODEL">Válassza ki a típust</string>
+    <string name="UI_TITLE_SELECT_YOUR_PHONE">Válassza ki telefonját</string>
+    <string name="UI_TITLE_TIPS_UNSUPPORTED">Más %s telefonok nem támogatottak. Érintse meg a Done (Kész) elemet a kilépéshez.</string>
+</resources>

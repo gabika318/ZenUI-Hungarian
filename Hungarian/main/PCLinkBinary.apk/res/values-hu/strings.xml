@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connected">Csatlakoztatva</string>
+    <string name="disconnect">Kapcsolat bontása</string>
+    <string name="waiting_for_connection">Várakozás USB-kapcsolatra</string>
+    <string name="disconnected_message">PC Link leválasztva.</string>
+    <string name="linkrim_notif_title">PC Link csatlakoztatva</string>
+    <string name="linkrim_notif_message">Érintse meg a PC Link leválasztásához.</string>
+    <string name="download_linkrim_for_windows">PC Link letöltése Windows rendszerhez</string>
+    <string name="ime_label">PC Link mód</string>
+    <string name="switch_to_linkrim_ime">Windows beviteli módra váltás.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Mégse</string>
+    <string name="notagain">Ne mutassa ezt az uzenetet ujra.</string>
+    <string name="adb_warning_message">USB hibakeresés engedélyezése a PC Link használatához</string>
+    <string name="tutorial01_title">Megosztás a nagy képernyőn</string>
+    <string name="tutorial01_content">Tükrözze képernyőjét a számítógépén médiafájlok lejátszásához vagy bemutató tartásához.</string>
+    <string name="tutorial02_title">Soha többé ne maradjon le a fontos információkról</string>
+    <string name="tutorial02_content">Összpontosíthat a számítógép képernyőjére és vezérelheti telefonját billentyűzettel és egérrel.</string>
+    <string name="skip">Kihagyás</string>
+    <string name="done">Kész</string>
+</resources>

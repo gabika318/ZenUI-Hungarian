@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_types">
+        <item>Rendezés A > Z</item>
+        <item>Rendezés Z > A</item>
+    </string-array>
+    <string-array name="sort_types_download">
+        <item>Rendezés A > Z</item>
+        <item>Rendezés Z > A</item>
+        <item>Idő frissítése</item>
+    </string-array>
+    <string-array name="wallpaper_chooser_list">
+        <item>Induló képernyő</item>
+        <item>Zárolt képernyő</item>
+        <item>Induló és Zárolt képernyő</item>
+    </string-array>
+</resources>

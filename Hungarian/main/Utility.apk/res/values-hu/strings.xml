@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_charge">Töltési beállítás</string>
+    <string name="setting_charge_always">Telefon preferált mód</string>
+    <string name="setting_charge_balance">Intelligens mód</string>
+    <string name="setting_charge_package_mode">Tápegység mód</string>
+    <string name="setting_charge_always_hint">A PadFone Station mindig energiával látja el a PadFone készüléket.</string>
+    <string name="setting_charge_balance_hint">Intelligensen kezeli a PadFone eszközök akkuteljesítmény-igényeit.</string>
+    <string name="setting_charge_package_mode_hint">Ha a szabadban tartózkodik és a PadFone kezd lemerülni, a PadFone Station töltőegységként használható.</string>
+    <string name="charging_pack_mode_dialg_title">Belépés tápegység módba</string>
+    <string name="charging_pack_mode_dialg_message">"A PadFone Station kikapcsolásra kerül és töltőforrásként lesz használva.
+A kijelző bekapcsolásához nyomja meg 2 másodpercig a főkapcsoló gombot."</string>
+    <string name="setting_email_frequence">Bejövő elemek ellenőrzési gyakorisága</string>
+    <string name="setting_email_frequence_independent">Egyedi</string>
+    <string name="setting_email_frequence_always">Push mail</string>
+    <string name="setting_email_frequence_user">Kézi</string>
+    <string name="setting_email_frequence_5_min">5 percenként</string>
+    <string name="setting_email_frequence_10_min">10 percenként</string>
+    <string name="setting_email_frequence_15_min">15 percenként</string>
+    <string name="setting_email_frequence_30_min">30 percenként</string>
+    <string name="setting_email_frequence_1_hr">Óránként</string>
+    <string name="setting_email_frequence_2_hr">2 óránként</string>
+    <string name="setting_email_frequence_1_day">Naponta egyszer</string>
+    <string name="setting_email_frequence_hint">A hosszabb időköz energiát takarít meg és több használati időt biztosít. Ha fontos e-mail üzenetet vár, válassza a push mail lehetőséget, hogy mindig megkapja a legújabb e-mail üzeneteket. Ez azonban jobban igénybe veszi az akku teljesítményét.</string>
+    <string name="setting_email_toast_no_account">Egy fiók sincs push mail módra állítva</string>
+    <string name="setting_email_toast_set_push_mail">Push mail mód beállítása ehhez:</string>
+    <string name="setting_email_toast_no_account_smart">Nincs intelligens szinkronizálásra állított fiók</string>
+    <string name="setting_email_toast_set_smart_mode">Intelligens szink. beállítása ehhez:</string>
+    <string name="setting_phone">Bejövő hívás</string>
+    <string name="setting_phone_auto">Lekérés fogadáshoz</string>
+    <string name="setting_phone_manual">Lekérés és művelet választása</string>
+    <string name="setting_phone_auto_hint">Távolítsa el a PadFone-t a PadFone Stationből, hogy közvetlenül fogadhassa a hívást a hívásikon megérintése nélkül.</string>
+    <string name="setting_phone_manual_hint">Távolítsa el a PadFone-t a PadFone Stationből és érintse meg a hívás fogadása vagy befejezése ikont a hívás fogadásához, illetve elutasításához.</string>
+    <string name="setting_stylus_headset">Válaszmód</string>
+    <string name="setting_stylus_headset_auto">Stylus Headset preferált</string>
+    <string name="setting_stylus_headset_manual">Hallgató preferálva</string>
+    <string name="setting_stylus_headset_auto_hint">Amikor a telefon a PadFone Stationhöz csatlakozik. A Stylus Headset automatikusan csatlakozik.</string>
+    <string name="setting_stylus_headset_manual_hint">Amikor a telefon a PadFone Stationhöz csatlakozik. A hívásokat a PadFone Stationön lévő hallgatón keresztül lehet megválaszolni.</string>
+    <string name="setting_stylus_headset_connet_wrong">Sikertelen csatlakozás. Kérjük, próbálkozzon a Bluetooth-eszköz bekapcsolásával vagy párosítsa készülékét a Bluetooth-eszközzel.</string>
+    <string name="setting_bluetooth_auto">Bluetooth Headset preferált</string>
+    <string name="setting_bluetooth_auto_hint">Amikor a telefon a PadFone Stationhöz csatlakozik. A hívások fogadása a Bluetooth Headseten keresztül történik.</string>
+    <string name="dialog_power_pack_mode">Tápegység mód</string>
+    <string name="dialog_power_pack_mode_hint" formatted="false">"PadFone %d%%
+PadFone Station %d%%
+
+A kijelző %d másodperc múlva kikapcsolódik.
+
+Ki akar lépni a tápegység módból?"</string>
+    <string name="account_setup_options_mail_check_frequency_smartsync">Intelligens mód (Energiatakarékos)</string>
+</resources>

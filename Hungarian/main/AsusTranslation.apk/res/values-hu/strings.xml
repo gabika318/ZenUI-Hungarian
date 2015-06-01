@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_title">Keresés a Világhálón</string>
+    <string name="xdict_word_not_exist">Sajnáljuk, ez a szó nem létezik az adatbázisunkban</string>
+    <string name="dictionaryT">Angol &lt;> Kínai (Hagyományos)</string>
+    <string name="dictionaryS">Angol &lt;> Kínai (Egyszerűsített)</string>
+    <string name="dictionaryJ">Angol &lt;> Japán</string>
+    <string name="dictionaryE">Angol szótár</string>
+    <string name="language_selected">Érintsen meg egy szót a fordításának megtekintéséhez</string>
+    <string name="ok">OK</string>
+    <string name="tip">Ne mutassa ezt az üzenetet újra</string>
+    <string name="dictionary">Szótár</string>
+    <string name="httpErrorTimeout">A szerverrel fennálló kapcsolat időtúllépés miatt megszakadt.</string>
+    <string name="open_connection_failed">Az alkalmazás használatához az internethez kell csatlakozni.</string>
+    <string name="lookup_in_MyDictionary">Keresés a MyDictionary-ben</string>
+    <string name="online_translation">Online fordítás</string>
+</resources>

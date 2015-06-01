@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="download_limit_dialog_message">
+        <item quantity="other">A könyv csak %d eszközre tölthető le, és Ön elérte ezt a korlátot. Mielőtt itt olvashatná, el kell távolítania a könyvet az egyik eszközről.</item>
+        <item quantity="one">A könyv csak egy eszközre tölthető le, és Ön elérte ezt a korlátot. Mielőtt itt olvashatná, el kell távolítania a könyvet a másik eszközről.</item>
+        <item quantity="two">A könyv csak %d eszközre tölthető le, és Ön elérte ezt a korlátot. Mielőtt itt olvashatná, el kell távolítania a könyvet az egyik eszközről.</item>
+        <item quantity="few">A könyv csak %d eszközre tölthető le, és Ön elérte ezt a korlátot. Mielőtt itt olvashatná, el kell távolítania a könyvet az egyik eszközről.</item>
+        <item quantity="many">A könyv csak %d eszközre tölthető le, és Ön elérte ezt a korlátot. Mielőtt itt olvashatná, el kell távolítania a könyvet az egyik eszközről.</item>
+    </plurals>
+    <plurals name="concurrent_access_denied_message">
+        <item quantity="other">Ez a könyv egyidejűleg csak %1$d eszközön vagy számítógépen olvasható, és Ön már elérte ezt a határt. Zárja be a könyvet más olvasókon, várjon néhány percet, majd próbálkozzon újra.</item>
+        <item quantity="zero">A könyv olvasása jelenleg nem engedélyezett. Várjon néhány percet, majd próbálkozzon újra. Ha ugyanezt az üzenetet látja, a Súgóban kattintson a „Hibabejelentés” linkre.</item>
+        <item quantity="one">Ez a könyv egyidejűleg csak egy eszközön vagy számítógépen olvasható, és Ön már elérte ezt a határt. Zárja be ezt a könyvet más olvasókon, várjon néhány percet, majd próbálkozzon újra.</item>
+        <item quantity="two">Ez a könyv egyidejűleg csak %1$d eszközön vagy számítógépen olvasható, és Ön már elérte ezt a határt. Zárja be a könyvet más olvasókon, várjon néhány percet, majd próbálkozzon újra.</item>
+        <item quantity="few">Ez a könyv egyidejűleg csak %1$d eszközön vagy számítógépen olvasható, és Ön már elérte ezt a határt. Zárja be a könyvet más olvasókon, várjon néhány percet, majd próbálkozzon újra.</item>
+        <item quantity="many">Ez a könyv egyidejűleg csak %1$d eszközön vagy számítógépen olvasható, és Ön már elérte ezt a határt. Zárja be a könyvet más olvasókon, várjon néhány percet, majd próbálkozzon újra.</item>
+    </plurals>
+    <plurals name="note_text_book_added">
+        <item quantity="other">Hozzáadva a Google Play-könyvtárhoz</item>
+        <item quantity="one">Hozzáadva a Google Play-könyvtárhoz</item>
+        <item quantity="two">Hozzáadva a Google Play-könyvtárhoz</item>
+        <item quantity="few">Hozzáadva a Google Play-könyvtárhoz</item>
+        <item quantity="many">Hozzáadva a Google Play-könyvtárhoz</item>
+    </plurals>
+    <plurals name="note_title_books_added">
+        <item quantity="other">%d új könyv</item>
+        <item quantity="two">%d új könyv</item>
+        <item quantity="few">%d új könyv</item>
+        <item quantity="many">%d új könyv</item>
+    </plurals>
+    <plurals name="note_summary_books_added">
+        <item quantity="other">…és %d további könyv</item>
+        <item quantity="one">…és %d további könyv</item>
+        <item quantity="two">…és %d további könyv</item>
+        <item quantity="few">…és %d további könyv</item>
+        <item quantity="many">…és %d további könyv</item>
+    </plurals>
+    <plurals name="home_book_count">
+        <item quantity="other">%3$d/%1$d--%2$d. könyv látható</item>
+        <item quantity="one">Egy könyv van megjelenítve a könyvtárában.</item>
+    </plurals>
+    <plurals name="rental_badge_hours">
+        <item quantity="other">%1$d ÓRA</item>
+        <item quantity="one">%1$d ÓRA</item>
+        <item quantity="two">%1$d ÓRA</item>
+        <item quantity="few">%1$d ÓRA</item>
+        <item quantity="many">%1$d ÓRA</item>
+    </plurals>
+    <plurals name="rental_badge_hours_description">
+        <item quantity="other">a kölcsönzés %1$d óra múlva lejár</item>
+        <item quantity="one">a kölcsönzés %1$d óra múlva lejár</item>
+        <item quantity="two">a kölcsönzés %1$d óra múlva lejár</item>
+        <item quantity="few">a kölcsönzés %1$d óra múlva lejár</item>
+        <item quantity="many">a kölcsönzés %1$d óra múlva lejár</item>
+    </plurals>
+    <plurals name="rental_badge_days">
+        <item quantity="other">%1$d NAP</item>
+        <item quantity="one">%1$d NAP</item>
+        <item quantity="two">%1$d NAP</item>
+        <item quantity="few">%1$d NAP</item>
+        <item quantity="many">%1$d NAP</item>
+    </plurals>
+    <plurals name="rental_badge_days_description">
+        <item quantity="other">a kölcsönzés %1$d nap múlva lejár</item>
+        <item quantity="one">a kölcsönzés %1$d nap múlva lejár</item>
+        <item quantity="two">a kölcsönzés %1$d nap múlva lejár</item>
+        <item quantity="few">a kölcsönzés %1$d nap múlva lejár</item>
+        <item quantity="many">a kölcsönzés %1$d nap múlva lejár</item>
+    </plurals>
+    <plurals name="license_dialog_body">
+        <item quantity="other">Ezt a könyvet %1$d eszközre töltheti le offline olvasás céljából, vagy csak online olvashatja.</item>
+        <item quantity="zero">Ezt a könyvet nem lehet letölteni offline olvasásra, ezért kizárólag online olvashatja.</item>
+        <item quantity="one">Ezt a könyvet egy eszközre töltheti le offline olvasás céljából, vagy csak online olvashatja.</item>
+        <item quantity="two">Ezt a könyvet %1$d eszközre töltheti le offline olvasás céljából, vagy csak online olvashatja.</item>
+        <item quantity="few">Ezt a könyvet %1$d eszközre töltheti le offline olvasás céljából, vagy csak online olvashatja.</item>
+        <item quantity="many">Ezt a könyvet %1$d eszközre töltheti le offline olvasás céljából, vagy csak online olvashatja.</item>
+    </plurals>
+    <plurals name="license_alert_offline_unavailable_body">
+        <item quantity="other">Ezt a könyvet már letöltötte %1$d eszközre. Ha ezen az eszközön szeretné offline olvasni, először távolítsa el egy másikról.</item>
+        <item quantity="one">Ezt a könyvet már letöltötte egy másik eszközre. Ha ezen az eszközön szeretné offline olvasni, először távolítsa el a másikról.</item>
+        <item quantity="two">Ezt a könyvet már letöltötte %1$d eszközre. Ha ezen az eszközön szeretné offline olvasni, először távolítsa el egy másikról.</item>
+        <item quantity="few">Ezt a könyvet már letöltötte %1$d eszközre. Ha ezen az eszközön szeretné offline olvasni, először távolítsa el egy másikról.</item>
+        <item quantity="many">Ezt a könyvet már letöltötte %1$d eszközre. Ha ezen az eszközön szeretné offline olvasni, először távolítsa el egy másikról.</item>
+    </plurals>
+</resources>

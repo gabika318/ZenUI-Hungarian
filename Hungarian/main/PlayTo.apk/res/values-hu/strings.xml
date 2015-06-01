@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">Igen</string>
+    <string name="no">Nem</string>
+    <string name="select_device_title">Eszköz kiválasztása</string>
+    <string name="searching_device_message">Keresés...</string>
+    <string name="no_devices_found_message">Nem található eszköz a közelben</string>
+    <string name="wfd_targets_category">Képernyőtükrözés</string>
+    <string name="dmr_targets_category">Médialejátszó</string>
+    <string name="presentation_mode_description">Videó lejátszása csak a távoli kijelzőn</string>
+    <string name="presentation_mode_dialog_title">Felhívás</string>
+    <string name="presentation_mode_dialog_content">"Előfordulhat, hogy ez a szolgáltatás nem támogat egyes videolejátszó alkalmazásokat vagy felirattal rendelkező videót.
+
+Ha a videó nem játszható le megfelelően, próbálja meg letiltani ezt a szolgáltatást."</string>
+    <string name="presentation_mode_dialog_donot_show_again">Ne mutassa ezt az üzenetet újra</string>
+    <string name="turn_on_wifi_dialog_title">Wi-Fi bekapcsolása</string>
+    <string name="turn_on_wifi_dialog_message">"Ez a funkció Wi-Fi kapcsolatot igényel.
+Be a karja kapcsolni a Wi-Fi-t?"</string>
+    <string name="play_to_notification_connected_message">Csatlakoztatva ehhez: %1$s</string>
+    <string name="play_to_connection_established_dialog_title">Kapcsolat létesítve</string>
+    <string name="play_to_connection_established_dialog_title_wfd">Screen Mirroring</string>
+    <string name="play_to_connection_established_dialog_message">Lépjen a Galériába vagy Zenei alkalmazásra, hogy %1$s segítségével lejátssza a médiát.</string>
+    <string name="play_to_connection_established_dialog_message_wfd">Ide tükrözi a képernyőt: %1$s.</string>
+    <string name="play_to_connection_established_dialog_disconnect_text">Kapcsolat bontása</string>
+    <string name="device_rename_dialog_title">Átnevezés</string>
+    <string name="device_rename_save_text">Mentés</string>
+    <string name="play_to_notification_play_via_message">Lejátszás ezen: %1$s</string>
+    <string name="play_to_disconnected_toast">A Play To leválasztva</string>
+    <string name="remote_target_status_connecting">Csatlakozás</string>
+    <string name="remote_target_status_connected">Csatlakoztatva</string>
+    <string name="remote_target_status_available">Elérhető</string>
+    <string name="remote_target_status_in_use">Használatban</string>
+    <string name="extended_mode_description">Videó lejátszása csak a külső kijelzőn</string>
+    <string name="play_to_status_connecting">Csatlakozás...</string>
+    <string name="play_to_notification_connecting_message">Csatlakozás ehhez: %1$s</string>
+    <string name="stop">Leállítás</string>
+    <string name="cannot_edit_device_toast">Nem szerkeszthető az eszköz, amelyhez soha nem csatlakozik</string>
+    <string name="no_available_device_found_message">Nem található elérhető eszköz</string>
+    <string name="play_to_empty_list_wifi_disabled">A PlayTo le van tiltva, mert a Wi-Fi ki van kapcsolva.</string>
+    <string name="extended_mode_only_support_gallery_and_preloaded_app">Ez az ASUS Gallery és bizonyos előtelepített alkalmazások saját szolgáltatása.</string>
+    <string name="play_to_is_connected">PlayTo csatlakoztatva</string>
+    <string name="play_to_is_disconnected">PlayTo leválasztva</string>
+    <string name="screen_is_mirroring_to_specific_device">Ide tükrözi a képernyőt: %1$s.</string>
+    <string name="extended_mode_may_not_support_subtitle">Előfordulhat, hogy nem jelennek meg a feliratok, ha a videót külső megjelenítőn játsszák le.</string>
+    <string name="disable_extended_mode_to_show_subtitle">Ha meg akarja jeleníteni a feliratokat, tiltsa le a(z) “%1$S funkciót.</string>
+    <string name="dmr_not_support_subtitle">A vezeték nélküli médialejátszó nem támogatja a feliratok megjelenítését.</string>
+    <string name="turn_on_wlan_dialog_title">WLAN bekapcsolása</string>
+    <string name="turn_on_wlan_dialog_message">"Ez a funkció WLAN kapcsolatot igényel.
+Be a karja kapcsolni a WLAN-t?"</string>
+    <string name="play_to_empty_list_wlan_disabled">A PlayTo le van tiltva, mert a WLAN ki van kapcsolva.</string>
+    <string name="bt_conflict_playto_bt_dialog_message">"A Bluetooth és a képernyőtükrözés nem működik egyszerre.
+Le akarja állítani a képernyőtükrözést és be akarja kapcsolni a Bluetooth-funkciót?"</string>
+    <string name="bt_conflict_bt_playto_dialog_message">"A Bluetooth és a képernyőtükrözés nem működik egyszerre.
+Ki akarja kapcsolni a Bluetooth-funkciót és el akarja indítani a képernyőtükrözést?"</string>
+    <string name="play_to_summary">Csatlakoztatás vezeték nélküli lejátszóhoz</string>
+    <string name="dmr_not_support_volume_adjust">Kérjük, állítsa be a hangerőt a médialejátszón</string>
+    <string name="can_not_play_drm_content">A kijelzőn csak a nem védett videotartalmak játszhatók le.</string>
+    <string name="screen_sharing_dialog_title">Képernyő-megosztás</string>
+    <string name="screen_sharing_dialog_do_not_show_again">Ne mutassa újra ezt az üzenetet</string>
+    <string name="screen_sharing_dialog_content">Ha nem láthatók a feliratok a távoli kijelzőn, illetve egyéb lejátszási problémák adódtak, válassza a Device and remote display (Eszköz és távoli kijelző) lehetőséget a Settings (Beállítások) -> Display (Kijelző) -> Screen sharing mode (Kijelző-megosztás mód) menüben.</string>
+</resources>

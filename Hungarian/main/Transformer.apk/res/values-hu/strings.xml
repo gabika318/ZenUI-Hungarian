@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="on_low_battery_config_applied_notification_title">Akkumulátorkímélő BE</string>
+    <string name="on_low_battery_config_applied_notification_message">Érintse meg a beállítások megjelenítéséhez</string>
+    <string name="asus_ep_notify_mobile_dock_title">Dokkoló csatlakoztatva</string>
+    <string name="asus_ep_notify_mobile_dock_message">A billentyűzettel gépelhet</string>
+    <string name="asus_ep_notify_audio_dock_title">Audió dokkoló csatlakoztatva</string>
+    <string name="asus_ep_notify_audio_dock_message">Javítja a hangminőséget lejátszáskor</string>
+    <string name="asus_ep_notify_connect_dock_title">Csatlakoztató dokkoló csatlakoztatva</string>
+    <string name="asus_ep_notify_connect_dock_message">Ethernet és USB bővítés használata</string>
+    <string name="asus_ep_dock_firmware_title">ASUS Update szolgáltatás</string>
+    <string name="asus_ep_dock_firmware_available_message">MobileDock firmware frissítés elérhető.</string>
+    <string name="asus_ep_dock_firmware_updating_message">A MobileDock firmware frissítése</string>
+    <string name="asus_ep_dock_firmware_dialog_message">"A firmware frissítés kb. 1 percet vesz igénybe. 
+Mobil dokkolóját – a billentyűzettel és érintőpaddal együtt – ez alatt az idő alatt nem használhatja. 
+Ne válassza le a mobil dokkolót vagy kapcsolja ki az eszközt. 
+Kívánja folytatni a rendszerfrissítést?"</string>
+    <string name="asus_ep_dock_firmware_dialog_fail_message">"A hardveres billentyűzet nem lesz működőképes a mobil dokkoló firmware sikeres frissítése nélkül. 
+ Kérjük, próbálja meg újra."</string>
+    <string name="asus_ep_dock_firmware_update_complete">A frissítés kész.</string>
+    <string name="asus_ep_dock_firmware_update_fail">Sikertelen frissítés</string>
+    <string name="asus_ep_pad_firmware_available_message">Pad firmware frissítés elérhető</string>
+    <string name="asus_ep_pad_firmware_updating_message">Pad firmware-frissítés folyamatban</string>
+    <string name="asus_ep_pad_firmware_dialog_message">"A firmware frissítés folyamat körülbelül egy percet vesz igénybe. Ilyenkor nem használhatja az ezközt.
+
+Győződjön meg arról, hogy elegendő akkumulátor-töltéssel rendelkezik, és a frissítés folyamata során ne kapcsolja ki az eszközt.
+
+Szeretné frissíteni a firmware-t?"</string>
+    <string name="asus_ep_pad_firmware_dialog_fail_message">"Pad firmware-frissítési hiba
+
+A firmware frissítése nem sikerült.
+Megkísérli újra?"</string>
+    <string name="asus_ep_camera_firmware_available_message">A kamera firmware frissítése elérhető</string>
+    <string name="asus_ep_camera_firmware_updating_message">Kamera firmware-frissítés folyamatban</string>
+    <string name="asus_ep_camera_firmware_dialog_message">"A firmware frissítés folyamat körülbelül öt percet vesz igénybe. Ilyenkor nem használhatja az ezközt.
+
+Győződjön meg arról, hogy elegendő akkumulátor-töltéssel rendelkezik, és a frissítés folyamata során ne kapcsolja ki az eszközt.
+
+Szeretné frissíteni a firmware-t?"</string>
+    <string name="asus_ep_camera_firmware_dialog_fail_message">"Kamera firmware-frissítési hiba
+
+A firmware frissítése nem sikerült.
+Megkísérli újra?"</string>
+    <string name="asus_ep_touch_firmware_available_message">Az érintő firmware frissítése elérhető</string>
+    <string name="asus_ep_touch_firmware_updating_message">Az érintő firmware frissítése folyamatban</string>
+    <string name="asus_ep_touch_firmware_dialog_fail_message">Nyomja meg és tartsa lenyomva a Főkapcsoló gombot, amíg a kijelző rövid ideig felvillan, hogy újból frissítse az érintőpanel firmware-t.</string>
+    <string name="asus_ep_touch_firmware_dialog_fail_title">Az érintőpanel firmware frissítése nem sikerült</string>
+    <string name="asus_ep_notify_aio_dock_title">AIO Dock csatlakoztatva</string>
+    <string name="asus_ep_notify_aio_dock_on_message">A Windows 8 BE van kapcsolva</string>
+    <string name="asus_ep_notify_aio_dock_off_message">A Windows 8 KI van kapcsolva</string>
+    <string name="asus_ep_scalar_firmware_available_message">Érintse meg a Scalar firmware-frissítés indításához</string>
+    <string name="asus_ep_scalar_firmware_updating_message">A Scalar firmware frissítése folyik</string>
+    <string name="asus_ep_scalar_firmware_dialog_message">A Scalar firmware frissítése javítja a Tablet PC megjelenítési minőségét. A Scalar firmware frissítése előtt vegye figyelembe a következőt:* töltse fel a Tablet PC-t és ügyeljen arra, hogy az akkumulátor töltésszintje legalább 10% legyen. * A firmware-frissítés folyamata körülbelül egy percet vesz igénybe. A folyamat során nem használhatja az érintőképernyőt. * Ha a frissítés nem sikerül, a képernyő lefagy. Nyomja meg és tartsa lenyomva az üzemkapcsoló gombot nyolc másodpercig a rendszer újraindításának kényszerítéséhez, majd a rendszer ezt követően automatikusan újra megkísérli a Scalar frissítését. A rendszer újraindul a firmware-frissítés új kísérletének végén. Szeretné frissíteni a Scalar firmware-t?</string>
+    <string name="asus_padcrash_title">FIGYELEM</string>
+    <string name="asus_padcrash_msg">A PadFone Station nem válaszol. Próbálja újra.</string>
+    <string name="asus_ep_pad_gic_firmware_updating_message">"A Pad firmware frissítése folyik. 
+Ne dugja be ekkor a hálózati adaptert."</string>
+    <string name="asus_ep_dock_gic_firmware_updating_message">"A MobileDock firmware frissítése folyik. 
+Kérjük, ne dugja be a router hálózati adaptert, és tartsa csatlakoztatott állapotban a dokkolót."</string>
+    <string name="asus_ep_gic_firmware_dialog_fail_meesage_ac_connected">FONTOS! Mielőtt hozzákezdene firmware frissítéséhez, húzza ki a hálózati adaptert az eszközből.</string>
+    <string name="asus_ep_gic_firmware_updating_remove_power_message">Kérjük, húzza ki a hálózati adaptert a Pad firmware frissítéséhez.</string>
+    <string name="asus_ep_pfs_pad_ec_update_reboot">Vegye ki PadFone készülékét és helyezze be újra a PadFone Stationbe.</string>
+    <string name="asus_ep_padall_firmware_dialog_fail_message">"A PadFone Station firmware-ének frissítése nem sikerült.(%1$s)
+Megkísérli újra?"</string>
+    <string name="asus_ep_pfs_pad_ec_available_message">PadFone Station firmware frissítés elérhető</string>
+    <string name="asus_ep_pfs_pad_ec_updating_message">A PadFone Station firmware-ének frissítése folyik...</string>
+    <string name="asus_ep_pfs_pad_ec_update_complete">A Padfone Station firmware-ének frissítése sikeresen megtörtént.</string>
+    <string name="asus_ep_pfs_pad_ec_update_fail">A Padfone Station firmware-ének frissítése sikertelen.</string>
+    <string name="asus_ep_pfs_pad_ec_dialog_fail_message">"A PadFone Station firmware-ének frissítése nem sikerült.
+Megkísérli újra?"</string>
+    <string name="asus_ep_pfs_pad_ec_dialog_message">"Ne válassza le az eszközt a PadFone Stationről és ne állítsa le az eszközt a firmware-frissítés közben.
+
+Az eszközt csak a firmware-frissítés végén használhatja. Folytatja?"</string>
+    <string name="asus_ep_pfs_camera_available_message">A PadFone Station kamerájához firmware-frissítés áll rendelkezésre</string>
+    <string name="asus_ep_pfs_camera_updating_message">A PadFone Station kamerájához tartozó firmware frissítése folyamatban van...</string>
+    <string name="asus_ep_pfs_camera_update_complete">A PadFone Station kamerájához tartozó firmware frissítése sikerült.</string>
+    <string name="asus_ep_pfs_camera_update_fail">A PadFone Station kamerájához tartozó firmware frissítése sikertelen.</string>
+    <string name="asus_ep_pfs_camera_dialog_fail_message">"A PadFone Station kamerájához tartozó firmware frissítése sikertelen.
+Megpróbálja újra?"</string>
+    <string name="asus_ep_pfs_touch_available_message">A PadFone Station érintőpaneléhez firmware-frissítés áll rendelkezésre</string>
+    <string name="asus_ep_pfs_touch_updating_message">A PadFone Station érintőpaneléhez tartozó firmware frissítése folyamatban van...</string>
+    <string name="asus_ep_pfs_touch_update_complete">A PadFone Station érintőpaneléhez tartozó firmware frissítése sikerült.</string>
+    <string name="asus_ep_pfs_touch_update_fail">A PadFone Station érintőpaneléhez tartozó firmware frissítése sikertelen.</string>
+    <string name="asus_ep_pfs_touch_dialog_fail_message">"A PadFone Station érintőpaneléhez tartozó firmware frissítése sikertelen.
+Megpróbálja újra?"</string>
+</resources>

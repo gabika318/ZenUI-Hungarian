@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="caps_lock_on">Caps Lock gomb engedélyezve</string>
+    <string name="num_lock_on">Num Lock gomb engedélyezve</string>
+</resources>

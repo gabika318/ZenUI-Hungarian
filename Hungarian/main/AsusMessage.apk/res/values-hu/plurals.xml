@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uv_comments">
+        <item quantity="other">megjegyzések</item>
+        <item quantity="one">megjegyzés</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="other">előfizetők</item>
+        <item quantity="one">előfizető</item>
+    </plurals>
+    <plurals name="uv_articles">
+        <item quantity="other">cikkek</item>
+        <item quantity="one">cikk</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="other">ötletek</item>
+        <item quantity="one">ötlet</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="other">személyek</item>
+        <item quantity="one">személy</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="other">%1$s ezt az ötletet akarják</item>
+        <item quantity="one">%1$s ezt az ötletet akarja</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="other">témák</item>
+        <item quantity="one">téma</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="other">%1$s kedveli ezt a témát</item>
+        <item quantity="one">%1$s kedveli ezt a témát</item>
+    </plurals>
+    <plurals name="asus_confirm_delete_multiple_messages">
+        <item quantity="other">%1$s üzenet törölve lesz.</item>
+        <item quantity="one">Egy üzenet törölve lesz.</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s beszélgetés kerül törlésre.</item>
+        <item quantity="one">Egy beszélgetés törlésre kerül.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s másodperc</item>
+        <item quantity="one">%s másodperc</item>
+        <item quantity="few">%s másodperc</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s találat a következőre: \"%2$s\"</item>
+        <item quantity="one">%1$s találat a következőre: \"%2$s\"</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">további %1$s üzenet</item>
+        <item quantity="one">további %1$s üzenet</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s személy</item>
+    </plurals>
+</resources>

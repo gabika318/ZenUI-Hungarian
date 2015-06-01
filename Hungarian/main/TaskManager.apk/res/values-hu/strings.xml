@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Feladatkezelő</string>
+    <string name="close_all_process">Mindent bezár</string>
+    <string name="asus_quickbox_boost">Erősítés</string>
+    <string name="megabyte_label">MB</string>
+    <string name="task_label">feladatok</string>
+    <string name="no_running_apps">Nincs futó alkalmazás</string>
+    <string name="memory_free">%1$d MB szabad</string>
+    <string name="title_task_number">feladat</string>
+    <string name="title_task_number_plural">feladat</string>
+    <string name="free_memory_toast">A memória felszabadult</string>
+    <string name="warning_boost_title">Boost</string>
+    <string name="warning_boost_content">"A váratlan hibák megelőzése érdekében a Boost nem fogja a háttérben futó szolgáltatások leállását kikényszeríteni.
+
+Ha be szeretné őket zárni, akkor kattintson a feladatlistán szereplő alkalmazások bezárás gombjára."</string>
+    <string name="warning_boost_btn_ok">OK</string>
+    <string name="warning_close_title">Szolgáltatás bezárása</string>
+    <string name="warning_close_content">"A futó szolgáltatás bezárása váratlan hibát okozhat.
+
+Mégis ki akarja kényszeríteni a bezárását?"</string>
+    <string name="warning_close_btn_no">Nem</string>
+    <string name="warning_close_btn_yes">Igen</string>
+    <string name="warning_checkbox">Ne mutassa újra</string>
+</resources>

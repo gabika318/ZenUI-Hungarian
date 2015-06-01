@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="select_file">Fájl kiválasztása</string>
+    <string name="to_print_file">Fájl nyomtatása...</string>
+    <string name="could_not_start">Nem sikerült elindítani a Cloud Print szolgáltatást.</string>
+    <string name="could_not_start_unknown_intent">Nem sikerült elindítani a Cloud Print szolgáltatást: ismeretlen művelet</string>
+    <string name="could_not_resolve_content_type">Nem sikerült elindítani a Cloud Print szolgáltatást: ismeretlen fájltípus</string>
+    <string name="print">Nyomtatás</string>
+    <string name="delete">Törlés</string>
+    <string name="cab_selected_count">%1$d kiválasztva</string>
+    <string name="app_name">Cloud Print</string>
+    <string name="default_document_title">Névtelen</string>
+    <string name="unknown_printer">Ismeretlen nyomtató</string>
+    <string name="refresh">Frissítés</string>
+    <string name="search">Keresés</string>
+    <string name="status_sending">Küldés...</string>
+    <string name="status_queued">Sorba állítva</string>
+    <string name="status_in_progress">Folyamatban</string>
+    <string name="status_done">Nyomtatva</string>
+    <string name="status_error">Hiba</string>
+    <string name="status_expired">Lejárt</string>
+    <string name="status_submitted">Elküldve</string>
+    <string name="no_accounts_label">A Cloud Print használatához Google-fiókra van szükség.</string>
+    <string name="create_account">FIÓK HOZZÁADÁSA</string>
+    <string name="printer_label">Nyomtató:</string>
+    <string name="currently_offline">Jelenleg offline</string>
+    <string name="offline_more_than_a_week">Több mint egy hete offline</string>
+    <string name="offline_more_than_a_month">Több mint egy hónapja offline</string>
+    <string name="offline_more_than_a_year">Több mint egy éve offline</string>
+    <string name="quota_remaining">%1$d oldal marad mára</string>
+    <string name="printer_owned_by">Tulajdonos: %1$s</string>
+    <string name="printer_owned_by_me">A saját tulajdonom</string>
+    <string name="could_not_receive_printers_heading">Nem sikerült fogadni a nyomtatók listáját.</string>
+    <string name="could_not_receive_printers_message">Nem sikerült fogadni a nyomtatók listáját a szervertől. Szeretné újra megpróbálni?</string>
+    <string name="printer_list_empty">A nyomtatólista üres.</string>
+    <string name="printer_list_load_failure">Nem sikerült betölteni a nyomtatókat.</string>
+    <string name="filtered_printer_list_empty">Nincs a(z) „%s” keresésnek megfelelő nyomtató.</string>
+    <string name="print_queue_empty">Nincs nyomtatási feladat.</string>
+    <string name="print_queue_load_failure">Nem sikerült betölteni a nyomtatási feladatokat.</string>
+    <string name="cdd_collate">Leválogatás</string>
+    <string name="cdd_color">Színes</string>
+    <string name="cdd_copies">Példányszám</string>
+    <string name="cdd_dpi">DPI</string>
+    <string name="cdd_dpi_for_translation">Felbontás</string>
+    <string name="cdd_duplex">Kétoldalas nyomtatás</string>
+    <string name="cdd_fit_to_page">Igazítás az oldalmérethez</string>
+    <string name="cdd_margin">Margók</string>
+    <string name="cdd_media_size">Média méretei</string>
+    <string name="cdd_page_orientation">Tájolás</string>
+    <string name="cdd_page_range">Oldaltartomány</string>
+    <string name="cdd_reverse">Fordított sorrend</string>
+    <string name="cdd_option_color_color">Színes</string>
+    <string name="cdd_option_color_monochrome">Fekete-fehér</string>
+    <string name="cdd_option_color_auto">Automatikus</string>
+    <string name="cdd_option_duplex_off">Kikapcsolva</string>
+    <string name="cdd_option_duplex_long_edge">Hosszú él</string>
+    <string name="cdd_option_duplex_short_edge">Rövid él</string>
+    <string name="cdd_option_fit_to_page_none">Egy sem</string>
+    <string name="cdd_option_fit_to_page_fit">Igazítás az oldalmérethez</string>
+    <string name="cdd_option_fit_to_page_grow">Oldalhoz nagyítás</string>
+    <string name="cdd_option_fit_to_page_shrink">Oldalhoz kicsinyítés</string>
+    <string name="cdd_option_fit_to_page_fill">Oldal kitöltése</string>
+    <string name="cdd_option_orientation_portrait">Álló</string>
+    <string name="cdd_option_orientation_landscape">Fekvő</string>
+    <string name="cdd_option_orientation_auto">Automatikus</string>
+    <string name="cdd_option_dpi_horizontal">Vízszintes dpi</string>
+    <string name="cdd_option_dpi_vertical">Függőleges dpi</string>
+    <string name="cdd_option_margin_top">Az oldal tetejére</string>
+    <string name="cdd_option_margin_right">Jobbra</string>
+    <string name="cdd_option_margin_bottom">Alulra</string>
+    <string name="cdd_option_margin_left">Balra</string>
+    <string name="cdd_option_media_size">%1$dx%2$d mm</string>
+    <string name="cdd_option_dpi_single">%1$d dpi</string>
+    <string name="cdd_option_dpi_double">%1$dx%2$d dpi</string>
+    <string name="page_1">1</string>
+    <string name="page_2">2</string>
+    <string name="document_will_upload_in_background">A nyomtatási feladat a háttérben lesz feltöltve</string>
+    <string name="document_sending">Nyomtatási feladat küldése</string>
+    <string name="document_sending_title">Nyomtatási feladat küldése</string>
+    <string name="document_submitted">Nyomtatási feladat elküldve</string>
+    <string name="document_submitted_title">Nyomtatási feladat elküldve</string>
+    <string name="document_submitted_title_multiple">Elküldött nyomtatási feladatok: %1$d</string>
+    <string name="document_submit_failed">Nem sikerült elküldeni egy nyomtatási feladatot</string>
+    <string name="document_submit_failed_title">Nem sikerült elküldeni egy nyomtatási feladatot</string>
+    <string name="document_submit_failed_title_multiple">Nem sikerült elküldeni %1$d nyomtatási feladatot.</string>
+    <string name="document_submit_success_and_failed_title">Elküldött nyomtatási feladatok: %1$d. Sikertelen nyomtatási feladatok: %2$d.</string>
+    <string name="print_job_deleted">%1$s törölve</string>
+    <string name="print_job_deleted_multiple">%1$d nyomtatási feladat törölve</string>
+    <string name="title_printers">Nyomtatók</string>
+    <string name="title_print_jobs">Nyomtatási feladatok</string>
+    <string name="title_print_preview">Nyomtatási előnézet</string>
+    <string name="success_msg">Sikeres</string>
+    <string name="failure_request_msg">Sikertelen kérés</string>
+    <string name="failure_msg_request_failed">Sikertelen kérés</string>
+    <string name="failure_server_failed_response">A szerver hibaállapotot küldött vissza</string>
+    <string name="failure_msg_could_not_create_request">A szerverkérelem nem hozható létre</string>
+    <string name="failure_msg_could_not_create_http_request">A HTTP-kérelem nem hozható létre</string>
+    <string name="failure_msg_could_not_execute_http_request">A HTTP-kérelem nem hajtható végre</string>
+    <string name="failure_msg_out_of_memory">Nincs elég memória</string>
+    <string name="failure_msg_could_not_connect">Nem sikerült csatlakozni a szerverhez</string>
+    <string name="failure_msg_success_is_false">A szerver nem várt hibát küldött vissza</string>
+    <string name="failure_msg_could_not_parse">Nem sikerült elemezni a szerver válaszát</string>
+    <string name="failure_msg_unexpected_number_of_printers">Nem várt nyomtatószám a válaszban</string>
+    <string name="failure_msg_internal_error">Belső alkalmazáshiba</string>
+    <string name="failure_msg_authentication_failed">A hitelesítés nem sikerült</string>
+    <string name="failure_msg_printer_lookup">Nem sikerült betölteni a nyomtatófunkciókat</string>
+    <string name="failure_msg_file_not_found">A fájl nem található, vagy nem lehet hozzáférni</string>
+    <string name="menu_hint_search_printers">Nyomtatók keresése</string>
+    <string name="preferences">Beállítások</string>
+    <string name="local_discovery">Helyi keresés</string>
+    <string name="pref_category_settings">Beállítások</string>
+    <string name="pref_category_manage">Kezelés</string>
+    <string name="pref_category_about">Névjegy</string>
+    <string name="pref_account">Fiók</string>
+    <string name="pref_print_jobs">Nyomtatási feladatok</string>
+    <string name="pref_terms_of_service">Általános Szerződési Feltételek</string>
+    <string name="pref_privacy_policy">Adatvédelmi irányelvek</string>
+    <string name="pref_open_source">Nyílt forráskódú licencek</string>
+    <string name="pref_app_version">Alkalmazásverzió</string>
+    <string name="pref_app_version_key">pref_app_version_key</string>
+    <string name="pref_user_account_key">pref_user_account_key</string>
+    <string name="pref_print_jobs_key">pref_print_jobs_key</string>
+    <string name="pref_about">Névjegy</string>
+    <string name="fedex_tos_title">A Fedex általános szerződési feltételei</string>
+    <string name="fedex_tos_text">A FedEx Office-ügyfélponton történő nyomtatással elfogadja a FedEx <a href="http://www.fedex.com/us/office/copyprint/online/googlecloudprint/termsandconditions">szerződési feltételeit</a>.</string>
+    <string name="no_local_devices_found">Nem található helyi eszköz</string>
+    <string name="local_device_registration_title">Eszközregisztráció</string>
+    <string name="register_with_account_template">A(z) %1$s regisztrálása a következővel: %2$s</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Mégse</string>
+    <string name="play_store_description">"Download the latest release of the official Google Cloud Print app. With Cloud Print for Android you can: 
+
+* Print from any compatible Android device to any Google Cloud Print connected printer 
+* Share a picture or a document from apps like Gallery directly to Cloud Print 
+* Track the status of your print jobs 
+
+ Printing from Android has never been easier. 
+
+ The Google Cloud Print app is a print plugin on Android KitKat, and a standalone app on earlier versions of Android. If you update your device to KitKat, you may need to remove the icon manually."</string>
+    <string name="play_store_tagline">Nyomtathat androidos táblagépekről vagy okostelefonokról, bárhol is legyen.</string>
+    <string name="play_store_whats_new">"- The Google Cloud Print app is now a printing plugin on Android KitKat! 
+
+If you still see the icon after updating, feel free to remove it - printing is now built right into Android and your apps. You can change your Cloud Print settings any time from Settings → Printing → Cloud Print. 
+
+- New fresh look 
+- Bugfixes"</string>
+    <string name="privet_device_address">Cím:</string>
+    <string name="register">Regisztrálás</string>
+    <string name="registration_finished">A regisztrálás befejeződött</string>
+    <string name="please_confirm_registration_on_device">Kérjük, erősítse meg a regisztrációt az eszközön</string>
+</resources>

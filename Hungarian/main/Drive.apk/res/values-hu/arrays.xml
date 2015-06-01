@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ds_image_enhancement_method_names">
+        <item>Kikapcsolás</item>
+        <item>Automatikus</item>
+        <item>Fekete-fehér</item>
+        <item>Színes</item>
+        <item>Színes rajz</item>
+    </string-array>
+    <string-array name="ds_pdf_paper_size_names">
+        <item>US Letter</item>
+        <item>US Legal</item>
+        <item>US Tabloid</item>
+        <item>ISO A3</item>
+        <item>ISO A4</item>
+        <item>ISO A5</item>
+        <item>ISO B4</item>
+        <item>ISO B5</item>
+    </string-array>
+    <string-array name="ds_pdf_paper_orientation_names">
+        <item>Álló</item>
+        <item>Fekvő</item>
+        <item>Automatikus</item>
+    </string-array>
+    <string-array name="ds_jpeg_quality_names">
+        <item>Alacsony</item>
+        <item>Normál</item>
+        <item>Magas</item>
+    </string-array>
+    <string-array name="font_picker_heading_names">
+        <item>Normál szöveg</item>
+        <item>Cím</item>
+        <item>Alcím</item>
+        <item>1. címsor</item>
+        <item>2. címsor</item>
+        <item>3. címsor</item>
+        <item>4. címsor</item>
+        <item>5. címsor</item>
+        <item>6. címsor</item>
+    </string-array>
+    <array name="acp_color_grid_name_pairs" />
+    <string-array name="acp_color_group_names">
+        <item>Szürke</item>
+        <item>Vörösesbarna</item>
+        <item>Piros</item>
+        <item>Narancs</item>
+        <item>Sárga</item>
+        <item>Zöld</item>
+        <item>Ciánkék</item>
+        <item>Búzavirágkék</item>
+        <item>Kék</item>
+        <item>Ibolyaszín</item>
+        <item>Magenta</item>
+    </string-array>
+</resources>

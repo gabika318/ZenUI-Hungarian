@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reload_highlight_title">A könyv újratöltése</string>
+    <string name="reload_highlight_message">A könyvet frissítették. Kattintson ide a könyv újratöltéséhez.</string>
+    <string name="reload_highlight_button">Újratöltés</string>
+    <string name="welcome_title">Üdvözli Önt a MyDictionary Sync!</string>
+    <string name="welcome_msg">"Egyszerűen szinkronizálhatja a következő alkalmazásokon talált szójegyzékeket ASUS eszközei között:
+
+- MyDictionary
+- MyDictionary Dynamic Translate Box (EX:Browser)
+- MyLibrary
+
+"</string>
+    <string name="first_login_title">Első bejelentkezés</string>
+    <string name="first_login_msg">"Kérjük, jelentkezzen be Google-fiókja segítségével.
+"</string>
+    <string name="openid_validated_success">A MyDictionary Sync engedélyezése sikeresen megtörtént a bejelentkezés során.</string>
+    <string name="openid_validated_failed">A MyDictionary Sync engedélyezése nem történt meg a bejelentkezés során. Kérjük, próbálkozzon újra.</string>
+    <string name="network_problem">A hálózat nem érhető el. Kérjük, ellenőrizze a hálózati beállításokat.</string>
+    <string name="open_webpage_failed">A weboldal nem érhető el. Kérjük, próbálja meg később.</string>
+    <string name="choose_account">Fiók választása a MyDictionary Sync-hez</string>
+    <string name="dont_show_msg">Ne mutassa ezt az üzenetet újra</string>
+    <string name="agree_btn">Elfogadom</string>
+    <string name="loading_login_page">Bejelentkezési oldal betöltése...</string>
+    <string name="legal_title">MyDictionary Sync jogi közlemény</string>
+    <string name="legal_texts">&lt;b>Amikor bejelentkezik a MyDictionary Sync-re (\"Szolgáltatás\") Google-fiókja segítségével, Ön elfogadja, hogy az ASUS az OpenID alkalmazásával mentesíti Önt az alól, hogy külön bejelentkezési fiókokat kellene létrehoznia a különféle weboldalakhoz (\"OpenID\"). A Google az ASUS kérésére hitelesíti azokat, akik meglévő Google felhasználói fiókkal jelentkeznek be, és az ASUS-nak azonosítót küld, amely az Ön azonosítására szolgál.&lt;/b>&lt;br>&lt;br> &lt;b>Az ASUS személyes adatokat csak azután fog gyűjteni, hogy bejelentkezik és aktiválja a Szolgáltatást. Kérjük, ne töltse fel saját vagy harmadik fél személyes adatait a Szolgáltatáson keresztül, ilyen adatok egyebek között az orvosi vagy egészségügyi nyilvántartások, politikai vagy vallási meggyőződés, állítólagos vagy elkövetett bűncselekmények, bűnügyi nyilvántartásban való szereplés, szexuális beállítottság, nemi élet vagy genetikai információ, bankkártya- vagy pénzügyi információ, illetve olyan információ, amely harmadik fél jogát sérti, vagy akadályozza jogérvényesítését, beleértve, de nem kizárólag az információt, adatokat, szöveget, szoftvert, zenét, hangot, fényképet, grafikát, videót, üzeneteket, vagy más anyagokat. Az ASUS a személyes adatokat kizárólag az Ön által választott tevékenységekben történő részvétel rögzítése és támogatása céljából gyűjti össze, illetve használja fel. További tudnivalókért azzal kapcsolatban, hogy az ASUS miként használja fel személyes adatait, tekintse meg az &lt;a href=\"http://asus.com\">ASUS Adatkezelési szabályzatát&lt;/a>.&lt;/b></string>
+    <string name="app_name">Szótár</string>
+    <string name="xdict_no_detail_description">Nincs részletes leírás</string>
+    <string name="deutsch">Német</string>
+    <string name="chinese">Kínai</string>
+    <string name="english">Angol</string>
+    <string name="japanese">Japán</string>
+    <string name="italian">Olasz</string>
+    <string name="tip">A funkció használata előtt töltse le és telepítse az Android TextToSpeech funkcióját.</string>
+    <string name="warning">Figyelmeztetés</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Mégse</string>
+    <string name="xdict_translate_from">Fordítás erről:</string>
+    <string name="xdict_to">erre:</string>
+    <string name="xdict_english">angol</string>
+    <string name="no_search_history">Nincs keresési előzmény</string>
+    <string name="dict_about">Névjegy</string>
+    <string name="menu_show_history">Keresési előzmények</string>
+    <string name="menu_clear_history">Összes előzmény törlése</string>
+    <string name="no_find">Elnézést, nincs találat</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_description">A Party Link lehetővé teszi, hogy a közelben lévő eszközökhöz csatlakozzon és automatikusan megossza a képeket.</string>
+    <string name="checkbox_password">Jelszó beállítása</string>
+    <string name="join_group">Csatlakozás egy csoporthoz</string>
+    <string name="creategroup">Csoport létrehozása</string>
+    <string name="available_group">Elérhető csoportok</string>
+    <string name="party_on">Party Link BE.</string>
+    <string name="action_join">Csatlakozás</string>
+    <string name="action_scan">Keresés</string>
+    <string name="group_connect">%s csoporthoz csatlakozva</string>
+    <string name="group_create">%s csoport létrehozva</string>
+    <string name="no_groups">Nincs csoport</string>
+    <string name="set_password">Jelszó beállítása</string>
+    <string name="pw_description">A résztvevők csak a jelszó megadását követően csatlakozhatnak a csoporthoz.</string>
+    <string name="enter_pw">Jelszó megadása</string>
+    <string name="pw">Jelszó</string>
+    <string name="show_pw">Jelszó megjelenítése</string>
+    <string name="noti_timeout">Csatlakozási időtúllépés</string>
+    <string name="noti_create_failed">A csoport létrehozása nem sikerült</string>
+    <string name="noti_join_failed">Sikertelen csatlakozás a csoporthoz</string>
+    <string name="noti_discovery_failed">A csoport keresése nem sikerült</string>
+    <string name="noti_incorrect_pw">Hibás jelszó</string>
+    <string name="noti_wifip2p_unavailble">A Wi-Fi Direct nem elérhető BEKAPCSOLT Party Link mellett.</string>
+    <string name="noti_conneciton_off">Party Link KI.</string>
+    <string name="wifi_p2p_frequency_conflict_message">Az eszköz ideiglenesen bontja a Wi-Fi-kapcsolatot miközben ehhez kapcsolódik: %1$s</string>
+    <string name="photos_unread">%1$s fotó fogadva</string>
+    <string name="insufficient_storage">Party Link kevés tárhely</string>
+    <string name="unsupport_wifi_channel">A Wi-Fi ideiglenesen lekapcsolódik csoport létrehozása után.</string>
+    <string name="loading">Betöltés...</string>
+    <string name="notagain">Ne mutassa ezt az uzenetet ujra</string>
+    <string name="rename_dialog">Átnevezés</string>
+    <string name="one_photos_unread">1 fotó fogadva</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/HU/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/HU/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+</resources>

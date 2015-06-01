@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_mode_switch_title">Intelligens takarékosság</string>
+    <string name="optimization_enabled_notification_title">Az Intelligens takarékosság BE van kapcsolva</string>
+    <string name="optimization_enabled_notification_message">Optimalizálás az akkumulátor élettartamának megnöveléséhez</string>
+    <string name="service_mode_item_summary_optimization">Saját energiatakarékosságának személyre szabása helyzet szerint</string>
+    <string name="service_mode_item_title_my_preference">Energia konfiguráció</string>
+    <string name="service_mode_item_summary_my_preference">Saját energiatakarékosságának személyre szabása</string>
+    <string name="optimized_item_title_email_reading">E-mailek olvasása</string>
+    <string name="optimized_item_title_books_reading">Könyvek olvasása</string>
+    <string name="optimized_item_title_watch_videos">Videók megtekintése</string>
+    <string name="optimized_item_title_listening_music">Zenehallgatás</string>
+    <string name="optimized_item_title_phone_contacts">Telefon/Partnerek</string>
+    <string name="optimized_item_title_instant_messenger">IM (Skype)</string>
+    <string name="ctrl_item_title_brightness_adjustment">Fényerő beállítása</string>
+    <string name="ctrl_item_summary_brightness_adjustment">A jelenlegi fényerő-beállítás %s-a</string>
+    <string name="dialog_title_books_reading">Digitális könyvek olvasása melletti fényerő</string>
+    <string name="dialog_title_watch_videos">Videók megtekintése melletti fényerő</string>
+    <string name="dialog_title_listening_music">Zenehallgatás melletti fényerő</string>
+    <string name="switch_text_on">Be</string>
+    <string name="switch_text_off">Ki</string>
+    <string name="asus_power_saver">Energiatakarékos</string>
+    <string name="asus_power_saver_activity">Energiatakarékos</string>
+    <string name="ctrl_item_title_screen_brightness">Fényerő</string>
+    <string name="automatic_brightness">Automatikus fényerő</string>
+    <string name="wifi_setting_sleep_policy_title">Tartsa bekapcsolva a Wi-Fit alvás közben</string>
+    <string name="wifi_setting_sleep_policy_always">Mindig</string>
+    <string name="wifi_setting_sleep_policy_usb_plugged">Csak ha csatlakoztatva van</string>
+    <string name="wifi_setting_sleep_policy_never">Soha (növeli az adatforgalmat)</string>
+    <string name="ctrl_item_title_disconnect_network_when_sleep">Hálózati leválasztása alvó módban.</string>
+    <string name="ctrl_item_summary_disconnect_network_when_sleep">Felfüggeszti a hálózattal kapcsolatos feladatokat, mint pl. az e-mail szinkronizálás, ha a képernyő ki van kapcsolva, illetve folytatja a feladatokat, ha a képernyőt bekapcsolják.</string>
+    <string name="nofity_power_saving_is_off">Az Intelligens takarékosság KI van kapcsolva</string>
+    <string name="category_performance_mode">Teljesítmény mód</string>
+    <string name="the_summary_text_of_the_power_saving_control_on">Energiatakarékos</string>
+    <string name="the_summary_text_of_the_power_saving_control_off">Normál</string>
+    <string name="optimized_item_title_network_related_applicaiton">Az IM és a push-értesítsét használó egyéb alkalmazások</string>
+    <string name="optimized_item_summary_text_disconnect_network_on">A hálózati kapcsolat automatikus leválasztása, ha az eszköz alvó állapotban van, és folytatása amikor az eszköz felébred.</string>
+    <string name="optimized_item_summary_text_disconnect_network_off">Hálózati kapcsolat állandó fenntartása.</string>
+    <string name="the_description_to_list_the_most_im_applications">A push-értesítést használó alkalmazásokhoz, mint pl. E-mail, LINE, WhatsApp, Viber, Facebook, Messenger és Skype.</string>
+    <string name="never_show_this_again">Ne mutassa újra ezt az üzenetet</string>
+    <string name="optimized_item_title_browsing_websites">Weboldalak böngészése</string>
+    <string name="service_mode_item_title_performance">Optimalizált mód</string>
+    <string name="service_mode_item_title_optimization">Testreszabott mód</string>
+    <string name="service_mode_item_title_ultra">Ultra energiatakarékos mód</string>
+    <string name="service_mode_item_summary_ultra">Maximálisra növeli az akkumulátor működési idejét és bontja a hálózati kapcsolatot, ha az eszközt felfüggesztik</string>
+    <string name="dialog_body_disconnect_network_for_im_apps">"Az ASUS Power Saver lehetővé teszi eszköze akkumulátor működési idejének személyre szabását vagy optimalizálását ezekkel az opciókkal:
+"<b>1. Ultra energiatakarékos mód</b>" 
+"<b>2. Optimalizált mód</b>" 
+"<b>3. Testreszabott mód</b>" 
+ 
+Az ultra energiatakarékos mód hosszabb akku élettartamot biztosít. Bontja a hálózati kapcsolatot, ha az eszközt felfüggesztik. Azonnal fogadhat üzeneteket IM alkalmazások révén mint pl. LINE, WhatsApp és Hangouts."</string>
+    <string name="go_to_power_saver">Energiatakarékos mód bekapcsolása</string>
+    <string name="service_mode_item_summary_performance">Növeli az akkumulátor működési idejét és mindig fenntartja a hálózati kapcsolatot.</string>
+    <string name="battery_info_status_charging">Töltés</string>
+    <string name="battery_info_status_discharging">Lemerülés</string>
+    <string name="powerstatistics_app_name">Energia-felhasználási táblázat</string>
+    <string name="service_mode_item_title_disabled">Intelligens takarékosság kikapcsolva</string>
+</resources>
